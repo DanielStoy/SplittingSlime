@@ -1,0 +1,27 @@
+{"weapons":
+  [
+    {
+    "spawnarea":0,
+    "name": "RustySword",
+	  "strengthAdd": 1,
+	  "healthAdd": 1,
+	  "speedAdd": 1,
+	  "rangeAdd": 1,
+	  "carriedEnemies": ["Goblin"],
+		"cost": 10,
+		"typeOfWeap": 1
+    },
+	{
+	  "spawnarea": 1,
+	  "name": "SilverSword",
+	  "strengthAdd": 1,
+	  "healthAdd": 1,
+	  "speedAdd": 1,
+	  "rangeAdd": 1,
+	  "carriedEnemies": ["Ghoul"],
+		"cost": 3,
+		"typeOfWeap": 0
+	}
+  ]
+
+}

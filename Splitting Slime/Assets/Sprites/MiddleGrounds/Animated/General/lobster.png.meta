@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 4bb222b836f2ffa498fecc7b8b7dcf9a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5071766062666551965
+    second: lobster_0
+  - first:
+      213: 4482607768264251119
+    second: lobster_1
+  - first:
+      213: -2135524182158883058
+    second: lobster_2
+  - first:
+      213: -4566893765241057728
+    second: lobster_3
+  - first:
+      213: 3369447995093243020
+    second: lobster_4
+  - first:
+      213: 1397423819436993094
+    second: lobster_5
+  - first:
+      213: -3248917731122812594
+    second: lobster_6
+  - first:
+      213: -6352399155208346709
+    second: lobster_7
+  - first:
+      213: 2972115436196631649
+    second: lobster_8
+  - first:
+      213: 499763311732931638
+    second: lobster_9
+  - first:
+      213: -7737954979279950590
+    second: lobster_10
+  - first:
+      213: -6061742793860215826
+    second: lobster_11
+  - first:
+      213: -605303443780411067
+    second: lobster_0
+  - first:
+      213: -7061974319158686107
+    second: lobster_1
+  - first:
+      213: 1504713387815225092
+    second: lobster_2
+  - first:
+      213: -2920442724425981020
+    second: lobster_3
+  - first:
+      213: 1113685485224459397
+    second: lobster_4
+  - first:
+      213: -1899890829545235457
+    second: lobster_5
+  - first:
+      213: -1836861552250055029
+    second: lobster_6
+  - first:
+      213: -2091257397801391416
+    second: lobster_7
+  - first:
+      213: 4334604855425649060
+    second: lobster_8
+  - first:
+      213: -2834743578097757519
+    second: lobster_9
+  - first:
+      213: -8322472286864900548
+    second: lobster_10
+  - first:
+      213: 3346094889405990279
+    second: lobster_11
+  - first:
+      213: -7310352878665138312
+    second: lobster_12
+  - first:
+      213: -1420829648028963851
+    second: lobster_13
+  - first:
+      213: -6318465980330841810
+    second: lobster_14
+  - first:
+      213: 5213283281242853780
+    second: lobster_15
+  - first:
+      213: -7425396320627083081
+    second: lobster_16
+  - first:
+      213: 723116769574315729
+    second: lobster_17
+  - first:
+      213: 8752180727328121669
+    second: lobster_18
+  - first:
+      213: -1579365631056817288
+    second: lobster_19
+  - first:
+      213: 4203918756617087302
+    second: lobster_20
+  - first:
+      213: 5308469222384073098
+    second: lobster_21
+  - first:
+      213: -8193988525918932761
+    second: lobster_22
+  - first:
+      213: -5816558118046429925
+    second: lobster_23
+  - first:
+      213: -7627309880966833929
+    second: lobster_24
+  - first:
+      213: -320806022463953468
+    second: lobster_25
+  - first:
+      213: 4965763061785327459
+    second: lobster_26
+  - first:
+      213: -3637286556730418127
+    second: lobster_27
+  - first:
+      213: -3183970419133301766
+    second: lobster_28
+  - first:
+      213: -3507236402802925284
+    second: lobster_29
+  - first:
+      213: 1970706674757449925
+    second: lobster_30
+  - first:
+      213: -2802375654293647664
+    second: lobster_31
+  - first:
+      213: -810739188544212719
+    second: lobster_32
+  - first:
+      213: -9192327161729410587
+    second: lobster_33
+  - first:
+      213: -2311141607457113704
+    second: lobster_34
+  - first:
+      213: 565829494265995624
+    second: lobster_35
+  - first:
+      213: 2147587313246189745
+    second: lobster_36
+  - first:
+      213: -2755702019396666510
+    second: lobster_37
+  - first:
+      213: 9045984948399693391
+    second: lobster_38
+  - first:
+      213: 922324909109528578
+    second: lobster_39
+  - first:
+      213: -1501586265455021066
+    second: lobster_40
+  - first:
+      213: -7241630752656652558
+    second: lobster_41
+  - first:
+      213: -1222557453063005241
+    second: lobster_42
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lobster_0
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2026
+        width: 895
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541e52499b78997f0800000000000000
+      internalID: -605303443780411067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lobster_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1930
+        width: 895
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e8d9dc5c3defd90800000000000000
+      internalID: -7061974319158686107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lobster_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1011
+        width: 749
+        height: 857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40740899ad0d1e410800000000000000
+      internalID: 1504713387815225092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lobster_3
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1013
+        width: 733
+        height: 859
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a327b7b0d08877d0800000000000000
+      internalID: -2920442724425981020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lobster_4
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 942
+        width: 617
+        height: 928
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cff4a5c0b947f00800000000000000
+      internalID: 1113685485224459397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lobster_5
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 937
+        width: 678
+        height: 933
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb1fe84b5b32a5e0800000000000000
+      internalID: -1899890829545235457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lobster_6
+      rect:
+        serializedVersion: 2
+        x: 3016
+        y: 918
+        width: 694
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86109c76282286e0800000000000000
+      internalID: -1836861552250055029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lobster_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 24
+        width: 724
+        height: 928
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cae3260a7c5af2e0800000000000000
+      internalID: -2091257397801391416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lobster_8
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 18
+        width: 745
+        height: 925
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a94459762c972c30800000000000000
+      internalID: 4334604855425649060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lobster_9
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 764
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2d92e1cb7f8a8d0800000000000000
+      internalID: -2834743578097757519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lobster_10
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 14
+        width: 720
+        height: 896
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e7268ac83a08c80800000000000000
+      internalID: -8322472286864900548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lobster_11
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 6
+        width: 797
+        height: 928
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7854bc3d297bf6e20800000000000000
+      internalID: 3346094889405990279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a5f1048fccd57354baf2b522f5ac50ee
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

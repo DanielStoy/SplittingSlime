@@ -1,0 +1,427 @@
+fileFormatVersion: 2
+guid: 9fb0fe5424d77dd4d95f02671d69adef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1393676259592850181
+    second: potato enemy DEATH REALLY_0
+  - first:
+      213: -6606319349601437312
+    second: potato enemy DEATH REALLY_1
+  - first:
+      213: 2091456619421336958
+    second: potato enemy DEATH REALLY_2
+  - first:
+      213: 1856305961425885110
+    second: potato enemy DEATH REALLY_3
+  - first:
+      213: 5033373042071249461
+    second: potato enemy DEATH REALLY_4
+  - first:
+      213: -3108985355657930006
+    second: potato enemy DEATH REALLY_5
+  - first:
+      213: -1886756106809059907
+    second: potato enemy DEATH REALLY_6
+  - first:
+      213: 1102400154458121464
+    second: potato enemy DEATH REALLY_7
+  - first:
+      213: 386297900760491497
+    second: potato enemy DEATH REALLY_8
+  - first:
+      213: 8479315808161757514
+    second: potato enemy DEATH REALLY_9
+  - first:
+      213: -3271420752300323488
+    second: potato enemy DEATH REALLY_10
+  - first:
+      213: -6497041493272124383
+    second: potato enemy DEATH REALLY_11
+  - first:
+      213: -6720771399819252157
+    second: potato enemy DEATH REALLY_0
+  - first:
+      213: 5688578517058399834
+    second: potato enemy DEATH REALLY_1
+  - first:
+      213: -2933133363586318962
+    second: potato enemy DEATH REALLY_2
+  - first:
+      213: -4740866072101736230
+    second: potato enemy DEATH REALLY_3
+  - first:
+      213: -2687342902655393010
+    second: potato enemy DEATH REALLY_4
+  - first:
+      213: -1678951687114704485
+    second: potato enemy DEATH REALLY_5
+  - first:
+      213: -3690160586545089219
+    second: potato enemy DEATH REALLY_6
+  - first:
+      213: -7603079983639511560
+    second: potato enemy DEATH REALLY_7
+  - first:
+      213: -1867840261433799536
+    second: potato enemy DEATH REALLY_8
+  - first:
+      213: 2957649858640480598
+    second: potato enemy DEATH REALLY_9
+  - first:
+      213: 6217324036594597016
+    second: potato enemy DEATH REALLY_10
+  - first:
+      213: 5990970895179622064
+    second: potato enemy DEATH REALLY_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: potato enemy DEATH REALLY_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3076
+        width: 1020
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e2b2125060bb2a0800000000000000
+      internalID: -6720771399819252157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potato enemy DEATH REALLY_1
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 3076
+        width: 1020
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e2f2a9504e1fe40800000000000000
+      internalID: 5688578517058399834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potato enemy DEATH REALLY_2
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 3076
+        width: 1020
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d37980fba6b47d0800000000000000
+      internalID: -2933133363586318962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potato enemy DEATH REALLY_3
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 3076
+        width: 1020
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0bca4fc6f053eb0800000000000000
+      internalID: -4740866072101736230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potato enemy DEATH REALLY_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2056
+        width: 1020
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03ee814ed3a4bad0800000000000000
+      internalID: -2687342902655393010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potato enemy DEATH REALLY_5
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2056
+        width: 1020
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b993c76065a23b8e0800000000000000
+      internalID: -1678951687114704485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potato enemy DEATH REALLY_6
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2056
+        width: 1020
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3535d27f7ae9ccc0800000000000000
+      internalID: -3690160586545089219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potato enemy DEATH REALLY_7
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 2056
+        width: 1020
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdb848a90f6c7690800000000000000
+      internalID: -7603079983639511560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potato enemy DEATH REALLY_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1036
+        width: 1020
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cc010bd291416e0800000000000000
+      internalID: -1867840261433799536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potato enemy DEATH REALLY_9
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1036
+        width: 1020
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659004a40eeab0920800000000000000
+      internalID: 2957649858640480598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potato enemy DEATH REALLY_10
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1036
+        width: 1020
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cf7be354f584650800000000000000
+      internalID: 6217324036594597016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potato enemy DEATH REALLY_11
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1036
+        width: 1020
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6a2e2a944342350800000000000000
+      internalID: 5990970895179622064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f3f1d3333194683499de42ca7291bd79
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

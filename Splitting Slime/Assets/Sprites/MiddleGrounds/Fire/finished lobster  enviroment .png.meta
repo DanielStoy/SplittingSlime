@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: 05921b9cc7b046147b7cec564d882c6c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9158785724985347338
+    second: Buildings
+  - first:
+      213: -2476078124122336200
+    second: finished lobster  enviroment _1
+  - first:
+      213: 6035599140801670348
+    second: finished lobster  enviroment _2
+  - first:
+      213: -645765650357910675
+    second: finished lobster  enviroment _3
+  - first:
+      213: -2510671355108151163
+    second: finished lobster  enviroment _4
+  - first:
+      213: -3918419521532860974
+    second: finished lobster  enviroment _5
+  - first:
+      213: 1864004226313921111
+    second: finished lobster  enviroment _6
+  - first:
+      213: 7612743727939704847
+    second: finished lobster  enviroment _7
+  - first:
+      213: -740387816535071145
+    second: finished lobster  enviroment _8
+  - first:
+      213: 2732996490123776019
+    second: finished lobster  enviroment _9
+  - first:
+      213: -7743080146654399145
+    second: finished lobster  enviroment _10
+  - first:
+      213: -7751277066992697155
+    second: finished lobster  enviroment _11
+  - first:
+      213: 6069495198088293822
+    second: finished lobster  enviroment _12
+  - first:
+      213: -1366368374823732513
+    second: finished lobster  enviroment _13
+  - first:
+      213: 2969094940969373825
+    second: finished lobster  enviroment _14
+  - first:
+      213: -5224456334011517570
+    second: finished lobster  enviroment _15
+  - first:
+      213: -3782689823006707327
+    second: Hills
+  - first:
+      213: -2990683058018785871
+    second: Smoke
+  - first:
+      213: -3630817910623922293
+    second: finished lobster  enviroment _18
+  - first:
+      213: -7842812442907692454
+    second: finished lobster  enviroment _19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Buildings
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1561
+        width: 786
+        height: 564
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d8baf671b8a1f70800000000000000
+      internalID: 9158785724985347338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finished lobster  enviroment _1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 2124
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834929f901433add0800000000000000
+      internalID: -2476078124122336200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finished lobster  enviroment _2
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1676
+        width: 684
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccce22ac071c2c350800000000000000
+      internalID: 6035599140801670348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finished lobster  enviroment _3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1925
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63844aff87c907f0800000000000000
+      internalID: -645765650357910675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finished lobster  enviroment _4
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 1668
+        width: 680
+        height: 347
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580b70364bd482dd0800000000000000
+      internalID: -2510671355108151163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finished lobster  enviroment _5
+      rect:
+        serializedVersion: 2
+        x: 3065
+        y: 1647
+        width: 677
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5e312b43afe99c0800000000000000
+      internalID: -3918419521532860974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finished lobster  enviroment _6
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1903
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752a449c7f54ed910800000000000000
+      internalID: 1864004226313921111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finished lobster  enviroment _7
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1895
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08dde52616e5a960800000000000000
+      internalID: 7612743727939704847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finished lobster  enviroment _8
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1855
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756666f143d99b5f0800000000000000
+      internalID: -740387816535071145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finished lobster  enviroment _9
+      rect:
+        serializedVersion: 2
+        x: 3746
+        y: 1847
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3109736e3dd8de520800000000000000
+      internalID: 2732996490123776019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finished lobster  enviroment _10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1809
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755f84791ad0b8490800000000000000
+      internalID: -7743080146654399145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finished lobster  enviroment _11
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1068
+        width: 699
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0c44a539eed6490800000000000000
+      internalID: -7751277066992697155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finished lobster  enviroment _12
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1252
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdedff99bd2b3450800000000000000
+      internalID: 6069495198088293822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finished lobster  enviroment _13
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1019
+        width: 715
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdabd42d33fa90de0800000000000000
+      internalID: -1366368374823732513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finished lobster  enviroment _14
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 991
+        width: 720
+        height: 414
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18093ec2e18543920800000000000000
+      internalID: 2969094940969373825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finished lobster  enviroment _15
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 385
+        width: 754
+        height: 445
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7534b205a00f77b0800000000000000
+      internalID: -5224456334011517570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hills
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 196
+        width: 529
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1813334c5af218bc0800000000000000
+      internalID: -3782689823006707327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 63
+        width: 949
+        height: 669
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5e203aa95fe76d0800000000000000
+      internalID: -2990683058018785871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finished lobster  enviroment _18
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 0
+        width: 50
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b879221e85ebc9dc0800000000000000
+      internalID: -3630817910623922293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3b86f720eea090245a8eca2c5ce6e969
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

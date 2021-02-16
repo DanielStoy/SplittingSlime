@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: a4d676122f561aa4fa5f9fe545e3a421
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7250983869736724867
+    second: tree enemy walk cycle_0
+  - first:
+      213: 5954285730166472423
+    second: tree enemy walk cycle_1
+  - first:
+      213: 2559361232884569210
+    second: tree enemy walk cycle_2
+  - first:
+      213: 1211859215900571845
+    second: tree enemy walk cycle_3
+  - first:
+      213: -7814274376765949224
+    second: tree enemy walk cycle_4
+  - first:
+      213: 7505847968231988883
+    second: tree enemy walk cycle_5
+  - first:
+      213: -4288550794781235912
+    second: tree enemy walk cycle_6
+  - first:
+      213: -6369665531285936963
+    second: tree enemy walk cycle_7
+  - first:
+      213: 7860552092633174490
+    second: tree enemy walk cycle_0
+  - first:
+      213: -2132382747857192806
+    second: tree enemy walk cycle_1
+  - first:
+      213: -7738180772743497065
+    second: tree enemy walk cycle_2
+  - first:
+      213: -6093276857810164560
+    second: tree enemy walk cycle_3
+  - first:
+      213: -8409154217487836304
+    second: tree enemy walk cycle_4
+  - first:
+      213: 8147855610234003045
+    second: tree enemy walk cycle_5
+  - first:
+      213: 3879529696755003711
+    second: tree enemy walk cycle_6
+  - first:
+      213: -5879991585013316505
+    second: tree enemy walk cycle_7
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tree enemy walk cycle_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 655
+        width: 278
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad19ad33b7a461d60800000000000000
+      internalID: 7860552092633174490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree enemy walk cycle_1
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 658
+        width: 278
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98fccc40314862e0800000000000000
+      internalID: -2132382747857192806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree enemy walk cycle_2
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 669
+        width: 278
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79abdd8f5957c9490800000000000000
+      internalID: -7738180772743497065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree enemy walk cycle_3
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 671
+        width: 272
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4ed1c3bf4507ba0800000000000000
+      internalID: -6093276857810164560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree enemy walk cycle_4
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 186
+        width: 283
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bd825faceac4b80800000000000000
+      internalID: -8409154217487836304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree enemy walk cycle_5
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 183
+        width: 280
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56edb21228ff21170800000000000000
+      internalID: 8147855610234003045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree enemy walk cycle_6
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 184
+        width: 283
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3139ae54bbd6d530800000000000000
+      internalID: 3879529696755003711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree enemy walk cycle_7
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 206
+        width: 272
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764cef49ec2166ea0800000000000000
+      internalID: -5879991585013316505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c02a13e096128ab4294aed7632d9d993
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

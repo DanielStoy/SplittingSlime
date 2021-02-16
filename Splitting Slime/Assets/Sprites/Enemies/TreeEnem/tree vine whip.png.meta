@@ -1,0 +1,634 @@
+fileFormatVersion: 2
+guid: ae02a69b3063b624c903c9c123649ad5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1161189804546149163
+    second: tree vine whip_0
+  - first:
+      213: -5495257562680124106
+    second: tree vine whip_1
+  - first:
+      213: 440362231556622488
+    second: tree vine whip_2
+  - first:
+      213: -6171921537860374286
+    second: tree vine whip_3
+  - first:
+      213: 7207454348926065633
+    second: tree vine whip_4
+  - first:
+      213: 991874808626628371
+    second: tree vine whip_5
+  - first:
+      213: -1594549875357157504
+    second: tree vine whip_6
+  - first:
+      213: 8613822806357789741
+    second: tree vine whip_7
+  - first:
+      213: 3109802790288393847
+    second: tree vine whip_8
+  - first:
+      213: 3362681879206603722
+    second: tree vine whip_9
+  - first:
+      213: 6929219266130830691
+    second: tree vine whip_10
+  - first:
+      213: -2403078242191917951
+    second: tree vine whip_11
+  - first:
+      213: 5194818118297862520
+    second: tree vine whip_12
+  - first:
+      213: -5641293302391601182
+    second: tree vine whip_13
+  - first:
+      213: -2439451810253458048
+    second: tree vine whip_14
+  - first:
+      213: 3888676910500925840
+    second: tree vine whip_15
+  - first:
+      213: -1128626047237997254
+    second: tree vine whip_16
+  - first:
+      213: 2845455711378322931
+    second: tree vine whip_17
+  - first:
+      213: -8644708239110284163
+    second: tree vine whip_18
+  - first:
+      213: 4526083492668968043
+    second: tree vine whip_19
+  - first:
+      213: 4340886019466890611
+    second: tree vine whip_20
+  - first:
+      213: -3217488514379573512
+    second: tree vine whip_21
+  - first:
+      213: -2530898788107557587
+    second: tree vine whip_22
+  - first:
+      213: 3689159222998191734
+    second: tree vine whip_23
+  - first:
+      213: 5695937987517021099
+    second: tree vine whip_24
+  - first:
+      213: -5451321686099595461
+    second: tree vine whip_25
+  - first:
+      213: -4226857931897707669
+    second: tree vine whip_26
+  - first:
+      213: -3227749219965911079
+    second: tree vine whip_27
+  - first:
+      213: -6544185303886512835
+    second: tree vine whip_28
+  - first:
+      213: -7910199758772459623
+    second: tree vine whip_29
+  - first:
+      213: -721392258773230844
+    second: tree vine whip_30
+  - first:
+      213: -9150912278899931146
+    second: tree vine whip_31
+  - first:
+      213: 7165429233239468892
+    second: tree vine whip_32
+  - first:
+      213: 1378046519746852506
+    second: tree vine whip_33
+  - first:
+      213: 1045107181085879192
+    second: tree vine whip_34
+  - first:
+      213: -2558875897087532542
+    second: tree vine whip_35
+  - first:
+      213: 6674444707579499035
+    second: tree vine whip_36
+  - first:
+      213: 1868472591091746919
+    second: tree vine whip_37
+  - first:
+      213: 7782474002276467250
+    second: tree vine whip_38
+  - first:
+      213: 6843893869571650854
+    second: tree vine whip_39
+  - first:
+      213: -3636922680074725491
+    second: tree vine whip_40
+  - first:
+      213: 7945630665363906637
+    second: tree vine whip_41
+  - first:
+      213: 7479283172743953684
+    second: tree vine whip_42
+  - first:
+      213: 1927551106388315943
+    second: tree vine whip_43
+  - first:
+      213: 235493154858288408
+    second: tree vine whip_44
+  - first:
+      213: 2660252889570183048
+    second: tree vine whip_45
+  - first:
+      213: 8255222352735257998
+    second: tree vine whip_46
+  - first:
+      213: 8181389932363133513
+    second: tree vine whip_47
+  - first:
+      213: 4976018188652138987
+    second: tree vine whip_48
+  - first:
+      213: 9202728610099904349
+    second: tree vine whip_0
+  - first:
+      213: -7664288724052633733
+    second: tree vine whip_1
+  - first:
+      213: -5993373492426953063
+    second: tree vine whip_2
+  - first:
+      213: 69647158090185889
+    second: tree vine whip_3
+  - first:
+      213: 5823489692703090462
+    second: tree vine whip_4
+  - first:
+      213: 3233825235666840967
+    second: tree vine whip_5
+  - first:
+      213: 944348664570393681
+    second: tree vine whip_6
+  - first:
+      213: 6836421259635487628
+    second: tree vine whip_7
+  - first:
+      213: 3628611740616381032
+    second: tree vine whip_8
+  - first:
+      213: -7083451133330882303
+    second: tree vine whip_9
+  - first:
+      213: -2117883148738606091
+    second: tree vine whip_10
+  - first:
+      213: -5953398416305590690
+    second: tree vine whip_11
+  - first:
+      213: -5931477636531720076
+    second: tree vine whip_12
+  - first:
+      213: 2438727679636657165
+    second: tree vine whip_13
+  - first:
+      213: -1497565548298026341
+    second: tree vine whip_14
+  - first:
+      213: 4062414679289283055
+    second: tree vine whip_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 230
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tree vine whip_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.575, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f3459a9e8a6bf70800000000000000
+      internalID: 9202728610099904349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree vine whip_1
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.6, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b779fca330af2a590800000000000000
+      internalID: -7664288724052633733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree vine whip_2
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.6, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e26a9109243dca0800000000000000
+      internalID: -5993373492426953063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree vine whip_3
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3067
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.6, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acb495a8bf67f000800000000000000
+      internalID: 69647158090185889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree vine whip_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 1024
+        height: 1018
+      alignment: 9
+      pivot: {x: 0.575, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1767b6750131d050800000000000000
+      internalID: 5823489692703090462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree vine whip_5
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 1024
+        height: 1018
+      alignment: 9
+      pivot: {x: 0.615, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dad951bead0ec20800000000000000
+      internalID: 3233825235666840967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree vine whip_6
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 1024
+        height: 1018
+      alignment: 9
+      pivot: {x: 0.65, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15435d76b100b1d00800000000000000
+      internalID: 944348664570393681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree vine whip_7
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 1024
+        height: 1018
+      alignment: 9
+      pivot: {x: 0.65, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83708b2ae8dfde50800000000000000
+      internalID: 6836421259635487628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree vine whip_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 1024
+        height: 1018
+      alignment: 9
+      pivot: {x: 0.685, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8625043272b6b5230800000000000000
+      internalID: 3628611740616381032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree vine whip_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1029
+        width: 1024
+        height: 1015
+      alignment: 9
+      pivot: {x: 0.65, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10189f559b682bd90800000000000000
+      internalID: -7083451133330882303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree vine whip_10
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 1024
+        height: 1018
+      alignment: 9
+      pivot: {x: 0.675, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb46ab4f74cb92e0800000000000000
+      internalID: -2117883148738606091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree vine whip_11
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 1024
+        height: 1018
+      alignment: 9
+      pivot: {x: 0.69, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e6bbdcea7416da0800000000000000
+      internalID: -5953398416305590690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree vine whip_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 1018
+      alignment: 9
+      pivot: {x: 0.69, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4707a5114882fada0800000000000000
+      internalID: -5931477636531720076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree vine whip_13
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 0
+        width: 1024
+        height: 1018
+      alignment: 9
+      pivot: {x: 0.655, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04d7a857e918d120800000000000000
+      internalID: 2438727679636657165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree vine whip_14
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 1024
+        height: 1018
+      alignment: 9
+      pivot: {x: 0.685, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9245d97114973be0800000000000000
+      internalID: -1497565548298026341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree vine whip_15
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 1024
+        height: 1018
+      alignment: 9
+      pivot: {x: 0.685, y: 0.475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1ce5190a8906830800000000000000
+      internalID: 4062414679289283055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bf8b388cb8a3244489c8f16f5ca400df
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

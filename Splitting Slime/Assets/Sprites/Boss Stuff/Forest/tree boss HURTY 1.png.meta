@@ -1,0 +1,4951 @@
+fileFormatVersion: 2
+guid: 685f7e88c192c3345ad5d8964fa68a2d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1160417675692092026
+    second: tree boss HURTY 1_0
+  - first:
+      213: -4235449495721227348
+    second: tree boss HURTY 1_1
+  - first:
+      213: 4630395116552113527
+    second: tree boss HURTY 1_2
+  - first:
+      213: 470721585489788063
+    second: tree boss HURTY 1_3
+  - first:
+      213: -1931547484441098277
+    second: tree boss HURTY 1_0
+  - first:
+      213: 8050978207717390271
+    second: tree boss HURTY 1_1
+  - first:
+      213: 6384007084212516633
+    second: tree boss HURTY 1_2
+  - first:
+      213: 396019148714686182
+    second: tree boss HURTY 1_3
+  - first:
+      213: -6088576886639618503
+    second: tree boss HURTY 1_4
+  - first:
+      213: 6518438794445212069
+    second: tree boss HURTY 1_5
+  - first:
+      213: 7101333938381686291
+    second: tree boss HURTY 1_6
+  - first:
+      213: 322220593209497305
+    second: tree boss HURTY 1_7
+  - first:
+      213: -2724358885930706050
+    second: tree boss HURTY 1_8
+  - first:
+      213: -6073369653600230957
+    second: tree boss HURTY 1_9
+  - first:
+      213: -7263335058877727183
+    second: tree boss HURTY 1_10
+  - first:
+      213: 5114932801217910349
+    second: tree boss HURTY 1_11
+  - first:
+      213: 1087789368220361268
+    second: tree boss HURTY 1_12
+  - first:
+      213: -5340222557568988348
+    second: tree boss HURTY 1_13
+  - first:
+      213: -5991366905001248708
+    second: tree boss HURTY 1_14
+  - first:
+      213: -6208611662463965574
+    second: tree boss HURTY 1_15
+  - first:
+      213: -2236000891536621181
+    second: tree boss HURTY 1_16
+  - first:
+      213: -505184741879098551
+    second: tree boss HURTY 1_17
+  - first:
+      213: -6181741327433656562
+    second: tree boss HURTY 1_18
+  - first:
+      213: 1954061523228612479
+    second: tree boss HURTY 1_19
+  - first:
+      213: 4429666095751311533
+    second: tree boss HURTY 1_20
+  - first:
+      213: 5077761483970489029
+    second: tree boss HURTY 1_21
+  - first:
+      213: -7219208954498145796
+    second: tree boss HURTY 1_22
+  - first:
+      213: 130228464091640482
+    second: tree boss HURTY 1_23
+  - first:
+      213: -1849708561145977856
+    second: tree boss HURTY 1_24
+  - first:
+      213: 3734875522440078446
+    second: tree boss HURTY 1_25
+  - first:
+      213: 6737743389262237309
+    second: tree boss HURTY 1_26
+  - first:
+      213: -2310788891036718830
+    second: tree boss HURTY 1_27
+  - first:
+      213: 4528199310342895386
+    second: tree boss HURTY 1_28
+  - first:
+      213: -2536595174126686490
+    second: tree boss HURTY 1_29
+  - first:
+      213: -4249862776180111681
+    second: tree boss HURTY 1_30
+  - first:
+      213: -4651449873848029112
+    second: tree boss HURTY 1_31
+  - first:
+      213: 7449597497188124161
+    second: tree boss HURTY 1_32
+  - first:
+      213: 3401421211015703941
+    second: tree boss HURTY 1_33
+  - first:
+      213: 7425217441545534354
+    second: tree boss HURTY 1_34
+  - first:
+      213: 6780424544616164941
+    second: tree boss HURTY 1_35
+  - first:
+      213: 6135352464921428819
+    second: tree boss HURTY 1_36
+  - first:
+      213: 4793539786013975156
+    second: tree boss HURTY 1_37
+  - first:
+      213: -2987327938201585216
+    second: tree boss HURTY 1_38
+  - first:
+      213: 798332213081940851
+    second: tree boss HURTY 1_39
+  - first:
+      213: 8680585988262268153
+    second: tree boss HURTY 1_40
+  - first:
+      213: -7172102189378873986
+    second: tree boss HURTY 1_41
+  - first:
+      213: -602524203796253228
+    second: tree boss HURTY 1_42
+  - first:
+      213: 2863349598181403096
+    second: tree boss HURTY 1_43
+  - first:
+      213: 7958395056423963321
+    second: tree boss HURTY 1_44
+  - first:
+      213: -2147987676783874770
+    second: tree boss HURTY 1_45
+  - first:
+      213: -8901849466600427325
+    second: tree boss HURTY 1_46
+  - first:
+      213: -8232160500651493681
+    second: tree boss HURTY 1_47
+  - first:
+      213: 3891831599814034163
+    second: tree boss HURTY 1_48
+  - first:
+      213: -1927442550910373138
+    second: tree boss HURTY 1_49
+  - first:
+      213: 3835792940297986650
+    second: tree boss HURTY 1_50
+  - first:
+      213: 353080344650920237
+    second: tree boss HURTY 1_51
+  - first:
+      213: 5808385127330359311
+    second: tree boss HURTY 1_52
+  - first:
+      213: 4162181651357750748
+    second: tree boss HURTY 1_53
+  - first:
+      213: -510167668690807225
+    second: tree boss HURTY 1_54
+  - first:
+      213: -1473920980511789268
+    second: tree boss HURTY 1_55
+  - first:
+      213: -8563068706344056307
+    second: tree boss HURTY 1_56
+  - first:
+      213: 4144521014513725604
+    second: tree boss HURTY 1_57
+  - first:
+      213: -4700451196991366175
+    second: tree boss HURTY 1_58
+  - first:
+      213: -7508106301833641626
+    second: tree boss HURTY 1_59
+  - first:
+      213: 2534191219315351275
+    second: tree boss HURTY 1_60
+  - first:
+      213: -3684450806763466028
+    second: tree boss HURTY 1_61
+  - first:
+      213: 1702128848349462251
+    second: tree boss HURTY 1_62
+  - first:
+      213: -2567316450014683998
+    second: tree boss HURTY 1_63
+  - first:
+      213: -178967124319362185
+    second: tree boss HURTY 1_64
+  - first:
+      213: 1684670070730388106
+    second: tree boss HURTY 1_65
+  - first:
+      213: -6443222374804912523
+    second: tree boss HURTY 1_66
+  - first:
+      213: 1378706880918569410
+    second: tree boss HURTY 1_67
+  - first:
+      213: 15473691396587295
+    second: tree boss HURTY 1_68
+  - first:
+      213: 3856725330439182597
+    second: tree boss HURTY 1_69
+  - first:
+      213: -1261243818117709083
+    second: tree boss HURTY 1_70
+  - first:
+      213: 551117818526744631
+    second: tree boss HURTY 1_71
+  - first:
+      213: -2616058828508939408
+    second: tree boss HURTY 1_72
+  - first:
+      213: 8673819589923082297
+    second: tree boss HURTY 1_73
+  - first:
+      213: 4580878604425517914
+    second: tree boss HURTY 1_74
+  - first:
+      213: 1189921830114457059
+    second: tree boss HURTY 1_75
+  - first:
+      213: 851289935300190954
+    second: tree boss HURTY 1_76
+  - first:
+      213: -7016709870413207624
+    second: tree boss HURTY 1_77
+  - first:
+      213: 8490763908059459857
+    second: tree boss HURTY 1_78
+  - first:
+      213: 485478644022352874
+    second: tree boss HURTY 1_79
+  - first:
+      213: -2289574698343843448
+    second: tree boss HURTY 1_80
+  - first:
+      213: 6156339044710826071
+    second: tree boss HURTY 1_81
+  - first:
+      213: 4568439424551603575
+    second: tree boss HURTY 1_82
+  - first:
+      213: -6101528361915928311
+    second: tree boss HURTY 1_83
+  - first:
+      213: 3242759781672731009
+    second: tree boss HURTY 1_84
+  - first:
+      213: 386691770148488179
+    second: tree boss HURTY 1_85
+  - first:
+      213: -1953141037932646112
+    second: tree boss HURTY 1_86
+  - first:
+      213: -4206074469667527072
+    second: tree boss HURTY 1_87
+  - first:
+      213: 1164635931766207904
+    second: tree boss HURTY 1_88
+  - first:
+      213: -2409048782607169189
+    second: tree boss HURTY 1_89
+  - first:
+      213: 1910824394477109157
+    second: tree boss HURTY 1_90
+  - first:
+      213: 1835741652728587767
+    second: tree boss HURTY 1_91
+  - first:
+      213: 6755553069180835771
+    second: tree boss HURTY 1_92
+  - first:
+      213: 4225762698524150918
+    second: tree boss HURTY 1_93
+  - first:
+      213: -6704421530930566503
+    second: tree boss HURTY 1_94
+  - first:
+      213: 2309210508509037331
+    second: tree boss HURTY 1_95
+  - first:
+      213: 2678698576194919882
+    second: tree boss HURTY 1_96
+  - first:
+      213: 4129659732820842437
+    second: tree boss HURTY 1_97
+  - first:
+      213: -3909192784723120663
+    second: tree boss HURTY 1_98
+  - first:
+      213: 85359622764185530
+    second: tree boss HURTY 1_99
+  - first:
+      213: 4006799086959569654
+    second: tree boss HURTY 1_100
+  - first:
+      213: 6721557395395988240
+    second: tree boss HURTY 1_101
+  - first:
+      213: -9182000169536904691
+    second: tree boss HURTY 1_102
+  - first:
+      213: 6429732324123903349
+    second: tree boss HURTY 1_103
+  - first:
+      213: -8231602917825502475
+    second: tree boss HURTY 1_104
+  - first:
+      213: -46624657539222339
+    second: tree boss HURTY 1_105
+  - first:
+      213: -5651577969945579960
+    second: tree boss HURTY 1_106
+  - first:
+      213: -3193153810678410107
+    second: tree boss HURTY 1_107
+  - first:
+      213: -8776961657047189378
+    second: tree boss HURTY 1_108
+  - first:
+      213: 1990011692658183912
+    second: tree boss HURTY 1_109
+  - first:
+      213: 404933539282692999
+    second: tree boss HURTY 1_110
+  - first:
+      213: 6711982858518697268
+    second: tree boss HURTY 1_111
+  - first:
+      213: -7115870533406994746
+    second: tree boss HURTY 1_112
+  - first:
+      213: 667004549639318762
+    second: tree boss HURTY 1_113
+  - first:
+      213: 2525342264103316918
+    second: tree boss HURTY 1_114
+  - first:
+      213: 7956617297471429430
+    second: tree boss HURTY 1_115
+  - first:
+      213: -200044894406918271
+    second: tree boss HURTY 1_116
+  - first:
+      213: 49490022813055752
+    second: tree boss HURTY 1_117
+  - first:
+      213: -7727921340435266007
+    second: tree boss HURTY 1_118
+  - first:
+      213: -3729975931521090136
+    second: tree boss HURTY 1_119
+  - first:
+      213: -5468439333076751761
+    second: tree boss HURTY 1_120
+  - first:
+      213: -176192696958557166
+    second: tree boss HURTY 1_121
+  - first:
+      213: 2368190647778180035
+    second: tree boss HURTY 1_122
+  - first:
+      213: -970488929190970605
+    second: tree boss HURTY 1_123
+  - first:
+      213: 3848249681971526802
+    second: tree boss HURTY 1_124
+  - first:
+      213: 1832363241843519924
+    second: tree boss HURTY 1_125
+  - first:
+      213: -3074645154964589040
+    second: tree boss HURTY 1_126
+  - first:
+      213: 6979409721306981686
+    second: tree boss HURTY 1_127
+  - first:
+      213: -5878240211157176868
+    second: tree boss HURTY 1_128
+  - first:
+      213: 1302555282568254641
+    second: tree boss HURTY 1_129
+  - first:
+      213: 2618846846328930831
+    second: tree boss HURTY 1_130
+  - first:
+      213: 1422670051836711403
+    second: tree boss HURTY 1_131
+  - first:
+      213: 751738217434893316
+    second: tree boss HURTY 1_132
+  - first:
+      213: -365308801493316895
+    second: tree boss HURTY 1_133
+  - first:
+      213: -7481499094342357596
+    second: tree boss HURTY 1_134
+  - first:
+      213: 9071358110020026288
+    second: tree boss HURTY 1_135
+  - first:
+      213: -3775442106348400620
+    second: tree boss HURTY 1_136
+  - first:
+      213: -2273093173987710548
+    second: tree boss HURTY 1_137
+  - first:
+      213: -2216624282278235845
+    second: tree boss HURTY 1_138
+  - first:
+      213: -7219505082283519111
+    second: tree boss HURTY 1_139
+  - first:
+      213: -7589687790701148350
+    second: tree boss HURTY 1_140
+  - first:
+      213: -4872600409601740293
+    second: tree boss HURTY 1_141
+  - first:
+      213: -4742022224677829800
+    second: tree boss HURTY 1_142
+  - first:
+      213: -4001913435774171715
+    second: tree boss HURTY 1_143
+  - first:
+      213: -2607685435198548695
+    second: tree boss HURTY 1_144
+  - first:
+      213: 5005465768043062319
+    second: tree boss HURTY 1_145
+  - first:
+      213: 7084405157874686166
+    second: tree boss HURTY 1_146
+  - first:
+      213: -1574775748287469416
+    second: tree boss HURTY 1_147
+  - first:
+      213: 1513314546256975538
+    second: tree boss HURTY 1_148
+  - first:
+      213: 6819394008305987979
+    second: tree boss HURTY 1_149
+  - first:
+      213: -8659043467867229242
+    second: tree boss HURTY 1_150
+  - first:
+      213: -8669232608923539567
+    second: tree boss HURTY 1_151
+  - first:
+      213: 5016800526044827055
+    second: tree boss HURTY 1_152
+  - first:
+      213: 6417734764006238372
+    second: tree boss HURTY 1_153
+  - first:
+      213: -4149699328648036119
+    second: tree boss HURTY 1_154
+  - first:
+      213: 7641914816303457483
+    second: tree boss HURTY 1_155
+  - first:
+      213: 1762796759521938924
+    second: tree boss HURTY 1_156
+  - first:
+      213: 958602452063662200
+    second: tree boss HURTY 1_157
+  - first:
+      213: -316635841991327434
+    second: tree boss HURTY 1_158
+  - first:
+      213: 4594001143034989446
+    second: tree boss HURTY 1_159
+  - first:
+      213: 7941754449057875615
+    second: tree boss HURTY 1_160
+  - first:
+      213: -7530115018969848148
+    second: tree boss HURTY 1_161
+  - first:
+      213: -6219186567270724542
+    second: tree boss HURTY 1_162
+  - first:
+      213: 2404500007947719524
+    second: tree boss HURTY 1_163
+  - first:
+      213: -7886995990112736910
+    second: tree boss HURTY 1_164
+  - first:
+      213: 3709395358028841570
+    second: tree boss HURTY 1_165
+  - first:
+      213: 2307414937571661585
+    second: tree boss HURTY 1_166
+  - first:
+      213: 6244909441613150098
+    second: tree boss HURTY 1_167
+  - first:
+      213: 5416816434515484791
+    second: tree boss HURTY 1_168
+  - first:
+      213: -1442200696018859078
+    second: tree boss HURTY 1_169
+  - first:
+      213: -8168926564003417658
+    second: tree boss HURTY 1_170
+  - first:
+      213: -6095291828555649874
+    second: tree boss HURTY 1_171
+  - first:
+      213: 1211169264013844897
+    second: tree boss HURTY 1_172
+  - first:
+      213: 6351440303270692308
+    second: tree boss HURTY 1_173
+  - first:
+      213: -2805663706300894721
+    second: tree boss HURTY 1_174
+  - first:
+      213: 3341228894096123672
+    second: tree boss HURTY 1_175
+  - first:
+      213: -4420010888468214768
+    second: tree boss HURTY 1_176
+  - first:
+      213: 2039759394576725965
+    second: tree boss HURTY 1_177
+  - first:
+      213: -8071716412794135405
+    second: tree boss HURTY 1_178
+  - first:
+      213: -2833778913024815001
+    second: tree boss HURTY 1_179
+  - first:
+      213: 3208779107651567239
+    second: tree boss HURTY 1_180
+  - first:
+      213: -2014026544916846594
+    second: tree boss HURTY 1_181
+  - first:
+      213: -5478207117472987185
+    second: tree boss HURTY 1_182
+  - first:
+      213: 2604672566126431521
+    second: tree boss HURTY 1_183
+  - first:
+      213: 5240619663358327984
+    second: tree boss HURTY 1_184
+  - first:
+      213: -2381003169473332934
+    second: tree boss HURTY 1_185
+  - first:
+      213: 6693946197286015404
+    second: tree boss HURTY 1_186
+  - first:
+      213: 7896781477115490443
+    second: tree boss HURTY 1_187
+  - first:
+      213: -5760273248498408249
+    second: tree boss HURTY 1_188
+  - first:
+      213: -7134224089646749107
+    second: tree boss HURTY 1_189
+  - first:
+      213: -8553743223948851235
+    second: tree boss HURTY 1_190
+  - first:
+      213: -1474598750714576138
+    second: tree boss HURTY 1_191
+  - first:
+      213: 3508305192419625777
+    second: tree boss HURTY 1_192
+  - first:
+      213: -3756878372936961281
+    second: tree boss HURTY 1_193
+  - first:
+      213: 3992957501348586780
+    second: tree boss HURTY 1_194
+  - first:
+      213: -5772168535996076023
+    second: tree boss HURTY 1_195
+  - first:
+      213: 8473357702687647968
+    second: tree boss HURTY 1_196
+  - first:
+      213: -4143750511395092999
+    second: tree boss HURTY 1_197
+  - first:
+      213: 4262995132282041641
+    second: tree boss HURTY 1_198
+  - first:
+      213: 5228961572653455319
+    second: tree boss HURTY 1_199
+  - first:
+      213: 5195133919189046050
+    second: tree boss HURTY 1_200
+  - first:
+      213: 6207574934187401271
+    second: tree boss HURTY 1_201
+  - first:
+      213: 3091048824630285521
+    second: tree boss HURTY 1_202
+  - first:
+      213: 5628715325698460120
+    second: tree boss HURTY 1_203
+  - first:
+      213: 2211198122849077397
+    second: tree boss HURTY 1_204
+  - first:
+      213: -6090380109013237441
+    second: tree boss HURTY 1_205
+  - first:
+      213: -9214580867689002726
+    second: tree boss HURTY 1_206
+  - first:
+      213: -4751544749755421149
+    second: tree boss HURTY 1_207
+  - first:
+      213: -1621854279836567648
+    second: tree boss HURTY 1_208
+  - first:
+      213: -5705961846494598327
+    second: tree boss HURTY 1_209
+  - first:
+      213: 1327598021199866079
+    second: tree boss HURTY 1_210
+  - first:
+      213: -1916285985275073608
+    second: tree boss HURTY 1_211
+  - first:
+      213: -7891301440931624439
+    second: tree boss HURTY 1_212
+  - first:
+      213: -6015454207644405471
+    second: tree boss HURTY 1_213
+  - first:
+      213: -3136656199840786766
+    second: tree boss HURTY 1_214
+  - first:
+      213: -7852499474086751918
+    second: tree boss HURTY 1_215
+  - first:
+      213: -1386600841987199323
+    second: tree boss HURTY 1_216
+  - first:
+      213: -2112136865291958079
+    second: tree boss HURTY 1_217
+  - first:
+      213: 6912166861243548753
+    second: tree boss HURTY 1_218
+  - first:
+      213: -1742951509160005046
+    second: tree boss HURTY 1_219
+  - first:
+      213: -7246347820322063774
+    second: tree boss HURTY 1_220
+  - first:
+      213: -4783796984161915045
+    second: tree boss HURTY 1_221
+  - first:
+      213: -2212038795704816189
+    second: tree boss HURTY 1_222
+  - first:
+      213: -4490905357493558951
+    second: tree boss HURTY 1_223
+  - first:
+      213: 1739115378034981634
+    second: tree boss HURTY 1_224
+  - first:
+      213: 1169224780024337159
+    second: tree boss HURTY 1_225
+  - first:
+      213: -8279590534784736515
+    second: tree boss HURTY 1_226
+  - first:
+      213: -1974213623103624648
+    second: tree boss HURTY 1_227
+  - first:
+      213: 8294516203927362607
+    second: tree boss HURTY 1_228
+  - first:
+      213: -2742990388446764808
+    second: tree boss HURTY 1_229
+  - first:
+      213: -8493329649718080474
+    second: tree boss HURTY 1_230
+  - first:
+      213: 4804651937445177868
+    second: tree boss HURTY 1_231
+  - first:
+      213: 4656208966682472102
+    second: tree boss HURTY 1_232
+  - first:
+      213: -4496701842875360269
+    second: tree boss HURTY 1_233
+  - first:
+      213: 4278419771379124247
+    second: tree boss HURTY 1_234
+  - first:
+      213: -5482281023701403780
+    second: tree boss HURTY 1_235
+  - first:
+      213: -556470086171821626
+    second: tree boss HURTY 1_236
+  - first:
+      213: -1387711084259764784
+    second: tree boss HURTY 1_237
+  - first:
+      213: -2267916333352391643
+    second: tree boss HURTY 1_238
+  - first:
+      213: -7384296193762829681
+    second: tree boss HURTY 1_239
+  - first:
+      213: -1641738058416486381
+    second: tree boss HURTY 1_240
+  - first:
+      213: 2149739078875704290
+    second: tree boss HURTY 1_241
+  - first:
+      213: 8019315460072573126
+    second: tree boss HURTY 1_242
+  - first:
+      213: -4918853995732478027
+    second: tree boss HURTY 1_243
+  - first:
+      213: -8128019443224069162
+    second: tree boss HURTY 1_244
+  - first:
+      213: 196887696562544920
+    second: tree boss HURTY 1_245
+  - first:
+      213: -5725222702001441945
+    second: tree boss HURTY 1_246
+  - first:
+      213: -7516764203768285859
+    second: tree boss HURTY 1_247
+  - first:
+      213: -5968863792972209282
+    second: tree boss HURTY 1_248
+  - first:
+      213: 3998749188157850204
+    second: tree boss HURTY 1_249
+  - first:
+      213: 8838151996284935310
+    second: tree boss HURTY 1_250
+  - first:
+      213: 3297338049442540584
+    second: tree boss HURTY 1_251
+  - first:
+      213: 8770515723564484096
+    second: tree boss HURTY 1_252
+  - first:
+      213: 5297662914796745557
+    second: tree boss HURTY 1_253
+  - first:
+      213: 8745977163459537473
+    second: tree boss HURTY 1_254
+  - first:
+      213: -7437703120252946050
+    second: tree boss HURTY 1_255
+  - first:
+      213: 677322145073550617
+    second: tree boss HURTY 1_256
+  - first:
+      213: 6363542614203923294
+    second: tree boss HURTY 1_257
+  - first:
+      213: -1627605069577902046
+    second: tree boss HURTY 1_258
+  - first:
+      213: -5572339855896499289
+    second: tree boss HURTY 1_259
+  - first:
+      213: -7020225521044779885
+    second: tree boss HURTY 1_260
+  - first:
+      213: -51635734987133187
+    second: tree boss HURTY 1_261
+  - first:
+      213: -5995792383944810147
+    second: tree boss HURTY 1_262
+  - first:
+      213: 6804897515852042669
+    second: tree boss HURTY 1_263
+  - first:
+      213: 2420981233622719825
+    second: tree boss HURTY 1_264
+  - first:
+      213: 362047664245598080
+    second: tree boss HURTY 1_265
+  - first:
+      213: -5064069293178886404
+    second: tree boss HURTY 1_266
+  - first:
+      213: -8486521205421595614
+    second: tree boss HURTY 1_267
+  - first:
+      213: -6675408596235467455
+    second: tree boss HURTY 1_268
+  - first:
+      213: -5562957944947520471
+    second: tree boss HURTY 1_269
+  - first:
+      213: 5221493607049234894
+    second: tree boss HURTY 1_270
+  - first:
+      213: 6254478838717118751
+    second: tree boss HURTY 1_271
+  - first:
+      213: 7967527840581303517
+    second: tree boss HURTY 1_272
+  - first:
+      213: -8926102774173803867
+    second: tree boss HURTY 1_273
+  - first:
+      213: 8542174021682079494
+    second: tree boss HURTY 1_274
+  - first:
+      213: 6662931820697556628
+    second: tree boss HURTY 1_275
+  - first:
+      213: 831303202013754707
+    second: tree boss HURTY 1_276
+  - first:
+      213: 7889784096247147862
+    second: tree boss HURTY 1_277
+  - first:
+      213: -6441741756966154719
+    second: tree boss HURTY 1_278
+  - first:
+      213: -8780665773260164198
+    second: tree boss HURTY 1_279
+  - first:
+      213: 4796060505496260018
+    second: tree boss HURTY 1_280
+  - first:
+      213: -6089005422457563449
+    second: tree boss HURTY 1_281
+  - first:
+      213: 6779394271741172025
+    second: tree boss HURTY 1_282
+  - first:
+      213: 3093011669485699063
+    second: tree boss HURTY 1_283
+  - first:
+      213: -2148690642504159551
+    second: tree boss HURTY 1_284
+  - first:
+      213: 3809902536234748474
+    second: tree boss HURTY 1_285
+  - first:
+      213: -4202295272408360739
+    second: tree boss HURTY 1_286
+  - first:
+      213: 3941990042857511803
+    second: tree boss HURTY 1_287
+  - first:
+      213: -6541426853586223991
+    second: tree boss HURTY 1_288
+  - first:
+      213: 7179796379048605185
+    second: tree boss HURTY 1_289
+  - first:
+      213: -7313600209192046272
+    second: tree boss HURTY 1_290
+  - first:
+      213: 4627019391573048027
+    second: tree boss HURTY 1_291
+  - first:
+      213: -4776456256765737306
+    second: tree boss HURTY 1_292
+  - first:
+      213: -1331429259610875775
+    second: tree boss HURTY 1_293
+  - first:
+      213: -4683158169137848178
+    second: tree boss HURTY 1_294
+  - first:
+      213: 1442650258202930275
+    second: tree boss HURTY 1_295
+  - first:
+      213: 7372463313796625598
+    second: tree boss HURTY 1_296
+  - first:
+      213: 7004776212483878758
+    second: tree boss HURTY 1_297
+  - first:
+      213: -8476739746663606501
+    second: tree boss HURTY 1_298
+  - first:
+      213: -984975917939884265
+    second: tree boss HURTY 1_299
+  - first:
+      213: 3837781748701737253
+    second: tree boss HURTY 1_300
+  - first:
+      213: 3320506844907693676
+    second: tree boss HURTY 1_301
+  - first:
+      213: 7319394041614689237
+    second: tree boss HURTY 1_302
+  - first:
+      213: -2782867401730860815
+    second: tree boss HURTY 1_303
+  - first:
+      213: -7071806006527508412
+    second: tree boss HURTY 1_304
+  - first:
+      213: -2880093787796565640
+    second: tree boss HURTY 1_305
+  - first:
+      213: 7449876487640820314
+    second: tree boss HURTY 1_306
+  - first:
+      213: -1879882829026461071
+    second: tree boss HURTY 1_307
+  - first:
+      213: -3075783146796290756
+    second: tree boss HURTY 1_308
+  - first:
+      213: -3093834386143975076
+    second: tree boss HURTY 1_309
+  - first:
+      213: -4467232159368782441
+    second: tree boss HURTY 1_310
+  - first:
+      213: 2512302927751400265
+    second: tree boss HURTY 1_311
+  - first:
+      213: -3851108028664716299
+    second: tree boss HURTY 1_312
+  - first:
+      213: 5597559660108249550
+    second: tree boss HURTY 1_313
+  - first:
+      213: 7494846587537667186
+    second: tree boss HURTY 1_314
+  - first:
+      213: -1982380356141241059
+    second: tree boss HURTY 1_315
+  - first:
+      213: 3608590034068695174
+    second: tree boss HURTY 1_316
+  - first:
+      213: -1674354140339008393
+    second: tree boss HURTY 1_317
+  - first:
+      213: -7819364379418860169
+    second: tree boss HURTY 1_318
+  - first:
+      213: 2800969018123769532
+    second: tree boss HURTY 1_319
+  - first:
+      213: 7230887556499564530
+    second: tree boss HURTY 1_320
+  - first:
+      213: 5380065356784284015
+    second: tree boss HURTY 1_321
+  - first:
+      213: 3811218696731583431
+    second: tree boss HURTY 1_322
+  - first:
+      213: 3342673666356124789
+    second: tree boss HURTY 1_323
+  - first:
+      213: 1189039740656396241
+    second: tree boss HURTY 1_324
+  - first:
+      213: -2929602927282094444
+    second: tree boss HURTY 1_325
+  - first:
+      213: -2236241380861655031
+    second: tree boss HURTY 1_326
+  - first:
+      213: -2505774765161649881
+    second: tree boss HURTY 1_327
+  - first:
+      213: -6265885479134750055
+    second: tree boss HURTY 1_328
+  - first:
+      213: -8015509104425081220
+    second: tree boss HURTY 1_329
+  - first:
+      213: 1436099895978415207
+    second: tree boss HURTY 1_330
+  - first:
+      213: -2579776739735942629
+    second: tree boss HURTY 1_331
+  - first:
+      213: -2423906065909427229
+    second: tree boss HURTY 1_332
+  - first:
+      213: -7256430477330702338
+    second: tree boss HURTY 1_333
+  - first:
+      213: 2064234026943783327
+    second: tree boss HURTY 1_334
+  - first:
+      213: -6864176036310172566
+    second: tree boss HURTY 1_335
+  - first:
+      213: -8701410979058893069
+    second: tree boss HURTY 1_336
+  - first:
+      213: -6618383300587744202
+    second: tree boss HURTY 1_337
+  - first:
+      213: -4573401921077489047
+    second: tree boss HURTY 1_338
+  - first:
+      213: 1969994135857723885
+    second: tree boss HURTY 1_339
+  - first:
+      213: -4311229189417579777
+    second: tree boss HURTY 1_340
+  - first:
+      213: -6028702013948101142
+    second: tree boss HURTY 1_341
+  - first:
+      213: -7887086339684938464
+    second: tree boss HURTY 1_342
+  - first:
+      213: -9078987497876344278
+    second: tree boss HURTY 1_343
+  - first:
+      213: 5754292596652013413
+    second: tree boss HURTY 1_344
+  - first:
+      213: 6468028828363405766
+    second: tree boss HURTY 1_345
+  - first:
+      213: 7299315629998494446
+    second: tree boss HURTY 1_346
+  - first:
+      213: 27716069747827198
+    second: tree boss HURTY 1_347
+  - first:
+      213: 2870247221337154789
+    second: tree boss HURTY 1_348
+  - first:
+      213: -7986798492010348173
+    second: tree boss HURTY 1_349
+  - first:
+      213: 3276005501221288226
+    second: tree boss HURTY 1_350
+  - first:
+      213: -1165417197180820849
+    second: tree boss HURTY 1_351
+  - first:
+      213: 97955015624382655
+    second: tree boss HURTY 1_352
+  - first:
+      213: 2538241980466587667
+    second: tree boss HURTY 1_353
+  - first:
+      213: -8356324384131872508
+    second: tree boss HURTY 1_354
+  - first:
+      213: 8167018163474459379
+    second: tree boss HURTY 1_355
+  - first:
+      213: 8081267268683156337
+    second: tree boss HURTY 1_356
+  - first:
+      213: -4653836203566329704
+    second: tree boss HURTY 1_357
+  - first:
+      213: 1936120283593942563
+    second: tree boss HURTY 1_358
+  - first:
+      213: -538632445354239239
+    second: tree boss HURTY 1_359
+  - first:
+      213: -686346670230328180
+    second: tree boss HURTY 1_360
+  - first:
+      213: 3546113011799956459
+    second: tree boss HURTY 1_361
+  - first:
+      213: -2412502616979358609
+    second: tree boss HURTY 1_362
+  - first:
+      213: 7180520665565192380
+    second: tree boss HURTY 1_363
+  - first:
+      213: 7774290347253151835
+    second: tree boss HURTY 1_364
+  - first:
+      213: -5324032006301024993
+    second: tree boss HURTY 1_365
+  - first:
+      213: -8715626096800423446
+    second: tree boss HURTY 1_366
+  - first:
+      213: -2018957858067908293
+    second: tree boss HURTY 1_367
+  - first:
+      213: 4877663019506208818
+    second: tree boss HURTY 1_368
+  - first:
+      213: -1143887223907156898
+    second: tree boss HURTY 1_369
+  - first:
+      213: 6194125895027213174
+    second: tree boss HURTY 1_370
+  - first:
+      213: 8534959503398511721
+    second: tree boss HURTY 1_371
+  - first:
+      213: 1293023488025089490
+    second: tree boss HURTY 1_372
+  - first:
+      213: 5583625182288167713
+    second: tree boss HURTY 1_373
+  - first:
+      213: -7260581488448876706
+    second: tree boss HURTY 1_374
+  - first:
+      213: -8702973441531523095
+    second: tree boss HURTY 1_375
+  - first:
+      213: -1504592791705264455
+    second: tree boss HURTY 1_376
+  - first:
+      213: 2368076589710380791
+    second: tree boss HURTY 1_377
+  - first:
+      213: -2703855456583416245
+    second: tree boss HURTY 1_378
+  - first:
+      213: -5598344498332159606
+    second: tree boss HURTY 1_379
+  - first:
+      213: -7963814530485287515
+    second: tree boss HURTY 1_380
+  - first:
+      213: -8540955202473537835
+    second: tree boss HURTY 1_381
+  - first:
+      213: 7194129361454984288
+    second: tree boss HURTY 1_382
+  - first:
+      213: -7365481463502794252
+    second: tree boss HURTY 1_383
+  - first:
+      213: -2823751328533760038
+    second: tree boss HURTY 1_384
+  - first:
+      213: 1205409256992246555
+    second: tree boss HURTY 1_385
+  - first:
+      213: 7440755433831961259
+    second: tree boss HURTY 1_386
+  - first:
+      213: 1118173065947207976
+    second: tree boss HURTY 1_387
+  - first:
+      213: -2323955805170610600
+    second: tree boss HURTY 1_388
+  - first:
+      213: 853408324668490075
+    second: tree boss HURTY 1_389
+  - first:
+      213: 933784964535480936
+    second: tree boss HURTY 1_390
+  - first:
+      213: -8506987537389214263
+    second: tree boss HURTY 1_391
+  - first:
+      213: -453753297452811923
+    second: tree boss HURTY 1_392
+  - first:
+      213: 7017148439593634759
+    second: tree boss HURTY 1_393
+  - first:
+      213: -3038221752433656598
+    second: tree boss HURTY 1_394
+  - first:
+      213: 7878445728136315892
+    second: tree boss HURTY 1_395
+  - first:
+      213: 8752043597867972210
+    second: tree boss HURTY 1_396
+  - first:
+      213: -4802982030230657278
+    second: tree boss HURTY 1_397
+  - first:
+      213: 5574455517386913678
+    second: tree boss HURTY 1_398
+  - first:
+      213: -653462843454926723
+    second: tree boss HURTY 1_399
+  - first:
+      213: 2693030790020219690
+    second: tree boss HURTY 1_400
+  - first:
+      213: -4582450554616577352
+    second: tree boss HURTY 1_401
+  - first:
+      213: 605148127284497053
+    second: tree boss HURTY 1_402
+  - first:
+      213: 8864591880763422051
+    second: tree boss HURTY 1_403
+  - first:
+      213: 8037577956382442953
+    second: tree boss HURTY 1_404
+  - first:
+      213: -2781260228956132479
+    second: tree boss HURTY 1_405
+  - first:
+      213: -9056220130979544722
+    second: tree boss HURTY 1_406
+  - first:
+      213: 8395484600865153884
+    second: tree boss HURTY 1_407
+  - first:
+      213: 7419462437393201584
+    second: tree boss HURTY 1_408
+  - first:
+      213: -2000904995058028949
+    second: tree boss HURTY 1_409
+  - first:
+      213: -1661227355889700867
+    second: tree boss HURTY 1_410
+  - first:
+      213: 2158469418319905580
+    second: tree boss HURTY 1_411
+  - first:
+      213: 8021107976371552724
+    second: tree boss HURTY 1_412
+  - first:
+      213: 1668877880778900851
+    second: tree boss HURTY 1_413
+  - first:
+      213: 8678776749355562598
+    second: tree boss HURTY 1_414
+  - first:
+      213: -2546179698314650297
+    second: tree boss HURTY 1_415
+  - first:
+      213: 7030900866186148611
+    second: tree boss HURTY 1_416
+  - first:
+      213: -7275658009569780986
+    second: tree boss HURTY 1_417
+  - first:
+      213: -5866042113073135460
+    second: tree boss HURTY 1_418
+  - first:
+      213: -3796176147094516710
+    second: tree boss HURTY 1_419
+  - first:
+      213: 4082332443906824327
+    second: tree boss HURTY 1_420
+  - first:
+      213: -6042796174479388129
+    second: tree boss HURTY 1_421
+  - first:
+      213: 5411607958711599968
+    second: tree boss HURTY 1_422
+  - first:
+      213: -4097560088122459926
+    second: tree boss HURTY 1_423
+  - first:
+      213: -5406058951290973650
+    second: tree boss HURTY 1_424
+  - first:
+      213: 6494264377094559839
+    second: tree boss HURTY 1_425
+  - first:
+      213: 8054779625957025918
+    second: tree boss HURTY 1_426
+  - first:
+      213: 5975102528010507216
+    second: tree boss HURTY 1_427
+  - first:
+      213: -6877212418000366506
+    second: tree boss HURTY 1_428
+  - first:
+      213: -814304075461443066
+    second: tree boss HURTY 1_429
+  - first:
+      213: 6540884567371924158
+    second: tree boss HURTY 1_430
+  - first:
+      213: 8905330125940060055
+    second: tree boss HURTY 1_431
+  - first:
+      213: 1448957827355359698
+    second: tree boss HURTY 1_432
+  - first:
+      213: 8518634510066612816
+    second: tree boss HURTY 1_433
+  - first:
+      213: 3169137974665149015
+    second: tree boss HURTY 1_434
+  - first:
+      213: 7675271237163236365
+    second: tree boss HURTY 1_435
+  - first:
+      213: -4551589790376598003
+    second: tree boss HURTY 1_436
+  - first:
+      213: 9038392100704876203
+    second: tree boss HURTY 1_437
+  - first:
+      213: 8778454537846043075
+    second: tree boss HURTY 1_438
+  - first:
+      213: -343604483768854275
+    second: tree boss HURTY 1_439
+  - first:
+      213: -4412355621924188975
+    second: tree boss HURTY 1_440
+  - first:
+      213: 5285071879533890254
+    second: tree boss HURTY 1_441
+  - first:
+      213: 8775315608888083993
+    second: tree boss HURTY 1_442
+  - first:
+      213: -1727991261807931204
+    second: tree boss HURTY 1_443
+  - first:
+      213: 8632361076620890320
+    second: tree boss HURTY 1_444
+  - first:
+      213: -9220255496241830065
+    second: tree boss HURTY 1_445
+  - first:
+      213: 7680828364230946978
+    second: tree boss HURTY 1_446
+  - first:
+      213: -2847446219333182978
+    second: tree boss HURTY 1_447
+  - first:
+      213: 268128554969797768
+    second: tree boss HURTY 1_448
+  - first:
+      213: 7741457364391991081
+    second: tree boss HURTY 1_449
+  - first:
+      213: -602651366196676369
+    second: tree boss HURTY 1_450
+  - first:
+      213: 8125873158405622451
+    second: tree boss HURTY 1_451
+  - first:
+      213: 2338920182463100282
+    second: tree boss HURTY 1_452
+  - first:
+      213: -8520829476458273183
+    second: tree boss HURTY 1_453
+  - first:
+      213: 2137618394645041362
+    second: tree boss HURTY 1_454
+  - first:
+      213: 6735077912982275602
+    second: tree boss HURTY 1_455
+  - first:
+      213: 5436341576578304803
+    second: tree boss HURTY 1_456
+  - first:
+      213: 5683089600768789430
+    second: tree boss HURTY 1_457
+  - first:
+      213: -8025798756501372311
+    second: tree boss HURTY 1_458
+  - first:
+      213: -6040142398279218910
+    second: tree boss HURTY 1_459
+  - first:
+      213: -5633369369104634784
+    second: tree boss HURTY 1_460
+  - first:
+      213: -1845708265413323423
+    second: tree boss HURTY 1_461
+  - first:
+      213: 6063117941873471613
+    second: tree boss HURTY 1_462
+  - first:
+      213: 7789142497304395602
+    second: tree boss HURTY 1_463
+  - first:
+      213: 41766135849688249
+    second: tree boss HURTY 1_464
+  - first:
+      213: 2606335119154016525
+    second: tree boss HURTY 1_465
+  - first:
+      213: -4255837606564161101
+    second: tree boss HURTY 1_466
+  - first:
+      213: 6605223373541440723
+    second: tree boss HURTY 1_467
+  - first:
+      213: 2495479521667970528
+    second: tree boss HURTY 1_468
+  - first:
+      213: -2250565040358535638
+    second: tree boss HURTY 1_469
+  - first:
+      213: 3508105582430214379
+    second: tree boss HURTY 1_470
+  - first:
+      213: 7782493932673727882
+    second: tree boss HURTY 1_471
+  - first:
+      213: 3494134616751675442
+    second: tree boss HURTY 1_472
+  - first:
+      213: 8473511108972966278
+    second: tree boss HURTY 1_473
+  - first:
+      213: -1741258982094982993
+    second: tree boss HURTY 1_474
+  - first:
+      213: 8793020233589818203
+    second: tree boss HURTY 1_475
+  - first:
+      213: 5832644181462079542
+    second: tree boss HURTY 1_476
+  - first:
+      213: 4981950737334002848
+    second: tree boss HURTY 1_477
+  - first:
+      213: 1906009808496936923
+    second: tree boss HURTY 1_478
+  - first:
+      213: -3939101784847956984
+    second: tree boss HURTY 1_479
+  - first:
+      213: 2441934946418035269
+    second: tree boss HURTY 1_480
+  - first:
+      213: -7217966526928742711
+    second: tree boss HURTY 1_481
+  - first:
+      213: -5675702195906073548
+    second: tree boss HURTY 1_482
+  - first:
+      213: 577563980465995718
+    second: tree boss HURTY 1_483
+  - first:
+      213: 6320090979370916364
+    second: tree boss HURTY 1_484
+  - first:
+      213: -6456194095670210635
+    second: tree boss HURTY 1_485
+  - first:
+      213: -8847238193820839154
+    second: tree boss HURTY 1_486
+  - first:
+      213: -597149098051766897
+    second: tree boss HURTY 1_487
+  - first:
+      213: -1576284524686735599
+    second: tree boss HURTY 1_488
+  - first:
+      213: 3015528578463554872
+    second: tree boss HURTY 1_489
+  - first:
+      213: 8455506078072312005
+    second: tree boss HURTY 1_490
+  - first:
+      213: 3998083942687549199
+    second: tree boss HURTY 1_491
+  - first:
+      213: 8568538023455126892
+    second: tree boss HURTY 1_492
+  - first:
+      213: 1181362196116761419
+    second: tree boss HURTY 1_493
+  - first:
+      213: -2955419605356341869
+    second: tree boss HURTY 1_494
+  - first:
+      213: 7798957843382002384
+    second: tree boss HURTY 1_495
+  - first:
+      213: -4551546771209675113
+    second: tree boss HURTY 1_496
+  - first:
+      213: 344642104571009945
+    second: tree boss HURTY 1_497
+  - first:
+      213: -9193455917384497000
+    second: tree boss HURTY 1_498
+  - first:
+      213: 94574807424481260
+    second: tree boss HURTY 1_499
+  - first:
+      213: 8260984213300701226
+    second: tree boss HURTY 1_500
+  - first:
+      213: 883893039013529808
+    second: tree boss HURTY 1_501
+  - first:
+      213: -552555954596053436
+    second: tree boss HURTY 1_502
+  - first:
+      213: -2858081668365288561
+    second: tree boss HURTY 1_503
+  - first:
+      213: -2906622236645091772
+    second: tree boss HURTY 1_504
+  - first:
+      213: 5271504246123828507
+    second: tree boss HURTY 1_505
+  - first:
+      213: 6238081220800356794
+    second: tree boss HURTY 1_506
+  - first:
+      213: -901691290441993778
+    second: tree boss HURTY 1_507
+  - first:
+      213: 4353754151727820714
+    second: tree boss HURTY 1_508
+  - first:
+      213: -9207668816228723015
+    second: tree boss HURTY 1_509
+  - first:
+      213: 4687733855481896726
+    second: tree boss HURTY 1_510
+  - first:
+      213: -1058695276151967594
+    second: tree boss HURTY 1_511
+  - first:
+      213: -8379693867050101500
+    second: tree boss HURTY 1_512
+  - first:
+      213: -248551110624008113
+    second: tree boss HURTY 1_513
+  - first:
+      213: 7194108686595692711
+    second: tree boss HURTY 1_514
+  - first:
+      213: 7542508695353995471
+    second: tree boss HURTY 1_515
+  - first:
+      213: -6452769730564920827
+    second: tree boss HURTY 1_516
+  - first:
+      213: 5509168779746870859
+    second: tree boss HURTY 1_517
+  - first:
+      213: -399308275669063334
+    second: tree boss HURTY 1_518
+  - first:
+      213: -2756112069723378475
+    second: tree boss HURTY 1_519
+  - first:
+      213: -2013935933126655373
+    second: tree boss HURTY 1_520
+  - first:
+      213: 3914440555022904757
+    second: tree boss HURTY 1_521
+  - first:
+      213: -3895415957987664801
+    second: tree boss HURTY 1_522
+  - first:
+      213: -3711958642504897181
+    second: tree boss HURTY 1_523
+  - first:
+      213: 115988891405019982
+    second: tree boss HURTY 1_524
+  - first:
+      213: 839131075256412643
+    second: tree boss HURTY 1_525
+  - first:
+      213: 7632400521143632152
+    second: tree boss HURTY 1_526
+  - first:
+      213: -1564433274052494541
+    second: tree boss HURTY 1_527
+  - first:
+      213: 7604327724587650882
+    second: tree boss HURTY 1_528
+  - first:
+      213: 6292565186469133165
+    second: tree boss HURTY 1_529
+  - first:
+      213: -1847173685341523755
+    second: tree boss HURTY 1_530
+  - first:
+      213: -978455759403340425
+    second: tree boss HURTY 1_531
+  - first:
+      213: 6823920651531789805
+    second: tree boss HURTY 1_532
+  - first:
+      213: -2762600799593147475
+    second: tree boss HURTY 1_533
+  - first:
+      213: -9006547882020342569
+    second: tree boss HURTY 1_534
+  - first:
+      213: 3108078099621577538
+    second: tree boss HURTY 1_535
+  - first:
+      213: 7916386926211835139
+    second: tree boss HURTY 1_536
+  - first:
+      213: -1261615213236920908
+    second: tree boss HURTY 1_537
+  - first:
+      213: 3905427206706496448
+    second: tree boss HURTY 1_538
+  - first:
+      213: -9007251951288473888
+    second: tree boss HURTY 1_539
+  - first:
+      213: 2033810456666420396
+    second: tree boss HURTY 1_540
+  - first:
+      213: 5946227820910542573
+    second: tree boss HURTY 1_541
+  - first:
+      213: -5014212816737664340
+    second: tree boss HURTY 1_542
+  - first:
+      213: -7768207009930705682
+    second: tree boss HURTY 1_543
+  - first:
+      213: -187031958031301123
+    second: tree boss HURTY 1_544
+  - first:
+      213: 6404347203529716340
+    second: tree boss HURTY 1_545
+  - first:
+      213: 3610685176731163491
+    second: tree boss HURTY 1_546
+  - first:
+      213: -6468918079035396837
+    second: tree boss HURTY 1_547
+  - first:
+      213: -2585224340314074282
+    second: tree boss HURTY 1_548
+  - first:
+      213: -4414747622883533128
+    second: tree boss HURTY 1_549
+  - first:
+      213: -4117489313050717213
+    second: tree boss HURTY 1_550
+  - first:
+      213: -6090826326750585724
+    second: tree boss HURTY 1_551
+  - first:
+      213: -466611496351564250
+    second: tree boss HURTY 1_552
+  - first:
+      213: -4487170594775884510
+    second: tree boss HURTY 1_553
+  - first:
+      213: 2094167660048244132
+    second: tree boss HURTY 1_554
+  - first:
+      213: 3524922834655416954
+    second: tree boss HURTY 1_555
+  - first:
+      213: -4714945758765418512
+    second: tree boss HURTY 1_556
+  - first:
+      213: 3110675374933364791
+    second: tree boss HURTY 1_557
+  - first:
+      213: 2614248163193889000
+    second: tree boss HURTY 1_558
+  - first:
+      213: -8181531787043170272
+    second: tree boss HURTY 1_559
+  - first:
+      213: -1941637027222396827
+    second: tree boss HURTY 1_560
+  - first:
+      213: 5829761511153254685
+    second: tree boss HURTY 1_561
+  - first:
+      213: -3163229825594836659
+    second: tree boss HURTY 1_562
+  - first:
+      213: 3420601958422025194
+    second: tree boss HURTY 1_563
+  - first:
+      213: 5248669716158554106
+    second: tree boss HURTY 1_564
+  - first:
+      213: -5917361388412283004
+    second: tree boss HURTY 1_565
+  - first:
+      213: -7917343551286114485
+    second: tree boss HURTY 1_566
+  - first:
+      213: -2502093332790007301
+    second: tree boss HURTY 1_567
+  - first:
+      213: -3340627199280467922
+    second: tree boss HURTY 1_568
+  - first:
+      213: -1303420936676280873
+    second: tree boss HURTY 1_569
+  - first:
+      213: -3931201096217936584
+    second: tree boss HURTY 1_570
+  - first:
+      213: -7395345533717564425
+    second: tree boss HURTY 1_571
+  - first:
+      213: 6179989916334720500
+    second: tree boss HURTY 1_572
+  - first:
+      213: 7143162869909435520
+    second: tree boss HURTY 1_573
+  - first:
+      213: 132919054241248579
+    second: tree boss HURTY 1_574
+  - first:
+      213: 5329980497033176528
+    second: tree boss HURTY 1_575
+  - first:
+      213: 4596642147755278365
+    second: tree boss HURTY 1_576
+  - first:
+      213: -2924380850875179501
+    second: tree boss HURTY 1_577
+  - first:
+      213: -4323245390496727430
+    second: tree boss HURTY 1_578
+  - first:
+      213: 5068026665352991850
+    second: tree boss HURTY 1_579
+  - first:
+      213: 8715697088132265124
+    second: tree boss HURTY 1_580
+  - first:
+      213: 3771480533920561575
+    second: tree boss HURTY 1_581
+  - first:
+      213: 8984663185845470689
+    second: tree boss HURTY 1_582
+  - first:
+      213: -8904957591979772823
+    second: tree boss HURTY 1_583
+  - first:
+      213: -2809674413570795670
+    second: tree boss HURTY 1_584
+  - first:
+      213: -1532197605505159259
+    second: tree boss HURTY 1_585
+  - first:
+      213: -7939046755194632657
+    second: tree boss HURTY 1_586
+  - first:
+      213: 2313695020717245296
+    second: tree boss HURTY 1_587
+  - first:
+      213: 6914026366047520234
+    second: tree boss HURTY 1_588
+  - first:
+      213: 8268702865429003130
+    second: tree boss HURTY 1_589
+  - first:
+      213: 8605916292621093301
+    second: tree boss HURTY 1_590
+  - first:
+      213: -1671287555534385473
+    second: tree boss HURTY 1_591
+  - first:
+      213: -119015355027937040
+    second: tree boss HURTY 1_592
+  - first:
+      213: 5327218028908748659
+    second: tree boss HURTY 1_593
+  - first:
+      213: 9112266722385668565
+    second: tree boss HURTY 1_594
+  - first:
+      213: -8073132562225161384
+    second: tree boss HURTY 1_595
+  - first:
+      213: -5952539980923193449
+    second: tree boss HURTY 1_596
+  - first:
+      213: -1334388710097399658
+    second: tree boss HURTY 1_597
+  - first:
+      213: 4806716202111184944
+    second: tree boss HURTY 1_598
+  - first:
+      213: 4750751632760557972
+    second: tree boss HURTY 1_599
+  - first:
+      213: 8716196285919428296
+    second: tree boss HURTY 1_600
+  - first:
+      213: -3613106809916842255
+    second: tree boss HURTY 1_601
+  - first:
+      213: -9127707716293180507
+    second: tree boss HURTY 1_602
+  - first:
+      213: 3507359118030340561
+    second: tree boss HURTY 1_603
+  - first:
+      213: -791048953325445110
+    second: tree boss HURTY 1_604
+  - first:
+      213: -2924016574915092730
+    second: tree boss HURTY 1_605
+  - first:
+      213: -8003012161648226542
+    second: tree boss HURTY 1_606
+  - first:
+      213: -5343095727389697809
+    second: tree boss HURTY 1_607
+  - first:
+      213: 4866756148197536328
+    second: tree boss HURTY 1_608
+  - first:
+      213: -1701477738366211191
+    second: tree boss HURTY 1_609
+  - first:
+      213: 7857680721901336600
+    second: tree boss HURTY 1_610
+  - first:
+      213: -3982283744346292176
+    second: tree boss HURTY 1_611
+  - first:
+      213: 2365189828692318717
+    second: tree boss HURTY 1_612
+  - first:
+      213: 1617457538628018550
+    second: tree boss HURTY 1_613
+  - first:
+      213: -6734730097614424734
+    second: tree boss HURTY 1_614
+  - first:
+      213: 4850083165399254115
+    second: tree boss HURTY 1_615
+  - first:
+      213: -6048306613009649048
+    second: tree boss HURTY 1_616
+  - first:
+      213: 6383876437305238435
+    second: tree boss HURTY 1_617
+  - first:
+      213: -1154899531828142445
+    second: tree boss HURTY 1_618
+  - first:
+      213: 3083252886322521221
+    second: tree boss HURTY 1_619
+  - first:
+      213: 1720741133375587132
+    second: tree boss HURTY 1_620
+  - first:
+      213: 196874004509316859
+    second: tree boss HURTY 1_621
+  - first:
+      213: 8380560869110996841
+    second: tree boss HURTY 1_622
+  - first:
+      213: -3463995094990185576
+    second: tree boss HURTY 1_623
+  - first:
+      213: -4068271736784027165
+    second: tree boss HURTY 1_624
+  - first:
+      213: -9015832543939243987
+    second: tree boss HURTY 1_625
+  - first:
+      213: 1720157475464344410
+    second: tree boss HURTY 1_626
+  - first:
+      213: 6457012795149519101
+    second: tree boss HURTY 1_627
+  - first:
+      213: 8509786250459341894
+    second: tree boss HURTY 1_628
+  - first:
+      213: -8424013903736540238
+    second: tree boss HURTY 1_629
+  - first:
+      213: 8990849599246158663
+    second: tree boss HURTY 1_630
+  - first:
+      213: -4828293072827035725
+    second: tree boss HURTY 1_631
+  - first:
+      213: 3435070426116398934
+    second: tree boss HURTY 1_632
+  - first:
+      213: -8636764193885084162
+    second: tree boss HURTY 1_633
+  - first:
+      213: 5958754119148980495
+    second: tree boss HURTY 1_634
+  - first:
+      213: 7317310776022684772
+    second: tree boss HURTY 1_635
+  - first:
+      213: 2166147444483037863
+    second: tree boss HURTY 1_636
+  - first:
+      213: -6368697754222566063
+    second: tree boss HURTY 1_637
+  - first:
+      213: -7411587845594233489
+    second: tree boss HURTY 1_638
+  - first:
+      213: -2481349703475209274
+    second: tree boss HURTY 1_639
+  - first:
+      213: 2739023500369591145
+    second: tree boss HURTY 1_640
+  - first:
+      213: 1499874762434459906
+    second: tree boss HURTY 1_641
+  - first:
+      213: -2864933426630695121
+    second: tree boss HURTY 1_642
+  - first:
+      213: 8872158690150156597
+    second: tree boss HURTY 1_643
+  - first:
+      213: -2296620765669434037
+    second: tree boss HURTY 1_644
+  - first:
+      213: 8291860849273064649
+    second: tree boss HURTY 1_645
+  - first:
+      213: 8416660715694897383
+    second: tree boss HURTY 1_646
+  - first:
+      213: 1112604146437025627
+    second: tree boss HURTY 1_647
+  - first:
+      213: 2846382209447306724
+    second: tree boss HURTY 1_648
+  - first:
+      213: -3184810727001861093
+    second: tree boss HURTY 1_649
+  - first:
+      213: -6346159968973881817
+    second: tree boss HURTY 1_650
+  - first:
+      213: -7659407031602480842
+    second: tree boss HURTY 1_651
+  - first:
+      213: -722411038897943231
+    second: tree boss HURTY 1_652
+  - first:
+      213: -3320172502739495420
+    second: tree boss HURTY 1_653
+  - first:
+      213: -8084607485430768569
+    second: tree boss HURTY 1_654
+  - first:
+      213: 4397154990750052140
+    second: tree boss HURTY 1_655
+  - first:
+      213: 4254018459160757131
+    second: tree boss HURTY 1_656
+  - first:
+      213: 1356634699268391720
+    second: tree boss HURTY 1_657
+  - first:
+      213: -9043440289725540172
+    second: tree boss HURTY 1_658
+  - first:
+      213: 2034407565610256691
+    second: tree boss HURTY 1_659
+  - first:
+      213: -7741395813291631252
+    second: tree boss HURTY 1_660
+  - first:
+      213: -2608311175542755540
+    second: tree boss HURTY 1_661
+  - first:
+      213: 5233436919972280862
+    second: tree boss HURTY 1_662
+  - first:
+      213: -1986287599854190085
+    second: tree boss HURTY 1_663
+  - first:
+      213: -7384044060662644415
+    second: tree boss HURTY 1_664
+  - first:
+      213: 5861753302984304836
+    second: tree boss HURTY 1_665
+  - first:
+      213: 2851946378529889708
+    second: tree boss HURTY 1_666
+  - first:
+      213: -4817020025316654811
+    second: tree boss HURTY 1_667
+  - first:
+      213: -833468716737475398
+    second: tree boss HURTY 1_668
+  - first:
+      213: 5861081166363319765
+    second: tree boss HURTY 1_669
+  - first:
+      213: -2715471475388878128
+    second: tree boss HURTY 1_670
+  - first:
+      213: 3761151850582865515
+    second: tree boss HURTY 1_671
+  - first:
+      213: 1815494294791384084
+    second: tree boss HURTY 1_672
+  - first:
+      213: 7463044712164545090
+    second: tree boss HURTY 1_673
+  - first:
+      213: 269732344657435451
+    second: tree boss HURTY 1_674
+  - first:
+      213: -7157176629230437838
+    second: tree boss HURTY 1_675
+  - first:
+      213: -8538416197062853498
+    second: tree boss HURTY 1_676
+  - first:
+      213: 5297369609928010130
+    second: tree boss HURTY 1_677
+  - first:
+      213: -6093896805692388560
+    second: tree boss HURTY 1_678
+  - first:
+      213: 8702124959795928266
+    second: tree boss HURTY 1_679
+  - first:
+      213: -6588477839799193312
+    second: tree boss HURTY 1_680
+  - first:
+      213: 5019271330354764146
+    second: tree boss HURTY 1_681
+  - first:
+      213: 1403291921171091489
+    second: tree boss HURTY 1_682
+  - first:
+      213: 6794087699769854753
+    second: tree boss HURTY 1_683
+  - first:
+      213: -3260392713169185380
+    second: tree boss HURTY 1_684
+  - first:
+      213: -2247431799553767730
+    second: tree boss HURTY 1_685
+  - first:
+      213: 9138953417757045933
+    second: tree boss HURTY 1_686
+  - first:
+      213: 2221199767217243069
+    second: tree boss HURTY 1_687
+  - first:
+      213: -2962051222086502894
+    second: tree boss HURTY 1_688
+  - first:
+      213: 1964974751985038876
+    second: tree boss HURTY 1_689
+  - first:
+      213: 3519570449495619525
+    second: tree boss HURTY 1_690
+  - first:
+      213: 9201045624010442006
+    second: tree boss HURTY 1_691
+  - first:
+      213: -1195437567228036541
+    second: tree boss HURTY 1_692
+  - first:
+      213: 2617728971992479868
+    second: tree boss HURTY 1_693
+  - first:
+      213: 6937066919187035780
+    second: tree boss HURTY 1_694
+  - first:
+      213: 1659216931148981886
+    second: tree boss HURTY 1_695
+  - first:
+      213: -2597232878226326759
+    second: tree boss HURTY 1_696
+  - first:
+      213: 8586996177235276996
+    second: tree boss HURTY 1_697
+  - first:
+      213: 778353057841608426
+    second: tree boss HURTY 1_698
+  - first:
+      213: 7448729273424275525
+    second: tree boss HURTY 1_699
+  - first:
+      213: -8371922426677314628
+    second: tree boss HURTY 1_700
+  - first:
+      213: -6077855724980164041
+    second: tree boss HURTY 1_701
+  - first:
+      213: -566521042317386622
+    second: tree boss HURTY 1_702
+  - first:
+      213: -5740759733920714217
+    second: tree boss HURTY 1_703
+  - first:
+      213: -2854861004340595966
+    second: tree boss HURTY 1_704
+  - first:
+      213: 7586968368782786579
+    second: tree boss HURTY 1_705
+  - first:
+      213: 2395734030650249034
+    second: tree boss HURTY 1_706
+  - first:
+      213: 8781776149183217484
+    second: tree boss HURTY 1_707
+  - first:
+      213: 648597198245359180
+    second: tree boss HURTY 1_708
+  - first:
+      213: 3860176189545883497
+    second: tree boss HURTY 1_709
+  - first:
+      213: 2567409558771464922
+    second: tree boss HURTY 1_710
+  - first:
+      213: -4856671637431543176
+    second: tree boss HURTY 1_711
+  - first:
+      213: -4720613049795271135
+    second: tree boss HURTY 1_712
+  - first:
+      213: -1325324763185875397
+    second: tree boss HURTY 1_713
+  - first:
+      213: 2031645218900455217
+    second: tree boss HURTY 1_714
+  - first:
+      213: 6345365107074702959
+    second: tree boss HURTY 1_715
+  - first:
+      213: 9018948483119099116
+    second: tree boss HURTY 1_716
+  - first:
+      213: -5481185396926710777
+    second: tree boss HURTY 1_717
+  - first:
+      213: 3350058822120595580
+    second: tree boss HURTY 1_718
+  - first:
+      213: -7322945860098979934
+    second: tree boss HURTY 1_719
+  - first:
+      213: 5755149409267868390
+    second: tree boss HURTY 1_720
+  - first:
+      213: 8228728848896758663
+    second: tree boss HURTY 1_721
+  - first:
+      213: -4755268443627804480
+    second: tree boss HURTY 1_722
+  - first:
+      213: -2613995229490178182
+    second: tree boss HURTY 1_723
+  - first:
+      213: 3526958302331852279
+    second: tree boss HURTY 1_724
+  - first:
+      213: 5334804244047461171
+    second: tree boss HURTY 1_725
+  - first:
+      213: -3737562589327351132
+    second: tree boss HURTY 1_726
+  - first:
+      213: 1579865499180038738
+    second: tree boss HURTY 1_727
+  - first:
+      213: -3403611044031809889
+    second: tree boss HURTY 1_728
+  - first:
+      213: -1064839590441286877
+    second: tree boss HURTY 1_729
+  - first:
+      213: -8615420770135664722
+    second: tree boss HURTY 1_730
+  - first:
+      213: 6067033417785736720
+    second: tree boss HURTY 1_731
+  - first:
+      213: -1296154165275895867
+    second: tree boss HURTY 1_732
+  - first:
+      213: -421941360629550448
+    second: tree boss HURTY 1_733
+  - first:
+      213: -7491045290507658319
+    second: tree boss HURTY 1_734
+  - first:
+      213: 6846171169725858470
+    second: tree boss HURTY 1_735
+  - first:
+      213: 1734256748727845473
+    second: tree boss HURTY 1_736
+  - first:
+      213: -2967518434282249067
+    second: tree boss HURTY 1_737
+  - first:
+      213: 3277915153996005135
+    second: tree boss HURTY 1_738
+  - first:
+      213: 7192156125718509416
+    second: tree boss HURTY 1_739
+  - first:
+      213: -2643719899910399980
+    second: tree boss HURTY 1_740
+  - first:
+      213: -5256478354717870268
+    second: tree boss HURTY 1_741
+  - first:
+      213: -9047558014150824683
+    second: tree boss HURTY 1_742
+  - first:
+      213: -8013876211567122386
+    second: tree boss HURTY 1_743
+  - first:
+      213: -6538582953323087803
+    second: tree boss HURTY 1_744
+  - first:
+      213: -4376189177067061175
+    second: tree boss HURTY 1_745
+  - first:
+      213: -6156251837987432547
+    second: tree boss HURTY 1_746
+  - first:
+      213: 8900181319211385378
+    second: tree boss HURTY 1_747
+  - first:
+      213: 8862734097714408337
+    second: tree boss HURTY 1_748
+  - first:
+      213: 8475494624132456538
+    second: tree boss HURTY 1_749
+  - first:
+      213: -5155869536147151336
+    second: tree boss HURTY 1_750
+  - first:
+      213: -8669150788282827565
+    second: tree boss HURTY 1_751
+  - first:
+      213: 4013549631066021972
+    second: tree boss HURTY 1_752
+  - first:
+      213: 2740229226738612650
+    second: tree boss HURTY 1_753
+  - first:
+      213: -8085590184823222173
+    second: tree boss HURTY 1_754
+  - first:
+      213: 9108757651943759244
+    second: tree boss HURTY 1_755
+  - first:
+      213: 4357094746983894930
+    second: tree boss HURTY 1_756
+  - first:
+      213: -241135911810536699
+    second: tree boss HURTY 1_757
+  - first:
+      213: -170571063024891723
+    second: tree boss HURTY 1_758
+  - first:
+      213: -5498262657643298343
+    second: tree boss HURTY 1_759
+  - first:
+      213: 5253804806772818769
+    second: tree boss HURTY 1_760
+  - first:
+      213: 1135831433773011924
+    second: tree boss HURTY 1_761
+  - first:
+      213: -8461337455663169323
+    second: tree boss HURTY 1_762
+  - first:
+      213: 551734263582639303
+    second: tree boss HURTY 1_763
+  - first:
+      213: 3916479496793672444
+    second: tree boss HURTY 1_764
+  - first:
+      213: 4085022598786352303
+    second: tree boss HURTY 1_765
+  - first:
+      213: 7839156131607596041
+    second: tree boss HURTY 1_766
+  - first:
+      213: 762793831013006892
+    second: tree boss HURTY 1_767
+  - first:
+      213: -7695550692915205600
+    second: tree boss HURTY 1_768
+  - first:
+      213: 8386884347158046320
+    second: tree boss HURTY 1_769
+  - first:
+      213: 3662064818866055601
+    second: tree boss HURTY 1_770
+  - first:
+      213: 7602779480178379604
+    second: tree boss HURTY 1_771
+  - first:
+      213: 7206280751539349063
+    second: tree boss HURTY 1_772
+  - first:
+      213: -2925751588232396927
+    second: tree boss HURTY 1_773
+  - first:
+      213: 9121179461914130329
+    second: tree boss HURTY 1_774
+  - first:
+      213: 2611535994495300327
+    second: tree boss HURTY 1_775
+  - first:
+      213: -2497778451993768508
+    second: tree boss HURTY 1_776
+  - first:
+      213: 2264067735548873137
+    second: tree boss HURTY 1_777
+  - first:
+      213: 8851998785646777666
+    second: tree boss HURTY 1_778
+  - first:
+      213: 2744034420427747449
+    second: tree boss HURTY 1_779
+  - first:
+      213: 2704955830288201897
+    second: tree boss HURTY 1_780
+  - first:
+      213: 3724824107179339353
+    second: tree boss HURTY 1_781
+  - first:
+      213: 7772272290363748813
+    second: tree boss HURTY 1_782
+  - first:
+      213: 8333839629687186655
+    second: tree boss HURTY 1_783
+  - first:
+      213: 4111168724381193187
+    second: tree boss HURTY 1_784
+  - first:
+      213: -4430375449413548939
+    second: tree boss HURTY 1_785
+  - first:
+      213: 2001203552030467332
+    second: tree boss HURTY 1_786
+  - first:
+      213: 8710630354276445513
+    second: tree boss HURTY 1_787
+  - first:
+      213: -6064980622971743432
+    second: tree boss HURTY 1_788
+  - first:
+      213: -2907426996244273558
+    second: tree boss HURTY 1_789
+  - first:
+      213: -634327203326484640
+    second: tree boss HURTY 1_790
+  - first:
+      213: -1044054471376669147
+    second: tree boss HURTY 1_791
+  - first:
+      213: 8586569342695964299
+    second: tree boss HURTY 1_792
+  - first:
+      213: -1661333587272922236
+    second: tree boss HURTY 1_793
+  - first:
+      213: 5811072815531171276
+    second: tree boss HURTY 1_794
+  - first:
+      213: 4890721627615961279
+    second: tree boss HURTY 1_795
+  - first:
+      213: -7499023937540489408
+    second: tree boss HURTY 1_796
+  - first:
+      213: -7595558250665359174
+    second: tree boss HURTY 1_797
+  - first:
+      213: 2422683376880672129
+    second: tree boss HURTY 1_798
+  - first:
+      213: 924822096050473894
+    second: tree boss HURTY 1_799
+  - first:
+      213: 9011566673500359057
+    second: tree boss HURTY 1_800
+  - first:
+      213: -3855289875134952217
+    second: tree boss HURTY 1_801
+  - first:
+      213: -2668054271334532412
+    second: tree boss HURTY 1_802
+  - first:
+      213: 1461596101444291386
+    second: tree boss HURTY 1_803
+  - first:
+      213: -329235670126652431
+    second: tree boss HURTY 1_804
+  - first:
+      213: -3029394511492756706
+    second: tree boss HURTY 1_805
+  - first:
+      213: -5880869074387825690
+    second: tree boss HURTY 1_806
+  - first:
+      213: -1083018281503479021
+    second: tree boss HURTY 1_807
+  - first:
+      213: -4190966531985476770
+    second: tree boss HURTY 1_808
+  - first:
+      213: 2119636218236001876
+    second: tree boss HURTY 1_809
+  - first:
+      213: -1311250878470654831
+    second: tree boss HURTY 1_810
+  - first:
+      213: -9197729089915529530
+    second: tree boss HURTY 1_811
+  - first:
+      213: 1445202448595758307
+    second: tree boss HURTY 1_812
+  - first:
+      213: -3900731033968043007
+    second: tree boss HURTY 1_813
+  - first:
+      213: -1501855794257911514
+    second: tree boss HURTY 1_814
+  - first:
+      213: 5217996269908512574
+    second: tree boss HURTY 1_815
+  - first:
+      213: 8840883660961758359
+    second: tree boss HURTY 1_816
+  - first:
+      213: 224240925486149388
+    second: tree boss HURTY 1_817
+  - first:
+      213: 979871086758685845
+    second: tree boss HURTY 1_818
+  - first:
+      213: 1238309004256966927
+    second: tree boss HURTY 1_819
+  - first:
+      213: -8880097931748605503
+    second: tree boss HURTY 1_820
+  - first:
+      213: -493071598571094774
+    second: tree boss HURTY 1_821
+  - first:
+      213: -1599348893049150706
+    second: tree boss HURTY 1_822
+  - first:
+      213: -7261018536392864395
+    second: tree boss HURTY 1_823
+  - first:
+      213: -4705698758980035813
+    second: tree boss HURTY 1_824
+  - first:
+      213: 1705304343678605668
+    second: tree boss HURTY 1_825
+  - first:
+      213: -727770607526242713
+    second: tree boss HURTY 1_826
+  - first:
+      213: -7791273444931203933
+    second: tree boss HURTY 1_827
+  - first:
+      213: 3116123895533615005
+    second: tree boss HURTY 1_828
+  - first:
+      213: 1974741674736149897
+    second: tree boss HURTY 1_829
+  - first:
+      213: -4657628488795072890
+    second: tree boss HURTY 1_830
+  - first:
+      213: -3511600797224340685
+    second: tree boss HURTY 1_831
+  - first:
+      213: -6706897716070089554
+    second: tree boss HURTY 1_832
+  - first:
+      213: 6161142913574401905
+    second: tree boss HURTY 1_833
+  - first:
+      213: 8516639885569998011
+    second: tree boss HURTY 1_834
+  - first:
+      213: 7070686828056557296
+    second: tree boss HURTY 1_835
+  - first:
+      213: 2533407725433452547
+    second: tree boss HURTY 1_836
+  - first:
+      213: -6345758437836245965
+    second: tree boss HURTY 1_837
+  - first:
+      213: 2388392015259489530
+    second: tree boss HURTY 1_838
+  - first:
+      213: 4394111734467790067
+    second: tree boss HURTY 1_839
+  - first:
+      213: -1854754434938476637
+    second: tree boss HURTY 1_840
+  - first:
+      213: 5964653710197677748
+    second: tree boss HURTY 1_841
+  - first:
+      213: 7017493663560261162
+    second: tree boss HURTY 1_842
+  - first:
+      213: -5374256721247886592
+    second: tree boss HURTY 1_843
+  - first:
+      213: -3741216496026160551
+    second: tree boss HURTY 1_844
+  - first:
+      213: -2887854868239078282
+    second: tree boss HURTY 1_845
+  - first:
+      213: 1554048676364221095
+    second: tree boss HURTY 1_846
+  - first:
+      213: -5761451145361429068
+    second: tree boss HURTY 1_847
+  - first:
+      213: -4570501445324405249
+    second: tree boss HURTY 1_848
+  - first:
+      213: 5278495101358392413
+    second: tree boss HURTY 1_849
+  - first:
+      213: -7173533385343752976
+    second: tree boss HURTY 1_850
+  - first:
+      213: 3189198190471235558
+    second: tree boss HURTY 1_851
+  - first:
+      213: -4635072139262878315
+    second: tree boss HURTY 1_852
+  - first:
+      213: -9086539756384571547
+    second: tree boss HURTY 1_853
+  - first:
+      213: -3335972450935013239
+    second: tree boss HURTY 1_854
+  - first:
+      213: -9116515060783450449
+    second: tree boss HURTY 1_855
+  - first:
+      213: -6769610118594658174
+    second: tree boss HURTY 1_856
+  - first:
+      213: -4448406624874844552
+    second: tree boss HURTY 1_857
+  - first:
+      213: -691664364599261883
+    second: tree boss HURTY 1_858
+  - first:
+      213: 2151210483602735034
+    second: tree boss HURTY 1_859
+  - first:
+      213: -2895263138906242861
+    second: tree boss HURTY 1_860
+  - first:
+      213: 2373658781868639246
+    second: tree boss HURTY 1_861
+  - first:
+      213: 7683172643166234081
+    second: tree boss HURTY 1_862
+  - first:
+      213: -8489011522084347462
+    second: tree boss HURTY 1_863
+  - first:
+      213: -2768585490896135231
+    second: tree boss HURTY 1_864
+  - first:
+      213: 7872967695770374581
+    second: tree boss HURTY 1_865
+  - first:
+      213: 1183636187203882018
+    second: tree boss HURTY 1_866
+  - first:
+      213: 5434490902993204481
+    second: tree boss HURTY 1_867
+  - first:
+      213: -110359089000631361
+    second: tree boss HURTY 1_868
+  - first:
+      213: -6843134266943115139
+    second: tree boss HURTY 1_869
+  - first:
+      213: -3444977838912127407
+    second: tree boss HURTY 1_870
+  - first:
+      213: -5629460831530458180
+    second: tree boss HURTY 1_871
+  - first:
+      213: -720691138755891854
+    second: tree boss HURTY 1_872
+  - first:
+      213: -8158287406348146209
+    second: tree boss HURTY 1_873
+  - first:
+      213: -8018288265300509312
+    second: tree boss HURTY 1_874
+  - first:
+      213: 345441843048390974
+    second: tree boss HURTY 1_875
+  - first:
+      213: -2584074611843894433
+    second: tree boss HURTY 1_876
+  - first:
+      213: -7627644119062943090
+    second: tree boss HURTY 1_877
+  - first:
+      213: -5620978962354611660
+    second: tree boss HURTY 1_878
+  - first:
+      213: 7428532111365847624
+    second: tree boss HURTY 1_879
+  - first:
+      213: 1844135310987441647
+    second: tree boss HURTY 1_880
+  - first:
+      213: -3226634570744288253
+    second: tree boss HURTY 1_881
+  - first:
+      213: -3773919118509127834
+    second: tree boss HURTY 1_882
+  - first:
+      213: 3588184382039038687
+    second: tree boss HURTY 1_883
+  - first:
+      213: 7859020681983787759
+    second: tree boss HURTY 1_884
+  - first:
+      213: 7818294658027317334
+    second: tree boss HURTY 1_885
+  - first:
+      213: 8074697131179208489
+    second: tree boss HURTY 1_886
+  - first:
+      213: -5542400708960202136
+    second: tree boss HURTY 1_887
+  - first:
+      213: -8422540185258548821
+    second: tree boss HURTY 1_888
+  - first:
+      213: -2886239350361813256
+    second: tree boss HURTY 1_889
+  - first:
+      213: -4907185838478790697
+    second: tree boss HURTY 1_890
+  - first:
+      213: 5430677571481409753
+    second: tree boss HURTY 1_891
+  - first:
+      213: 6358678168415365687
+    second: tree boss HURTY 1_892
+  - first:
+      213: 106004800826947274
+    second: tree boss HURTY 1_893
+  - first:
+      213: 3090049743576898804
+    second: tree boss HURTY 1_894
+  - first:
+      213: 381060360686789451
+    second: tree boss HURTY 1_895
+  - first:
+      213: 8635843729551167992
+    second: tree boss HURTY 1_896
+  - first:
+      213: 190076749897460763
+    second: tree boss HURTY 1_897
+  - first:
+      213: 8605817391316152419
+    second: tree boss HURTY 1_898
+  - first:
+      213: 4630506236609944270
+    second: tree boss HURTY 1_899
+  - first:
+      213: 1349850778828332189
+    second: tree boss HURTY 1_900
+  - first:
+      213: 2173361967673429009
+    second: tree boss HURTY 1_901
+  - first:
+      213: -7679632043566352522
+    second: tree boss HURTY 1_902
+  - first:
+      213: -3437991242498150998
+    second: tree boss HURTY 1_903
+  - first:
+      213: -607533492829907853
+    second: tree boss HURTY 1_904
+  - first:
+      213: -6690427337085506293
+    second: tree boss HURTY 1_905
+  - first:
+      213: 4960927027301833423
+    second: tree boss HURTY 1_906
+  - first:
+      213: -8300005104589966575
+    second: tree boss HURTY 1_907
+  - first:
+      213: 656300516888279713
+    second: tree boss HURTY 1_908
+  - first:
+      213: 5790930274524356187
+    second: tree boss HURTY 1_909
+  - first:
+      213: 982137231893625276
+    second: tree boss HURTY 1_910
+  - first:
+      213: 3794516959025971693
+    second: tree boss HURTY 1_911
+  - first:
+      213: 2152935333672791647
+    second: tree boss HURTY 1_912
+  - first:
+      213: 1599956601353998900
+    second: tree boss HURTY 1_913
+  - first:
+      213: 1281727156241587607
+    second: tree boss HURTY 1_914
+  - first:
+      213: -4589488461206741994
+    second: tree boss HURTY 1_915
+  - first:
+      213: 6955156464314677461
+    second: tree boss HURTY 1_916
+  - first:
+      213: 7305260789502515968
+    second: tree boss HURTY 1_917
+  - first:
+      213: 6403689943789056502
+    second: tree boss HURTY 1_918
+  - first:
+      213: 2821716124645501074
+    second: tree boss HURTY 1_919
+  - first:
+      213: 5331072389377345549
+    second: tree boss HURTY 1_920
+  - first:
+      213: -6381556990025479689
+    second: tree boss HURTY 1_921
+  - first:
+      213: 933187898345223196
+    second: tree boss HURTY 1_922
+  - first:
+      213: -9069803923797538204
+    second: tree boss HURTY 1_923
+  - first:
+      213: -1849455801774884227
+    second: tree boss HURTY 1_924
+  - first:
+      213: -5555198875201463361
+    second: tree boss HURTY 1_925
+  - first:
+      213: 5677349675774826287
+    second: tree boss HURTY 1_926
+  - first:
+      213: 4198681127028964677
+    second: tree boss HURTY 1_927
+  - first:
+      213: 5502757873368082636
+    second: tree boss HURTY 1_928
+  - first:
+      213: -6867629385914563830
+    second: tree boss HURTY 1_929
+  - first:
+      213: 6282415276373764222
+    second: tree boss HURTY 1_930
+  - first:
+      213: 7928663284984513566
+    second: tree boss HURTY 1_931
+  - first:
+      213: -5969597983717942704
+    second: tree boss HURTY 1_932
+  - first:
+      213: -2444963468153004240
+    second: tree boss HURTY 1_933
+  - first:
+      213: -8223091160824239270
+    second: tree boss HURTY 1_934
+  - first:
+      213: 9134922888902878496
+    second: tree boss HURTY 1_935
+  - first:
+      213: 4168793070159044855
+    second: tree boss HURTY 1_936
+  - first:
+      213: 2764595970292635928
+    second: tree boss HURTY 1_937
+  - first:
+      213: 94226771425975505
+    second: tree boss HURTY 1_938
+  - first:
+      213: 9082100362411528958
+    second: tree boss HURTY 1_939
+  - first:
+      213: -4018379426780355465
+    second: tree boss HURTY 1_940
+  - first:
+      213: -7218164834251884064
+    second: tree boss HURTY 1_941
+  - first:
+      213: -7279179826306331191
+    second: tree boss HURTY 1_942
+  - first:
+      213: -7683183169756144948
+    second: tree boss HURTY 1_943
+  - first:
+      213: -7163971876003691035
+    second: tree boss HURTY 1_944
+  - first:
+      213: -692736434946737530
+    second: tree boss HURTY 1_945
+  - first:
+      213: -1668407832573400842
+    second: tree boss HURTY 1_946
+  - first:
+      213: 7998237591452070622
+    second: tree boss HURTY 1_947
+  - first:
+      213: -671926618366942483
+    second: tree boss HURTY 1_948
+  - first:
+      213: 1397330097198938880
+    second: tree boss HURTY 1_949
+  - first:
+      213: 4370917671004745186
+    second: tree boss HURTY 1_950
+  - first:
+      213: 4706134375455842537
+    second: tree boss HURTY 1_951
+  - first:
+      213: 4078413066591310755
+    second: tree boss HURTY 1_952
+  - first:
+      213: 3466963650546566355
+    second: tree boss HURTY 1_953
+  - first:
+      213: -9192813076807461675
+    second: tree boss HURTY 1_954
+  - first:
+      213: 4861094793246740982
+    second: tree boss HURTY 1_955
+  - first:
+      213: -2688717374211454301
+    second: tree boss HURTY 1_956
+  - first:
+      213: 7812530609830991903
+    second: tree boss HURTY 1_957
+  - first:
+      213: 3496370094443325063
+    second: tree boss HURTY 1_958
+  - first:
+      213: 2504400316714995828
+    second: tree boss HURTY 1_959
+  - first:
+      213: -8325671209733595123
+    second: tree boss HURTY 1_960
+  - first:
+      213: 2238793063461195953
+    second: tree boss HURTY 1_961
+  - first:
+      213: -5296609273488052210
+    second: tree boss HURTY 1_962
+  - first:
+      213: 5090988633392997670
+    second: tree boss HURTY 1_963
+  - first:
+      213: 2657964125461987309
+    second: tree boss HURTY 1_964
+  - first:
+      213: 2458009897603386426
+    second: tree boss HURTY 1_965
+  - first:
+      213: 15815210449060612
+    second: tree boss HURTY 1_966
+  - first:
+      213: -7166193289445477724
+    second: tree boss HURTY 1_967
+  - first:
+      213: 6025417792403398487
+    second: tree boss HURTY 1_968
+  - first:
+      213: 8448516293111265812
+    second: tree boss HURTY 1_969
+  - first:
+      213: -1194806924650299831
+    second: tree boss HURTY 1_970
+  - first:
+      213: -609646200759146310
+    second: tree boss HURTY 1_971
+  - first:
+      213: 1376263390645554967
+    second: tree boss HURTY 1_972
+  - first:
+      213: -3275663313582925604
+    second: tree boss HURTY 1_973
+  - first:
+      213: -7512308063938101570
+    second: tree boss HURTY 1_974
+  - first:
+      213: -8429051281944184190
+    second: tree boss HURTY 1_975
+  - first:
+      213: -4780723397138758098
+    second: tree boss HURTY 1_976
+  - first:
+      213: -31934260656388953
+    second: tree boss HURTY 1_977
+  - first:
+      213: 7451849538185831198
+    second: tree boss HURTY 1_978
+  - first:
+      213: 142674088884066504
+    second: tree boss HURTY 1_979
+  - first:
+      213: -7013861231758829834
+    second: tree boss HURTY 1_980
+  - first:
+      213: -3479733207065468822
+    second: tree boss HURTY 1_981
+  - first:
+      213: -2155072852093182812
+    second: tree boss HURTY 1_982
+  - first:
+      213: 372888696072875465
+    second: tree boss HURTY 1_983
+  - first:
+      213: 7764114744569109113
+    second: tree boss HURTY 1_984
+  - first:
+      213: -7871522960185330211
+    second: tree boss HURTY 1_985
+  - first:
+      213: -3983390232126206042
+    second: tree boss HURTY 1_986
+  - first:
+      213: 2988450380808690171
+    second: tree boss HURTY 1_987
+  - first:
+      213: 874868634367639622
+    second: tree boss HURTY 1_988
+  - first:
+      213: -8572489074535429760
+    second: tree boss HURTY 1_989
+  - first:
+      213: -5013949272251368871
+    second: tree boss HURTY 1_990
+  - first:
+      213: 5589057129893239028
+    second: tree boss HURTY 1_991
+  - first:
+      213: 9152826366198156227
+    second: tree boss HURTY 1_992
+  - first:
+      213: -5602723626861107782
+    second: tree boss HURTY 1_993
+  - first:
+      213: -4330585766746368874
+    second: tree boss HURTY 1_994
+  - first:
+      213: -3465689776588149623
+    second: tree boss HURTY 1_995
+  - first:
+      213: -3754247673141514794
+    second: tree boss HURTY 1_996
+  - first:
+      213: 337769060954488873
+    second: tree boss HURTY 1_997
+  - first:
+      213: 2955646405978167518
+    second: tree boss HURTY 1_998
+  - first:
+      213: 3907199467004516517
+    second: tree boss HURTY 1_999
+  - first:
+      213: -4565447111917923481
+    second: tree boss HURTY 1_1000
+  - first:
+      213: -459977681211325083
+    second: tree boss HURTY 1_1001
+  - first:
+      213: 8752580953087431202
+    second: tree boss HURTY 1_1002
+  - first:
+      213: 1721594143871245445
+    second: tree boss HURTY 1_1003
+  - first:
+      213: -7512691289745651425
+    second: tree boss HURTY 1_1004
+  - first:
+      213: -85617279268067156
+    second: tree boss HURTY 1_1005
+  - first:
+      213: 599437036971769445
+    second: tree boss HURTY 1_1006
+  - first:
+      213: -4070079585657843043
+    second: tree boss HURTY 1_1007
+  - first:
+      213: 4407344852640839037
+    second: tree boss HURTY 1_1008
+  - first:
+      213: -5163848346781504339
+    second: tree boss HURTY 1_1009
+  - first:
+      213: 3610098674433239306
+    second: tree boss HURTY 1_1010
+  - first:
+      213: 3624849549095189297
+    second: tree boss HURTY 1_1011
+  - first:
+      213: 5624173306919575267
+    second: tree boss HURTY 1_1012
+  - first:
+      213: 8236270064651307014
+    second: tree boss HURTY 1_1013
+  - first:
+      213: 6413982565540325146
+    second: tree boss HURTY 1_1014
+  - first:
+      213: -1863965229253001400
+    second: tree boss HURTY 1_1015
+  - first:
+      213: -8901591209780910075
+    second: tree boss HURTY 1_1016
+  - first:
+      213: 7725386867154067693
+    second: tree boss HURTY 1_1017
+  - first:
+      213: 5590127194000619635
+    second: tree boss HURTY 1_1018
+  - first:
+      213: -6308960304978630083
+    second: tree boss HURTY 1_1019
+  - first:
+      213: -1445793785929681362
+    second: tree boss HURTY 1_1020
+  - first:
+      213: 9029881333801336014
+    second: tree boss HURTY 1_1021
+  - first:
+      213: 4417042175422504848
+    second: tree boss HURTY 1_1022
+  - first:
+      213: -6234244357003836738
+    second: tree boss HURTY 1_1023
+  - first:
+      213: -230278608294996435
+    second: tree boss HURTY 1_1024
+  - first:
+      213: 4846584913185228775
+    second: tree boss HURTY 1_1025
+  - first:
+      213: 3417034191136835520
+    second: tree boss HURTY 1_1026
+  - first:
+      213: 5754614313586523559
+    second: tree boss HURTY 1_1027
+  - first:
+      213: -6206239305983596632
+    second: tree boss HURTY 1_1028
+  - first:
+      213: 3732364677777624558
+    second: tree boss HURTY 1_1029
+  - first:
+      213: -5032892025807366288
+    second: tree boss HURTY 1_1030
+  - first:
+      213: 8056126652008941222
+    second: tree boss HURTY 1_1031
+  - first:
+      213: 5041892411246233144
+    second: tree boss HURTY 1_1032
+  - first:
+      213: -4945137663503910307
+    second: tree boss HURTY 1_1033
+  - first:
+      213: -4942020517532405911
+    second: tree boss HURTY 1_1034
+  - first:
+      213: -4003206317289038850
+    second: tree boss HURTY 1_1035
+  - first:
+      213: 7747802757524836798
+    second: tree boss HURTY 1_1036
+  - first:
+      213: -3789240940439406958
+    second: tree boss HURTY 1_1037
+  - first:
+      213: -4025093652088899019
+    second: tree boss HURTY 1_1038
+  - first:
+      213: 12160261256790592
+    second: tree boss HURTY 1_1039
+  - first:
+      213: -7267558923747757354
+    second: tree boss HURTY 1_1040
+  - first:
+      213: 7267920150926660522
+    second: tree boss HURTY 1_1041
+  - first:
+      213: 230451225845286460
+    second: tree boss HURTY 1_1042
+  - first:
+      213: 2234840015540622630
+    second: tree boss HURTY 1_1043
+  - first:
+      213: -3189068657801303404
+    second: tree boss HURTY 1_1044
+  - first:
+      213: -5923606635057715616
+    second: tree boss HURTY 1_1045
+  - first:
+      213: -7646761461062716966
+    second: tree boss HURTY 1_1046
+  - first:
+      213: 88779109974980737
+    second: tree boss HURTY 1_1047
+  - first:
+      213: 5718165876112729351
+    second: tree boss HURTY 1_1048
+  - first:
+      213: -6275056929879266169
+    second: tree boss HURTY 1_1049
+  - first:
+      213: -4181939045661333404
+    second: tree boss HURTY 1_1050
+  - first:
+      213: 5029547741208120472
+    second: tree boss HURTY 1_1051
+  - first:
+      213: 5289517157546344500
+    second: tree boss HURTY 1_1052
+  - first:
+      213: -7230735584733189887
+    second: tree boss HURTY 1_1053
+  - first:
+      213: 3497876362330818265
+    second: tree boss HURTY 1_1054
+  - first:
+      213: -8706252084026495012
+    second: tree boss HURTY 1_1055
+  - first:
+      213: 5993586723146690629
+    second: tree boss HURTY 1_1056
+  - first:
+      213: 8922075597197546677
+    second: tree boss HURTY 1_1057
+  - first:
+      213: -3115592123149565284
+    second: tree boss HURTY 1_1058
+  - first:
+      213: -707179061778198630
+    second: tree boss HURTY 1_1059
+  - first:
+      213: -1255309232663996791
+    second: tree boss HURTY 1_1060
+  - first:
+      213: 448638092847846979
+    second: tree boss HURTY 1_1061
+  - first:
+      213: -1140783671052508204
+    second: tree boss HURTY 1_1062
+  - first:
+      213: -9068989651504455708
+    second: tree boss HURTY 1_1063
+  - first:
+      213: -1663716982954525606
+    second: tree boss HURTY 1_1064
+  - first:
+      213: 7927369090564744610
+    second: tree boss HURTY 1_1065
+  - first:
+      213: 1036008123274271839
+    second: tree boss HURTY 1_1066
+  - first:
+      213: -7634550356014058135
+    second: tree boss HURTY 1_1067
+  - first:
+      213: -7172722234476195618
+    second: tree boss HURTY 1_1068
+  - first:
+      213: -900661324364030046
+    second: tree boss HURTY 1_1069
+  - first:
+      213: -519333195924681777
+    second: tree boss HURTY 1_1070
+  - first:
+      213: 1252317250795607539
+    second: tree boss HURTY 1_1071
+  - first:
+      213: -2842841174979628165
+    second: tree boss HURTY 1_1072
+  - first:
+      213: 5689316659864605590
+    second: tree boss HURTY 1_1073
+  - first:
+      213: -717819488543767048
+    second: tree boss HURTY 1_1074
+  - first:
+      213: 2498047514024248174
+    second: tree boss HURTY 1_1075
+  - first:
+      213: 3931676775867001865
+    second: tree boss HURTY 1_1076
+  - first:
+      213: -7093990701613127429
+    second: tree boss HURTY 1_1077
+  - first:
+      213: 1389143148189697874
+    second: tree boss HURTY 1_1078
+  - first:
+      213: 1882046671163646188
+    second: tree boss HURTY 1_1079
+  - first:
+      213: 3207622786354572173
+    second: tree boss HURTY 1_1080
+  - first:
+      213: -3149016912069088635
+    second: tree boss HURTY 1_1081
+  - first:
+      213: 3775432072682103075
+    second: tree boss HURTY 1_1082
+  - first:
+      213: -3183898557055781623
+    second: tree boss HURTY 1_1083
+  - first:
+      213: 8583998106427147876
+    second: tree boss HURTY 1_1084
+  - first:
+      213: 1579246094700266659
+    second: tree boss HURTY 1_1085
+  - first:
+      213: -4829462919221285894
+    second: tree boss HURTY 1_1086
+  - first:
+      213: -6719894664584070286
+    second: tree boss HURTY 1_1087
+  - first:
+      213: 9131766232986683514
+    second: tree boss HURTY 1_1088
+  - first:
+      213: -18391989350988837
+    second: tree boss HURTY 1_1089
+  - first:
+      213: 135882088844097376
+    second: tree boss HURTY 1_1090
+  - first:
+      213: 8308144493004464207
+    second: tree boss HURTY 1_1091
+  - first:
+      213: -6452919180714003079
+    second: tree boss HURTY 1_1092
+  - first:
+      213: 5329019702388240011
+    second: tree boss HURTY 1_1093
+  - first:
+      213: -4548968732315634076
+    second: tree boss HURTY 1_1094
+  - first:
+      213: -7012731724049968142
+    second: tree boss HURTY 1_1095
+  - first:
+      213: -2803518077783505478
+    second: tree boss HURTY 1_1096
+  - first:
+      213: -7540167003491915398
+    second: tree boss HURTY 1_1097
+  - first:
+      213: 5803888167271264569
+    second: tree boss HURTY 1_1098
+  - first:
+      213: 68857481665325580
+    second: tree boss HURTY 1_1099
+  - first:
+      213: -3676726692897015349
+    second: tree boss HURTY 1_1100
+  - first:
+      213: 5903070762387109130
+    second: tree boss HURTY 1_1101
+  - first:
+      213: 1729159419253314028
+    second: tree boss HURTY 1_1102
+  - first:
+      213: -4966266095885830079
+    second: tree boss HURTY 1_1103
+  - first:
+      213: -8144671296892167245
+    second: tree boss HURTY 1_1104
+  - first:
+      213: -5843199650691669234
+    second: tree boss HURTY 1_1105
+  - first:
+      213: 7281669549805404766
+    second: tree boss HURTY 1_1106
+  - first:
+      213: -8433533472028099429
+    second: tree boss HURTY 1_1107
+  - first:
+      213: 3715727529679064307
+    second: tree boss HURTY 1_1108
+  - first:
+      213: 3201245768746758062
+    second: tree boss HURTY 1_1109
+  - first:
+      213: -8590283471221398723
+    second: tree boss HURTY 1_1110
+  - first:
+      213: 441676631656463103
+    second: tree boss HURTY 1_1111
+  - first:
+      213: 2396209379170567396
+    second: tree boss HURTY 1_1112
+  - first:
+      213: -8854144803972864577
+    second: tree boss HURTY 1_1113
+  - first:
+      213: -5346998213802636565
+    second: tree boss HURTY 1_1114
+  - first:
+      213: -4953331451532149469
+    second: tree boss HURTY 1_1115
+  - first:
+      213: -1365185570427528134
+    second: tree boss HURTY 1_1116
+  - first:
+      213: 3967709577576181666
+    second: tree boss HURTY 1_1117
+  - first:
+      213: -7600923765374305885
+    second: tree boss HURTY 1_1118
+  - first:
+      213: -5484762073655996299
+    second: tree boss HURTY 1_1119
+  - first:
+      213: -6721282114062856854
+    second: tree boss HURTY 1_1120
+  - first:
+      213: -7610477614644343190
+    second: tree boss HURTY 1_1121
+  - first:
+      213: -1198919839799669216
+    second: tree boss HURTY 1_1122
+  - first:
+      213: -7856922844587761372
+    second: tree boss HURTY 1_1123
+  - first:
+      213: -2897080625315858154
+    second: tree boss HURTY 1_1124
+  - first:
+      213: 1803714868409153134
+    second: tree boss HURTY 1_1125
+  - first:
+      213: -8863429641012741223
+    second: tree boss HURTY 1_1126
+  - first:
+      213: -6033401115104970132
+    second: tree boss HURTY 1_1127
+  - first:
+      213: 5954458136679907899
+    second: tree boss HURTY 1_1128
+  - first:
+      213: 5063133497719386112
+    second: tree boss HURTY 1_1129
+  - first:
+      213: 164669650080241668
+    second: tree boss HURTY 1_1130
+  - first:
+      213: -983844474165294999
+    second: tree boss HURTY 1_1131
+  - first:
+      213: -5929476880746807349
+    second: tree boss HURTY 1_1132
+  - first:
+      213: 5442861653306756571
+    second: tree boss HURTY 1_1133
+  - first:
+      213: -1703595399882628081
+    second: tree boss HURTY 1_1134
+  - first:
+      213: -4213963514259666256
+    second: tree boss HURTY 1_1135
+  - first:
+      213: -2143384362275019185
+    second: tree boss HURTY 1_1136
+  - first:
+      213: 2529785195426525397
+    second: tree boss HURTY 1_1137
+  - first:
+      213: 4206711516956841415
+    second: tree boss HURTY 1_1138
+  - first:
+      213: 7152586800158980232
+    second: tree boss HURTY 1_1139
+  - first:
+      213: -5041368695830827107
+    second: tree boss HURTY 1_1140
+  - first:
+      213: -1013217460008421905
+    second: tree boss HURTY 1_1141
+  - first:
+      213: 7888974377452841031
+    second: tree boss HURTY 1_1142
+  - first:
+      213: -2705600910230426819
+    second: tree boss HURTY 1_1143
+  - first:
+      213: 1979744715686810259
+    second: tree boss HURTY 1_1144
+  - first:
+      213: -2310869994314029210
+    second: tree boss HURTY 1_1145
+  - first:
+      213: -2468613279921512434
+    second: tree boss HURTY 1_1146
+  - first:
+      213: 4986732097052962686
+    second: tree boss HURTY 1_1147
+  - first:
+      213: -6147622405639697859
+    second: tree boss HURTY 1_1148
+  - first:
+      213: 7810717310483705880
+    second: tree boss HURTY 1_1149
+  - first:
+      213: 870344234460785346
+    second: tree boss HURTY 1_1150
+  - first:
+      213: 7661011606628640806
+    second: tree boss HURTY 1_1151
+  - first:
+      213: 6885606918204390523
+    second: tree boss HURTY 1_1152
+  - first:
+      213: 8052389123015029487
+    second: tree boss HURTY 1_1153
+  - first:
+      213: -3423988956928140962
+    second: tree boss HURTY 1_1154
+  - first:
+      213: -3555185405582796988
+    second: tree boss HURTY 1_1155
+  - first:
+      213: 6359735212161965696
+    second: tree boss HURTY 1_1156
+  - first:
+      213: -747983798295592821
+    second: tree boss HURTY 1_1157
+  - first:
+      213: -9066440074577383173
+    second: tree boss HURTY 1_1158
+  - first:
+      213: -6899791625885990103
+    second: tree boss HURTY 1_1159
+  - first:
+      213: 6136046182471550464
+    second: tree boss HURTY 1_1160
+  - first:
+      213: 2304457489653015177
+    second: tree boss HURTY 1_1161
+  - first:
+      213: 1156461830140872446
+    second: tree boss HURTY 1_1162
+  - first:
+      213: -3465354148140633501
+    second: tree boss HURTY 1_1163
+  - first:
+      213: 6244613562231587517
+    second: tree boss HURTY 1_1164
+  - first:
+      213: 4415340600834004293
+    second: tree boss HURTY 1_1165
+  - first:
+      213: -2448996790467852729
+    second: tree boss HURTY 1_1166
+  - first:
+      213: -7586890420617116310
+    second: tree boss HURTY 1_1167
+  - first:
+      213: 3806794120193571486
+    second: tree boss HURTY 1_1168
+  - first:
+      213: 8627427694924117117
+    second: tree boss HURTY 1_1169
+  - first:
+      213: 5074273805500531846
+    second: tree boss HURTY 1_1170
+  - first:
+      213: -172408691580141730
+    second: tree boss HURTY 1_1171
+  - first:
+      213: -3694562110864593682
+    second: tree boss HURTY 1_1172
+  - first:
+      213: -2339234460632645430
+    second: tree boss HURTY 1_1173
+  - first:
+      213: 4870513525172633260
+    second: tree boss HURTY 1_1174
+  - first:
+      213: 7550978774830075056
+    second: tree boss HURTY 1_1175
+  - first:
+      213: -4603217009689760711
+    second: tree boss HURTY 1_1176
+  - first:
+      213: -6166313653286581473
+    second: tree boss HURTY 1_1177
+  - first:
+      213: 1658237526894437017
+    second: tree boss HURTY 1_1178
+  - first:
+      213: -1044892712503749737
+    second: tree boss HURTY 1_1179
+  - first:
+      213: -264187708931458168
+    second: tree boss HURTY 1_1180
+  - first:
+      213: 6733722569272488243
+    second: tree boss HURTY 1_1181
+  - first:
+      213: -5380724780629229438
+    second: tree boss HURTY 1_1182
+  - first:
+      213: -1405862895515025571
+    second: tree boss HURTY 1_1183
+  - first:
+      213: -2560576459142484350
+    second: tree boss HURTY 1_1184
+  - first:
+      213: 5400471296181048065
+    second: tree boss HURTY 1_1185
+  - first:
+      213: 4556273828294398066
+    second: tree boss HURTY 1_1186
+  - first:
+      213: 8211601984348034063
+    second: tree boss HURTY 1_1187
+  - first:
+      213: 1181014033216519942
+    second: tree boss HURTY 1_1188
+  - first:
+      213: -3818244742216574752
+    second: tree boss HURTY 1_1189
+  - first:
+      213: -3178227967726421113
+    second: tree boss HURTY 1_1190
+  - first:
+      213: -4739249723623408671
+    second: tree boss HURTY 1_1191
+  - first:
+      213: 1905500943402579544
+    second: tree boss HURTY 1_1192
+  - first:
+      213: 3747570002973604066
+    second: tree boss HURTY 1_1193
+  - first:
+      213: -8678590688275667007
+    second: tree boss HURTY 1_1194
+  - first:
+      213: 343497693605350286
+    second: tree boss HURTY 1_1195
+  - first:
+      213: -377541219620241387
+    second: tree boss HURTY 1_1196
+  - first:
+      213: -7456421306550481303
+    second: tree boss HURTY 1_1197
+  - first:
+      213: 594461238676598318
+    second: tree boss HURTY 1_1198
+  - first:
+      213: -7922036375108225126
+    second: tree boss HURTY 1_1199
+  - first:
+      213: 4484514451902171392
+    second: tree boss HURTY 1_1200
+  - first:
+      213: 898402790295428084
+    second: tree boss HURTY 1_1201
+  - first:
+      213: -3318403171763292293
+    second: tree boss HURTY 1_1202
+  - first:
+      213: 3999044272622899713
+    second: tree boss HURTY 1_1203
+  - first:
+      213: -1894952344433757880
+    second: tree boss HURTY 1_1204
+  - first:
+      213: 5876647111960502939
+    second: tree boss HURTY 1_1205
+  - first:
+      213: 6814410394799275819
+    second: tree boss HURTY 1_1206
+  - first:
+      213: -6798006485736936196
+    second: tree boss HURTY 1_1207
+  - first:
+      213: -1411580713015393336
+    second: tree boss HURTY 1_1208
+  - first:
+      213: -3035332400841000004
+    second: tree boss HURTY 1_1209
+  - first:
+      213: 4333216378999823471
+    second: tree boss HURTY 1_1210
+  - first:
+      213: -5483377130461783882
+    second: tree boss HURTY 1_1211
+  - first:
+      213: -1257122236564183699
+    second: tree boss HURTY 1_1212
+  - first:
+      213: 193031691076702969
+    second: tree boss HURTY 1_1213
+  - first:
+      213: 3868755151991598896
+    second: tree boss HURTY 1_1214
+  - first:
+      213: 217640438586392319
+    second: tree boss HURTY 1_1215
+  - first:
+      213: -1419102301048130927
+    second: tree boss HURTY 1_1216
+  - first:
+      213: 7584497912140382382
+    second: tree boss HURTY 1_1217
+  - first:
+      213: 4602239413442136198
+    second: tree boss HURTY 1_1218
+  - first:
+      213: -3810383173510213062
+    second: tree boss HURTY 1_1219
+  - first:
+      213: 2537668798299295823
+    second: tree boss HURTY 1_1220
+  - first:
+      213: -8553650222141122676
+    second: tree boss HURTY 1_1221
+  - first:
+      213: -2284708493138953533
+    second: tree boss HURTY 1_1222
+  - first:
+      213: -4998191832221640562
+    second: tree boss HURTY 1_1223
+  - first:
+      213: 8229334953551912088
+    second: tree boss HURTY 1_1224
+  - first:
+      213: -5599023831862212419
+    second: tree boss HURTY 1_1225
+  - first:
+      213: -7216980131298589579
+    second: tree boss HURTY 1_1226
+  - first:
+      213: -8638087221690534400
+    second: tree boss HURTY 1_1227
+  - first:
+      213: 5592785846460931439
+    second: tree boss HURTY 1_1228
+  - first:
+      213: 5862922684022790198
+    second: tree boss HURTY 1_1229
+  - first:
+      213: -294812060201175199
+    second: tree boss HURTY 1_1230
+  - first:
+      213: -4516629194440983709
+    second: tree boss HURTY 1_1231
+  - first:
+      213: -8668386175900667293
+    second: tree boss HURTY 1_1232
+  - first:
+      213: 2808874706670124776
+    second: tree boss HURTY 1_1233
+  - first:
+      213: 2033518065307741080
+    second: tree boss HURTY 1_1234
+  - first:
+      213: 3206759316063309617
+    second: tree boss HURTY 1_1235
+  - first:
+      213: -8866912911030218351
+    second: tree boss HURTY 1_1236
+  - first:
+      213: 7643112049225969915
+    second: tree boss HURTY 1_1237
+  - first:
+      213: 696083020469815415
+    second: tree boss HURTY 1_1238
+  - first:
+      213: -2822567860126353569
+    second: tree boss HURTY 1_1239
+  - first:
+      213: 2357528470434518628
+    second: tree boss HURTY 1_1240
+  - first:
+      213: -6621266857269819807
+    second: tree boss HURTY 1_1241
+  - first:
+      213: -6448430827167096418
+    second: tree boss HURTY 1_1242
+  - first:
+      213: 7296343242055263916
+    second: tree boss HURTY 1_1243
+  - first:
+      213: -446000048157242740
+    second: tree boss HURTY 1_1244
+  - first:
+      213: -1324122941641641722
+    second: tree boss HURTY 1_1245
+  - first:
+      213: 8457666688002985265
+    second: tree boss HURTY 1_1246
+  - first:
+      213: 3410497848372539252
+    second: tree boss HURTY 1_1247
+  - first:
+      213: -5874497040669851309
+    second: tree boss HURTY 1_1248
+  - first:
+      213: -294513603875177797
+    second: tree boss HURTY 1_1249
+  - first:
+      213: -4138010950342748578
+    second: tree boss HURTY 1_1250
+  - first:
+      213: -6277263155899715320
+    second: tree boss HURTY 1_1251
+  - first:
+      213: 5926202761301117635
+    second: tree boss HURTY 1_1252
+  - first:
+      213: -6906653630282321614
+    second: tree boss HURTY 1_1253
+  - first:
+      213: -4417770284106389949
+    second: tree boss HURTY 1_1254
+  - first:
+      213: 4902615422928909119
+    second: tree boss HURTY 1_1255
+  - first:
+      213: 5247316841799510884
+    second: tree boss HURTY 1_1256
+  - first:
+      213: 3373031899376252238
+    second: tree boss HURTY 1_1257
+  - first:
+      213: -1350376177191966578
+    second: tree boss HURTY 1_1258
+  - first:
+      213: 6399270646923966225
+    second: tree boss HURTY 1_1259
+  - first:
+      213: 8974195262035608465
+    second: tree boss HURTY 1_1260
+  - first:
+      213: -399847517797226993
+    second: tree boss HURTY 1_1261
+  - first:
+      213: 426661241113773994
+    second: tree boss HURTY 1_1262
+  - first:
+      213: 3935919149311652022
+    second: tree boss HURTY 1_1263
+  - first:
+      213: -2468446660232943124
+    second: tree boss HURTY 1_1264
+  - first:
+      213: -8497086035461946205
+    second: tree boss HURTY 1_1265
+  - first:
+      213: -6808923498701944607
+    second: tree boss HURTY 1_1266
+  - first:
+      213: 612825421381360673
+    second: tree boss HURTY 1_1267
+  - first:
+      213: 5217935636338510837
+    second: tree boss HURTY 1_1268
+  - first:
+      213: 4158150622868338205
+    second: tree boss HURTY 1_1269
+  - first:
+      213: 4395801464627392952
+    second: tree boss HURTY 1_1270
+  - first:
+      213: -7610161947582456729
+    second: tree boss HURTY 1_1271
+  - first:
+      213: 460134316571310291
+    second: tree boss HURTY 1_1272
+  - first:
+      213: 7663491520800191169
+    second: tree boss HURTY 1_1273
+  - first:
+      213: 4821170819075880451
+    second: tree boss HURTY 1_1274
+  - first:
+      213: 2522933630179247939
+    second: tree boss HURTY 1_1275
+  - first:
+      213: 7919915887037774205
+    second: tree boss HURTY 1_1276
+  - first:
+      213: -2629775301272318146
+    second: tree boss HURTY 1_1277
+  - first:
+      213: 3105935705707764668
+    second: tree boss HURTY 1_1278
+  - first:
+      213: 1367493387900518054
+    second: tree boss HURTY 1_1279
+  - first:
+      213: 7574251868484576765
+    second: tree boss HURTY 1_1280
+  - first:
+      213: 1788079725638508596
+    second: tree boss HURTY 1_1281
+  - first:
+      213: -4273639112981773961
+    second: tree boss HURTY 1_1282
+  - first:
+      213: 5707854619529298327
+    second: tree boss HURTY 1_1283
+  - first:
+      213: 8044153785011966396
+    second: tree boss HURTY 1_1284
+  - first:
+      213: 1409432631010516915
+    second: tree boss HURTY 1_1285
+  - first:
+      213: 797052837962579644
+    second: tree boss HURTY 1_1286
+  - first:
+      213: -6141075026133869744
+    second: tree boss HURTY 1_1287
+  - first:
+      213: -5516191811267819413
+    second: tree boss HURTY 1_1288
+  - first:
+      213: -7348718031190928464
+    second: tree boss HURTY 1_1289
+  - first:
+      213: 5507251641048596314
+    second: tree boss HURTY 1_1290
+  - first:
+      213: 7656369751330602193
+    second: tree boss HURTY 1_1291
+  - first:
+      213: -1533345328762730724
+    second: tree boss HURTY 1_1292
+  - first:
+      213: 5116923848281731652
+    second: tree boss HURTY 1_1293
+  - first:
+      213: 6172991918240649942
+    second: tree boss HURTY 1_1294
+  - first:
+      213: 7780775018330386199
+    second: tree boss HURTY 1_1295
+  - first:
+      213: 5094137787152660735
+    second: tree boss HURTY 1_1296
+  - first:
+      213: 9044120912754977686
+    second: tree boss HURTY 1_1297
+  - first:
+      213: 8339288945572134446
+    second: tree boss HURTY 1_1298
+  - first:
+      213: -3949622025936983890
+    second: tree boss HURTY 1_1299
+  - first:
+      213: 856435158479052011
+    second: tree boss HURTY 1_1300
+  - first:
+      213: -4593706596428491728
+    second: tree boss HURTY 1_1301
+  - first:
+      213: -747111948631379274
+    second: tree boss HURTY 1_1302
+  - first:
+      213: -7984941913906497516
+    second: tree boss HURTY 1_1303
+  - first:
+      213: 8484205055639931689
+    second: tree boss HURTY 1_1304
+  - first:
+      213: -5350126006369707147
+    second: tree boss HURTY 1_1305
+  - first:
+      213: -437769958466752904
+    second: tree boss HURTY 1_1306
+  - first:
+      213: -2405059109640636679
+    second: tree boss HURTY 1_1307
+  - first:
+      213: -5956588232496152657
+    second: tree boss HURTY 1_1308
+  - first:
+      213: -55400371172686001
+    second: tree boss HURTY 1_1309
+  - first:
+      213: 6852602936540114310
+    second: tree boss HURTY 1_1310
+  - first:
+      213: 7637745126727617641
+    second: tree boss HURTY 1_1311
+  - first:
+      213: -7704729779354018628
+    second: tree boss HURTY 1_1312
+  - first:
+      213: 231164537071948502
+    second: tree boss HURTY 1_1313
+  - first:
+      213: -104449934390653985
+    second: tree boss HURTY 1_1314
+  - first:
+      213: -3866900208458984742
+    second: tree boss HURTY 1_1315
+  - first:
+      213: 5284531547052110236
+    second: tree boss HURTY 1_1316
+  - first:
+      213: -7665993934544249965
+    second: tree boss HURTY 1_1317
+  - first:
+      213: -6631275582079410816
+    second: tree boss HURTY 1_1318
+  - first:
+      213: 8856862397616243497
+    second: tree boss HURTY 1_1319
+  - first:
+      213: -3731208658569149114
+    second: tree boss HURTY 1_1320
+  - first:
+      213: -4045306514396462060
+    second: tree boss HURTY 1_1321
+  - first:
+      213: 5209038595518691569
+    second: tree boss HURTY 1_1322
+  - first:
+      213: 4167927485889883660
+    second: tree boss HURTY 1_1323
+  - first:
+      213: 8123413803375956540
+    second: tree boss HURTY 1_1324
+  - first:
+      213: -2650703469988081625
+    second: tree boss HURTY 1_1325
+  - first:
+      213: 3953510736526361958
+    second: tree boss HURTY 1_1326
+  - first:
+      213: -5452366158506220871
+    second: tree boss HURTY 1_1327
+  - first:
+      213: 7210352877193411596
+    second: tree boss HURTY 1_1328
+  - first:
+      213: 6186173098569477217
+    second: tree boss HURTY 1_1329
+  - first:
+      213: -8979821069112469726
+    second: tree boss HURTY 1_1330
+  - first:
+      213: 95707925978840119
+    second: tree boss HURTY 1_1331
+  - first:
+      213: 3260910967212085409
+    second: tree boss HURTY 1_1332
+  - first:
+      213: -3445107382381746098
+    second: tree boss HURTY 1_1333
+  - first:
+      213: -8211125900814412355
+    second: tree boss HURTY 1_1334
+  - first:
+      213: -4872017535901623374
+    second: tree boss HURTY 1_1335
+  - first:
+      213: 5378469600205487327
+    second: tree boss HURTY 1_1336
+  - first:
+      213: -691468256102297011
+    second: tree boss HURTY 1_1337
+  - first:
+      213: -3421127396446248382
+    second: tree boss HURTY 1_1338
+  - first:
+      213: 1838176779635534375
+    second: tree boss HURTY 1_1339
+  - first:
+      213: 6457579457607688876
+    second: tree boss HURTY 1_1340
+  - first:
+      213: 863911933712900297
+    second: tree boss HURTY 1_1341
+  - first:
+      213: -1137588849702152213
+    second: tree boss HURTY 1_1342
+  - first:
+      213: -9097550340613808325
+    second: tree boss HURTY 1_1343
+  - first:
+      213: -3171326996374391349
+    second: tree boss HURTY 1_1344
+  - first:
+      213: -8015346337845229678
+    second: tree boss HURTY 1_1345
+  - first:
+      213: -2036829536766414614
+    second: tree boss HURTY 1_1346
+  - first:
+      213: 7895364987421569229
+    second: tree boss HURTY 1_1347
+  - first:
+      213: 8543007246253309594
+    second: tree boss HURTY 1_1348
+  - first:
+      213: 7576977489355135398
+    second: tree boss HURTY 1_1349
+  - first:
+      213: -1730984047528012469
+    second: tree boss HURTY 1_1350
+  - first:
+      213: 1205273825313562970
+    second: tree boss HURTY 1_1351
+  - first:
+      213: 3178309063386227505
+    second: tree boss HURTY 1_1352
+  - first:
+      213: -661996553900971221
+    second: tree boss HURTY 1_1353
+  - first:
+      213: -3761081087562199873
+    second: tree boss HURTY 1_1354
+  - first:
+      213: -5056464520326202022
+    second: tree boss HURTY 1_1355
+  - first:
+      213: -642442276579726083
+    second: tree boss HURTY 1_1356
+  - first:
+      213: -4396983213350358629
+    second: tree boss HURTY 1_1357
+  - first:
+      213: 4695798163454476515
+    second: tree boss HURTY 1_1358
+  - first:
+      213: -8110577068473376437
+    second: tree boss HURTY 1_1359
+  - first:
+      213: 1754723119402318324
+    second: tree boss HURTY 1_1360
+  - first:
+      213: 4892084290346043175
+    second: tree boss HURTY 1_1361
+  - first:
+      213: 7436341030778793153
+    second: tree boss HURTY 1_1362
+  - first:
+      213: -3775424175437997441
+    second: tree boss HURTY 1_1363
+  - first:
+      213: 7544858304250243690
+    second: tree boss HURTY 1_1364
+  - first:
+      213: -6367716146831122829
+    second: tree boss HURTY 1_1365
+  - first:
+      213: 6242977859722194133
+    second: tree boss HURTY 1_1366
+  - first:
+      213: -957782066083884161
+    second: tree boss HURTY 1_1367
+  - first:
+      213: 1791765433698556341
+    second: tree boss HURTY 1_1368
+  - first:
+      213: 7082429666537862695
+    second: tree boss HURTY 1_1369
+  - first:
+      213: 7018126445052206699
+    second: tree boss HURTY 1_1370
+  - first:
+      213: 7704251434550641650
+    second: tree boss HURTY 1_1371
+  - first:
+      213: -657429992313802387
+    second: tree boss HURTY 1_1372
+  - first:
+      213: 4207405047128403028
+    second: tree boss HURTY 1_1373
+  - first:
+      213: -7011061399740597803
+    second: tree boss HURTY 1_1374
+  - first:
+      213: 1839387532048532814
+    second: tree boss HURTY 1_1375
+  - first:
+      213: 3135967608267764902
+    second: tree boss HURTY 1_1376
+  - first:
+      213: -3684098756555983996
+    second: tree boss HURTY 1_1377
+  - first:
+      213: 7967698074393245408
+    second: tree boss HURTY 1_1378
+  - first:
+      213: 1572693027195437785
+    second: tree boss HURTY 1_1379
+  - first:
+      213: -4593485924809171157
+    second: tree boss HURTY 1_1380
+  - first:
+      213: -7634227565214468673
+    second: tree boss HURTY 1_1381
+  - first:
+      213: -9168377054564372584
+    second: tree boss HURTY 1_1382
+  - first:
+      213: 4624061395413298422
+    second: tree boss HURTY 1_1383
+  - first:
+      213: 4937426476793483062
+    second: tree boss HURTY 1_1384
+  - first:
+      213: -7951218504252077224
+    second: tree boss HURTY 1_1385
+  - first:
+      213: -703958445087543779
+    second: tree boss HURTY 1_1386
+  - first:
+      213: 6789375852651852503
+    second: tree boss HURTY 1_1387
+  - first:
+      213: -6324966229410525974
+    second: tree boss HURTY 1_1388
+  - first:
+      213: 8752806938779024280
+    second: tree boss HURTY 1_1389
+  - first:
+      213: 3802573305792720688
+    second: tree boss HURTY 1_1390
+  - first:
+      213: -8182301036822421636
+    second: tree boss HURTY 1_1391
+  - first:
+      213: -2233630326749836228
+    second: tree boss HURTY 1_1392
+  - first:
+      213: 8116538242661479225
+    second: tree boss HURTY 1_1393
+  - first:
+      213: 903900740772136586
+    second: tree boss HURTY 1_1394
+  - first:
+      213: 2323847387161832481
+    second: tree boss HURTY 1_1395
+  - first:
+      213: -686889370460627400
+    second: tree boss HURTY 1_1396
+  - first:
+      213: 8894109435064082026
+    second: tree boss HURTY 1_1397
+  - first:
+      213: 1370806448562574491
+    second: tree boss HURTY 1_1398
+  - first:
+      213: -933651498220723074
+    second: tree boss HURTY 1_1399
+  - first:
+      213: -4786792095157818878
+    second: tree boss HURTY 1_1400
+  - first:
+      213: -1811999591114176456
+    second: tree boss HURTY 1_1401
+  - first:
+      213: -2434308763271406942
+    second: tree boss HURTY 1_1402
+  - first:
+      213: -2011222721753889966
+    second: tree boss HURTY 1_1403
+  - first:
+      213: 940952324617817297
+    second: tree boss HURTY 1_1404
+  - first:
+      213: 5644516561210231745
+    second: tree boss HURTY 1_1405
+  - first:
+      213: 1693870409556253620
+    second: tree boss HURTY 1_1406
+  - first:
+      213: -5717751482632416238
+    second: tree boss HURTY 1_1407
+  - first:
+      213: 9012108221128479182
+    second: tree boss HURTY 1_1408
+  - first:
+      213: 3620129640148456766
+    second: tree boss HURTY 1_1409
+  - first:
+      213: 4779144367577243720
+    second: tree boss HURTY 1_1410
+  - first:
+      213: -1108414247579505813
+    second: tree boss HURTY 1_1411
+  - first:
+      213: -6407173183414824261
+    second: tree boss HURTY 1_1412
+  - first:
+      213: 6679676243516580856
+    second: tree boss HURTY 1_1413
+  - first:
+      213: -3694811463781754893
+    second: tree boss HURTY 1_1414
+  - first:
+      213: -6619235913930537447
+    second: tree boss HURTY 1_1415
+  - first:
+      213: 5128157405240058349
+    second: tree boss HURTY 1_1416
+  - first:
+      213: 3638539768766756490
+    second: tree boss HURTY 1_1417
+  - first:
+      213: 3289390440245275651
+    second: tree boss HURTY 1_1418
+  - first:
+      213: -4087728105034284302
+    second: tree boss HURTY 1_1419
+  - first:
+      213: 7732214829390187689
+    second: tree boss HURTY 1_1420
+  - first:
+      213: 6781716456871211228
+    second: tree boss HURTY 1_1421
+  - first:
+      213: -9193677810217829764
+    second: tree boss HURTY 1_1422
+  - first:
+      213: -3355515465045738880
+    second: tree boss HURTY 1_1423
+  - first:
+      213: 7318659428356098500
+    second: tree boss HURTY 1_1424
+  - first:
+      213: 9114117676571715747
+    second: tree boss HURTY 1_1425
+  - first:
+      213: -1586867578513292519
+    second: tree boss HURTY 1_1426
+  - first:
+      213: -3257978741120597411
+    second: tree boss HURTY 1_1427
+  - first:
+      213: 7501493714369861291
+    second: tree boss HURTY 1_1428
+  - first:
+      213: -239304270417891945
+    second: tree boss HURTY 1_1429
+  - first:
+      213: 7018817869852141292
+    second: tree boss HURTY 1_1430
+  - first:
+      213: 1581399768087988239
+    second: tree boss HURTY 1_1431
+  - first:
+      213: 5381531803905163273
+    second: tree boss HURTY 1_1432
+  - first:
+      213: -5342501049087055180
+    second: tree boss HURTY 1_1433
+  - first:
+      213: 9052345038710552377
+    second: tree boss HURTY 1_1434
+  - first:
+      213: -8427071413082354387
+    second: tree boss HURTY 1_1435
+  - first:
+      213: -1289975670720878610
+    second: tree boss HURTY 1_1436
+  - first:
+      213: -7894157926466542989
+    second: tree boss HURTY 1_1437
+  - first:
+      213: -2995462513139751655
+    second: tree boss HURTY 1_1438
+  - first:
+      213: 6503951975790698587
+    second: tree boss HURTY 1_1439
+  - first:
+      213: -1300549868784297709
+    second: tree boss HURTY 1_1440
+  - first:
+      213: -3831260690522869323
+    second: tree boss HURTY 1_1441
+  - first:
+      213: 8433777131646349159
+    second: tree boss HURTY 1_1442
+  - first:
+      213: -7137371467789723193
+    second: tree boss HURTY 1_1443
+  - first:
+      213: -6536509698224273616
+    second: tree boss HURTY 1_1444
+  - first:
+      213: 1633022844670887310
+    second: tree boss HURTY 1_1445
+  - first:
+      213: 2189144696680500099
+    second: tree boss HURTY 1_1446
+  - first:
+      213: 7741220235535924121
+    second: tree boss HURTY 1_1447
+  - first:
+      213: -4317570201851393440
+    second: tree boss HURTY 1_1448
+  - first:
+      213: -150457504758083098
+    second: tree boss HURTY 1_1449
+  - first:
+      213: -7120519994126783667
+    second: tree boss HURTY 1_1450
+  - first:
+      213: -1187644447237175960
+    second: tree boss HURTY 1_1451
+  - first:
+      213: 7879827753975527406
+    second: tree boss HURTY 1_1452
+  - first:
+      213: 2336606936007264687
+    second: tree boss HURTY 1_1453
+  - first:
+      213: 7915147657216397625
+    second: tree boss HURTY 1_1454
+  - first:
+      213: 6140291234832846908
+    second: tree boss HURTY 1_1455
+  - first:
+      213: 3407431892710699813
+    second: tree boss HURTY 1_1456
+  - first:
+      213: 3560473899109881141
+    second: tree boss HURTY 1_1457
+  - first:
+      213: 4175934689293680035
+    second: tree boss HURTY 1_1458
+  - first:
+      213: -8462311242847372628
+    second: tree boss HURTY 1_1459
+  - first:
+      213: -5897575436137835841
+    second: tree boss HURTY 1_1460
+  - first:
+      213: 3452370573293324290
+    second: tree boss HURTY 1_1461
+  - first:
+      213: -5868703349726990821
+    second: tree boss HURTY 1_1462
+  - first:
+      213: -2495728871802676056
+    second: tree boss HURTY 1_1463
+  - first:
+      213: -665825214630385559
+    second: tree boss HURTY 1_1464
+  - first:
+      213: -3495029958852237615
+    second: tree boss HURTY 1_1465
+  - first:
+      213: 2019362410538811941
+    second: tree boss HURTY 1_1466
+  - first:
+      213: -326316336605729568
+    second: tree boss HURTY 1_1467
+  - first:
+      213: -7958422487700779005
+    second: tree boss HURTY 1_1468
+  - first:
+      213: -3972085914051620048
+    second: tree boss HURTY 1_1469
+  - first:
+      213: -8318468353223867546
+    second: tree boss HURTY 1_1470
+  - first:
+      213: -7742686274194795906
+    second: tree boss HURTY 1_1471
+  - first:
+      213: 2522949411881603806
+    second: tree boss HURTY 1_1472
+  - first:
+      213: -3898547549976908851
+    second: tree boss HURTY 1_1473
+  - first:
+      213: -2282012299779936445
+    second: tree boss HURTY 1_1474
+  - first:
+      213: -8777841952472377201
+    second: tree boss HURTY 1_1475
+  - first:
+      213: 5619725937470813776
+    second: tree boss HURTY 1_1476
+  - first:
+      213: -4331204447107989704
+    second: tree boss HURTY 1_1477
+  - first:
+      213: -6134479850578143123
+    second: tree boss HURTY 1_1478
+  - first:
+      213: 2329803088081244429
+    second: tree boss HURTY 1_1479
+  - first:
+      213: -1340767863949922517
+    second: tree boss HURTY 1_1480
+  - first:
+      213: 192954189337678571
+    second: tree boss HURTY 1_1481
+  - first:
+      213: 1096742323223658986
+    second: tree boss HURTY 1_1482
+  - first:
+      213: 8628278715867366305
+    second: tree boss HURTY 1_1483
+  - first:
+      213: 4071784735111240888
+    second: tree boss HURTY 1_1484
+  - first:
+      213: -6272142588327419455
+    second: tree boss HURTY 1_1485
+  - first:
+      213: 6332048957341134909
+    second: tree boss HURTY 1_1486
+  - first:
+      213: -8633781480156572634
+    second: tree boss HURTY 1_1487
+  - first:
+      213: 3946105397604621209
+    second: tree boss HURTY 1_1488
+  - first:
+      213: 4271269541728821113
+    second: tree boss HURTY 1_1489
+  - first:
+      213: -1246929815143302592
+    second: tree boss HURTY 1_1490
+  - first:
+      213: -1245483078500245951
+    second: tree boss HURTY 1_1491
+  - first:
+      213: 6772707195882305461
+    second: tree boss HURTY 1_1492
+  - first:
+      213: 1275159322656506997
+    second: tree boss HURTY 1_1493
+  - first:
+      213: 1980079097144817846
+    second: tree boss HURTY 1_1494
+  - first:
+      213: -4630482726937885985
+    second: tree boss HURTY 1_1495
+  - first:
+      213: 6147387912180302655
+    second: tree boss HURTY 1_1496
+  - first:
+      213: 3607251725800042406
+    second: tree boss HURTY 1_1497
+  - first:
+      213: -8028848289908338710
+    second: tree boss HURTY 1_1498
+  - first:
+      213: -2989944439443539704
+    second: tree boss HURTY 1_1499
+  - first:
+      213: -5747040903367234795
+    second: tree boss HURTY 1_1500
+  - first:
+      213: -3825828869004621079
+    second: tree boss HURTY 1_1501
+  - first:
+      213: 4013566624254352955
+    second: tree boss HURTY 1_1502
+  - first:
+      213: 6555717034359949156
+    second: tree boss HURTY 1_1503
+  - first:
+      213: 7414605357311817380
+    second: tree boss HURTY 1_1504
+  - first:
+      213: 7864402165448143005
+    second: tree boss HURTY 1_1505
+  - first:
+      213: -4444773705366267296
+    second: tree boss HURTY 1_1506
+  - first:
+      213: 8686017763833537552
+    second: tree boss HURTY 1_1507
+  - first:
+      213: 3067625761089297701
+    second: tree boss HURTY 1_1508
+  - first:
+      213: 618335185732784324
+    second: tree boss HURTY 1_1509
+  - first:
+      213: -840488755212596646
+    second: tree boss HURTY 1_1510
+  - first:
+      213: 7618548323258634437
+    second: tree boss HURTY 1_1511
+  - first:
+      213: 3597078764906204408
+    second: tree boss HURTY 1_1512
+  - first:
+      213: -3865296994185158398
+    second: tree boss HURTY 1_1513
+  - first:
+      213: 8569214874200625104
+    second: tree boss HURTY 1_1514
+  - first:
+      213: -6414767048962342584
+    second: tree boss HURTY 1_1515
+  - first:
+      213: 8552563173128374288
+    second: tree boss HURTY 1_1516
+  - first:
+      213: -4567638930933479715
+    second: tree boss HURTY 1_1517
+  - first:
+      213: 4658176595719818826
+    second: tree boss HURTY 1_1518
+  - first:
+      213: -8094172119500452121
+    second: tree boss HURTY 1_1519
+  - first:
+      213: -3099197563754453440
+    second: tree boss HURTY 1_1520
+  - first:
+      213: 3765490551204617142
+    second: tree boss HURTY 1_1521
+  - first:
+      213: -8329281314729738205
+    second: tree boss HURTY 1_1522
+  - first:
+      213: 7497839191103928115
+    second: tree boss HURTY 1_1523
+  - first:
+      213: 7582015898363924759
+    second: tree boss HURTY 1_1524
+  - first:
+      213: -2452036257681459287
+    second: tree boss HURTY 1_1525
+  - first:
+      213: -3073526919556756087
+    second: tree boss HURTY 1_1526
+  - first:
+      213: -7044606910752523703
+    second: tree boss HURTY 1_1527
+  - first:
+      213: 7528634621834674942
+    second: tree boss HURTY 1_1528
+  - first:
+      213: 1019939580146027123
+    second: tree boss HURTY 1_1529
+  - first:
+      213: 1312998246293724074
+    second: tree boss HURTY 1_1530
+  - first:
+      213: 6311208330101811657
+    second: tree boss HURTY 1_1531
+  - first:
+      213: -3634109102394882706
+    second: tree boss HURTY 1_1532
+  - first:
+      213: -637696826725520609
+    second: tree boss HURTY 1_1533
+  - first:
+      213: -3793366241837024742
+    second: tree boss HURTY 1_1534
+  - first:
+      213: 7527309351537607853
+    second: tree boss HURTY 1_1535
+  - first:
+      213: 7045432428163419036
+    second: tree boss HURTY 1_1536
+  - first:
+      213: 504445584058304665
+    second: tree boss HURTY 1_1537
+  - first:
+      213: -950889714045092282
+    second: tree boss HURTY 1_1538
+  - first:
+      213: 6965836223314587490
+    second: tree boss HURTY 1_1539
+  - first:
+      213: 8279199608316738200
+    second: tree boss HURTY 1_1540
+  - first:
+      213: 2438951167585033050
+    second: tree boss HURTY 1_1541
+  - first:
+      213: 7317039577662715493
+    second: tree boss HURTY 1_1542
+  - first:
+      213: 5925802964380736095
+    second: tree boss HURTY 1_1543
+  - first:
+      213: -2821195017071275593
+    second: tree boss HURTY 1_1544
+  - first:
+      213: -6994396727372271503
+    second: tree boss HURTY 1_1545
+  - first:
+      213: -4928528142516659729
+    second: tree boss HURTY 1_1546
+  - first:
+      213: -6515109964468866942
+    second: tree boss HURTY 1_1547
+  - first:
+      213: -1195015196412610907
+    second: tree boss HURTY 1_1548
+  - first:
+      213: 8857238056914555559
+    second: tree boss HURTY 1_1549
+  - first:
+      213: 7545437247561545311
+    second: tree boss HURTY 1_1550
+  - first:
+      213: 2002644135946900552
+    second: tree boss HURTY 1_1551
+  - first:
+      213: -88211748315397760
+    second: tree boss HURTY 1_1552
+  - first:
+      213: 1810359709444329542
+    second: tree boss HURTY 1_1553
+  - first:
+      213: -6783381996193407902
+    second: tree boss HURTY 1_1554
+  - first:
+      213: 7628172822472906938
+    second: tree boss HURTY 1_1555
+  - first:
+      213: 9157369144745075254
+    second: tree boss HURTY 1_1556
+  - first:
+      213: 2578673041747010391
+    second: tree boss HURTY 1_1557
+  - first:
+      213: -3404923349918530212
+    second: tree boss HURTY 1_1558
+  - first:
+      213: -1793198264773305243
+    second: tree boss HURTY 1_1559
+  - first:
+      213: -7072995928097846735
+    second: tree boss HURTY 1_1560
+  - first:
+      213: 8038682074994079658
+    second: tree boss HURTY 1_1561
+  - first:
+      213: 8615298110980328161
+    second: tree boss HURTY 1_1562
+  - first:
+      213: -1026571785250701019
+    second: tree boss HURTY 1_1563
+  - first:
+      213: 4441806907434173896
+    second: tree boss HURTY 1_1564
+  - first:
+      213: 6334569565364922285
+    second: tree boss HURTY 1_1565
+  - first:
+      213: -6510206329878196497
+    second: tree boss HURTY 1_1566
+  - first:
+      213: -539943881894252431
+    second: tree boss HURTY 1_1567
+  - first:
+      213: -4730874266394061354
+    second: tree boss HURTY 1_1568
+  - first:
+      213: 4944323450857986369
+    second: tree boss HURTY 1_1569
+  - first:
+      213: 2025849011854578592
+    second: tree boss HURTY 1_1570
+  - first:
+      213: 3551820701582985749
+    second: tree boss HURTY 1_1571
+  - first:
+      213: 1683770344389945434
+    second: tree boss HURTY 1_1572
+  - first:
+      213: 4491225602149874104
+    second: tree boss HURTY 1_1573
+  - first:
+      213: -6199398327770960926
+    second: tree boss HURTY 1_1574
+  - first:
+      213: 831871109292803824
+    second: tree boss HURTY 1_1575
+  - first:
+      213: -4437387784939415446
+    second: tree boss HURTY 1_1576
+  - first:
+      213: -3847707854303907013
+    second: tree boss HURTY 1_1577
+  - first:
+      213: 2343192836421995881
+    second: tree boss HURTY 1_1578
+  - first:
+      213: 8851879210606389187
+    second: tree boss HURTY 1_1579
+  - first:
+      213: 1147933215112695114
+    second: tree boss HURTY 1_1580
+  - first:
+      213: -8252869637006669693
+    second: tree boss HURTY 1_1581
+  - first:
+      213: -2590200728089753765
+    second: tree boss HURTY 1_1582
+  - first:
+      213: -3833123497787076306
+    second: tree boss HURTY 1_1583
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tree boss HURTY 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 2048
+        height: 2048
+      alignment: 9
+      pivot: {x: 0.472, y: 0.485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7c613fbc3c135e0800000000000000
+      internalID: -1931547484441098277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree boss HURTY 1_1
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 2048
+        height: 2048
+      alignment: 9
+      pivot: {x: 0.472, y: 0.485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7f7652602dabf60800000000000000
+      internalID: 8050978207717390271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree boss HURTY 1_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2048
+        height: 2048
+      alignment: 9
+      pivot: {x: 0.472, y: 0.485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91770128e9c889850800000000000000
+      internalID: 6384007084212516633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree boss HURTY 1_3
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 2048
+        height: 2048
+      alignment: 9
+      pivot: {x: 0.472, y: 0.485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6346b4151fe7500800000000000000
+      internalID: 396019148714686182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4842815475987400328
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4842815475987400330}
+  - component: {fileID: 4842815475987400329}
+  m_Layer: 0
+  m_Name: ObjectPooler
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4842815475987400330
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4842815475987400328}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 7.666933, y: -5.8505273, z: 15.233312}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4842815475987400329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4842815475987400328}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d43ba4e958b05e3438f691891e64a4ea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pools:
+  - tag: Coin
+    prefab: {fileID: 3595876788344079043, guid: baa63f539109e1d4faf447ab9396dd46,
+      type: 3}
+    size: 100
+    getRigidBody: 1
+    setreturnable: 1
+    getAgent: 0
+  - tag: SCoin
+    prefab: {fileID: 3858635309507607430, guid: 6ea409d3a28b90b4abf22a406688aa2b,
+      type: 3}
+    size: 100
+    getRigidBody: 1
+    setreturnable: 1
+    getAgent: 0
+  - tag: Apple
+    prefab: {fileID: 8156330378961465053, guid: 8ec4283ef3de5cc48b99d6e688154c6e,
+      type: 3}
+    size: 10
+    getRigidBody: 0
+    setreturnable: 1
+    getAgent: 0
+  - tag: Ban
+    prefab: {fileID: 4142983241682880554, guid: 903f79e11e104ab499c298820339334d,
+      type: 3}
+    size: 10
+    getRigidBody: 0
+    setreturnable: 1
+    getAgent: 0
+  - tag: Peach
+    prefab: {fileID: 7884566572885598455, guid: 8abbacdecd5059e419b3ca7455244bb6,
+      type: 3}
+    size: 10
+    getRigidBody: 0
+    setreturnable: 1
+    getAgent: 0
+  - tag: Sandwich
+    prefab: {fileID: 9101065981620616534, guid: 61f3b9bb3c279d44c9ad336eecf72b15,
+      type: 3}
+    size: 10
+    getRigidBody: 0
+    setreturnable: 1
+    getAgent: 0
+  - tag: TreeEnemy
+    prefab: {fileID: 6489759766180755465, guid: ff92d19a5031a4b4c8f47c71ca890f25,
+      type: 3}
+    size: 20
+    getRigidBody: 1
+    setreturnable: 1
+    getAgent: 1
+  - tag: AppleThrowable
+    prefab: {fileID: 8010823700654261175, guid: 5c892e32c6132094097a49ad91602ffa,
+      type: 3}
+    size: 20
+    getRigidBody: 0
+    setreturnable: 1
+    getAgent: 0
+  - tag: Arrow
+    prefab: {fileID: 4036880522025711416, guid: 50548739d536a4341a3fdc134c8952ab,
+      type: 3}
+    size: 20
+    getRigidBody: 0
+    setreturnable: 1
+    getAgent: 0
+  - tag: Bandit
+    prefab: {fileID: 2499873628627951987, guid: d264f6df4e8b27946aee5857490a295c,
+      type: 3}
+    size: 20
+    getRigidBody: 1
+    setreturnable: 1
+    getAgent: 1
+  - tag: Spaget
+    prefab: {fileID: 1603170735506571542, guid: 33f447b5eaa805542afc941e0462982d,
+      type: 3}
+    size: 20
+    getRigidBody: 1
+    setreturnable: 1
+    getAgent: 1
+  - tag: Sauce
+    prefab: {fileID: 1056118750197007555, guid: 89eb4e7f60f1bb24f92fabe572536475,
+      type: 3}
+    size: 20
+    getRigidBody: 0
+    setreturnable: 1
+    getAgent: 0
+  - tag: Grenade
+    prefab: {fileID: 3630347834792795256, guid: 29ca5cf08937be345a61d04d88512b17,
+      type: 3}
+    size: 8
+    getRigidBody: 0
+    setreturnable: 0
+    getAgent: 0
+  - tag: FireStatus
+    prefab: {fileID: 3630347834792795256, guid: 29ca5cf08937be345a61d04d88512b17,
+      type: 3}
+    size: 8
+    getRigidBody: 0
+    setreturnable: 0
+    getAgent: 0
+  - tag: IceStatus
+    prefab: {fileID: 5753275271982479272, guid: c8f892b7e404e5e4993050b7c81837ad,
+      type: 3}
+    size: 8
+    getRigidBody: 0
+    setreturnable: 0
+    getAgent: 0
+  - tag: PoisonStatus
+    prefab: {fileID: 3555475180499729255, guid: eea37f262837e3c41a1b1914fb60ee9b,
+      type: 3}
+    size: 8
+    getRigidBody: 0
+    setreturnable: 0
+    getAgent: 0

@@ -1,0 +1,628 @@
+fileFormatVersion: 2
+guid: 4a8102f5bd033e54c9c0290ed2b98cf2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2525720518601841651
+    second: ruins and sigils_0
+  - first:
+      213: 8985342564984839707
+    second: ruins and sigils_1
+  - first:
+      213: -7420228106630152327
+    second: ruins and sigils_2
+  - first:
+      213: -6442543784899550426
+    second: ruins and sigils_3
+  - first:
+      213: -2798724827565413282
+    second: ruins and sigils_4
+  - first:
+      213: 7352729928011807790
+    second: ruins and sigils_5
+  - first:
+      213: 4176558500921390840
+    second: ruins and sigils_6
+  - first:
+      213: 8238507322525079997
+    second: ruins and sigils_7
+  - first:
+      213: 6856401663359366677
+    second: ruins and sigils_8
+  - first:
+      213: -7434477522316865199
+    second: ruins and sigils_9
+  - first:
+      213: -3822374923087463466
+    second: ruins and sigils_10
+  - first:
+      213: 7393136075108555006
+    second: ruins and sigils_11
+  - first:
+      213: 4073698188412590798
+    second: ruins and sigils_12
+  - first:
+      213: 4450281138651280427
+    second: ruins and sigils_13
+  - first:
+      213: 7434250517719432912
+    second: ruins and sigils_14
+  - first:
+      213: -1980625546760931646
+    second: ruins and sigils_15
+  - first:
+      213: -1603914401245671094
+    second: ruins and sigils_16
+  - first:
+      213: -3964143623207779516
+    second: ruins and sigils_17
+  - first:
+      213: 6292567021784680720
+    second: ruins and sigils_18
+  - first:
+      213: -5502921258273906676
+    second: ruins and sigils_19
+  - first:
+      213: 7854408258897995478
+    second: ruins and sigils_20
+  - first:
+      213: -5195402818221479858
+    second: ruins and sigils_21
+  - first:
+      213: 2854369017923044368
+    second: ruins and sigils_22
+  - first:
+      213: 3664256820000975067
+    second: ruins and sigils_23
+  - first:
+      213: 281405965350223349
+    second: ruins and sigils_24
+  - first:
+      213: 3090753537240576642
+    second: ruins and sigils_25
+  - first:
+      213: -8142760542480714095
+    second: ruins and sigils_26
+  - first:
+      213: 6837587295162517158
+    second: ruins and sigils_27
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ruins and sigils_2
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 3083
+        width: 515
+        height: 863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fb0ffd9dd060990800000000000000
+      internalID: -7420228106630152327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruins and sigils_3
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 3071
+        width: 571
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623692bcf8c7796a0800000000000000
+      internalID: -6442543784899550426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruins and sigils_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 3205
+        width: 504
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ca5ecf89ee829d0800000000000000
+      internalID: -2798724827565413282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruins and sigils_5
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 3205
+        width: 413
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cf680c9e42a0660800000000000000
+      internalID: 7352729928011807790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruins and sigils_6
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 3150
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6be0704dd16f930800000000000000
+      internalID: 4176558500921390840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruins and sigils_7
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2155
+        width: 798
+        height: 695
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9df86a2ce055270800000000000000
+      internalID: 8238507322525079997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruins and sigils_8
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 2446
+        width: 178
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516beed6cf4d62f50800000000000000
+      internalID: 6856401663359366677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruins and sigils_9
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 2275
+        width: 628
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1515daf351e63d890800000000000000
+      internalID: -7434477522316865199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruins and sigils_10
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 2085
+        width: 625
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbb20f524234fac0800000000000000
+      internalID: -3822374923087463466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruins and sigils_11
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 2071
+        width: 581
+        height: 948
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef898fcf612b99660800000000000000
+      internalID: 7393136075108555006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruins and sigils_12
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1475
+        width: 159
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca1c724beea88830800000000000000
+      internalID: 4073698188412590798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruins and sigils_13
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1025
+        width: 600
+        height: 836
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b243ee3fd1392cd30800000000000000
+      internalID: 4450281138651280427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruins and sigils_14
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1129
+        width: 308
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de3eef1573cb2760800000000000000
+      internalID: 7434250517719432912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruins and sigils_15
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 1019
+        width: 507
+        height: 1015
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6304c1f876384e0800000000000000
+      internalID: -1980625546760931646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruins and sigils_16
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 1055
+        width: 569
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a415e979950cdb9e0800000000000000
+      internalID: -1603914401245671094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruins and sigils_18
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1415
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01940daed50b35750800000000000000
+      internalID: 6292567021784680720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruins and sigils_19
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1401
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0063a57542b1a3b0800000000000000
+      internalID: -5502921258273906676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruins and sigils_20
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 107
+        width: 555
+        height: 638
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6628072b6700d60800000000000000
+      internalID: 7854408258897995478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruins and sigils_22
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 233
+        width: 519
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0140f2baf71cc9720800000000000000
+      internalID: 2854369017923044368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruins and sigils_24
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 71
+        width: 783
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd306a0c31c7e300800000000000000
+      internalID: 281405965350223349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruins and sigils_27
+      rect:
+        serializedVersion: 2
+        x: 3161
+        y: 0
+        width: 582
+        height: 1042
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6c2e8fa6df3ee50800000000000000
+      internalID: 6837587295162517158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 66e8516f67c7f6640b7cd6413c51c968
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
