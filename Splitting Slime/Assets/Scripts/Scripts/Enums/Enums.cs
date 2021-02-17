@@ -6,11 +6,12 @@ using UnityEngine;
     public enum SceneIndex
     {
         persistantScene = 0,
-        ForestSceneOne = 1,
-        ForestSceneTwo = 2,
-        UpperForestScene = 3,
-        ForestBoss = 4,
-        Hub = 5,
+        mainMenu = 1,
+        ForestSceneOne = 2,
+        ForestSceneTwo = 3,
+        UpperForestScene = 4,
+        ForestBoss = 5,
+        Hub = 6,
     }
 
 public enum EnemyType

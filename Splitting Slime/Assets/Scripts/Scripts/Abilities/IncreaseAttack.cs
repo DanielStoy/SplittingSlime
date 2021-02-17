@@ -13,18 +13,13 @@ public class IncreaseAttack : Ability
     VisualEffect effect;
     GameObject effectGM;
     Transform effectTrans;
-    // Start is called before the first frame update
-    void Start()
-    {
-        Initialize();
-    }
 
     public override void Initialize()
     {
+        abilityTime = 30;
         playerTrans = PlayerManager.instance.Player.transform;
         player = playerTrans.GetComponent<PlayerController>();
         AbilityHolder.instance.SetIncreaseDamage(ref prefab);
-        abilityTime = 30;
         effectGM = Instantiate(prefab);
         effectTrans = effectGM.transform;
         effect = effectTrans.GetComponent<VisualEffect>();
@@ -68,5 +63,6 @@ public class IncreaseAttack : Ability
             StopCoroutine(currentCore);
             player.myStats.Strength -= 3;
         }
+        Destroy(effectGM);
     }
 }

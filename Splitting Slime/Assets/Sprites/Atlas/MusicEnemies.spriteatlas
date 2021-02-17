@@ -1,0 +1,216 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MusicEnemies
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: ff41ff5c2f3f8b043b51f364dddbb523, type: 3}
+    - {fileID: 102900000, guid: 77ecf808f776bee46a1cdd57590009b0, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -5812824465556943210, guid: dbb231232a3097941b4f31bb79ae061d, type: 3}
+  - {fileID: -5401381418204256875, guid: dbb231232a3097941b4f31bb79ae061d, type: 3}
+  - {fileID: -6881899945098025127, guid: dbb231232a3097941b4f31bb79ae061d, type: 3}
+  - {fileID: 324733215210823922, guid: dbb231232a3097941b4f31bb79ae061d, type: 3}
+  - {fileID: 266208489186179905, guid: dbb231232a3097941b4f31bb79ae061d, type: 3}
+  - {fileID: 2096371913133039903, guid: dbb231232a3097941b4f31bb79ae061d, type: 3}
+  - {fileID: -135508612779676140, guid: dbb231232a3097941b4f31bb79ae061d, type: 3}
+  - {fileID: -1039309489501914778, guid: dbb231232a3097941b4f31bb79ae061d, type: 3}
+  - {fileID: -2465770194455126715, guid: dbb231232a3097941b4f31bb79ae061d, type: 3}
+  - {fileID: 853338075710208000, guid: 526392145e437a5409004cd9a5579aa7, type: 3}
+  - {fileID: 4359431565203297095, guid: 526392145e437a5409004cd9a5579aa7, type: 3}
+  - {fileID: 454084743536222549, guid: 526392145e437a5409004cd9a5579aa7, type: 3}
+  - {fileID: 1709012431770059910, guid: 526392145e437a5409004cd9a5579aa7, type: 3}
+  - {fileID: 525050370168489395, guid: 526392145e437a5409004cd9a5579aa7, type: 3}
+  - {fileID: 878132944728592350, guid: 526392145e437a5409004cd9a5579aa7, type: 3}
+  - {fileID: -8911505195862988201, guid: 502ed036258b5f344b5af530b6ee04cf, type: 3}
+  - {fileID: 217828296153950488, guid: 502ed036258b5f344b5af530b6ee04cf, type: 3}
+  - {fileID: 8872720175260631853, guid: 502ed036258b5f344b5af530b6ee04cf, type: 3}
+  - {fileID: -6929239520486546496, guid: 502ed036258b5f344b5af530b6ee04cf, type: 3}
+  - {fileID: 8929696570434062483, guid: 502ed036258b5f344b5af530b6ee04cf, type: 3}
+  - {fileID: -54397690182123243, guid: 502ed036258b5f344b5af530b6ee04cf, type: 3}
+  - {fileID: -5693820046128915944, guid: 502ed036258b5f344b5af530b6ee04cf, type: 3}
+  - {fileID: -6707966425760297397, guid: 502ed036258b5f344b5af530b6ee04cf, type: 3}
+  - {fileID: 5052490723684587906, guid: 502ed036258b5f344b5af530b6ee04cf, type: 3}
+  - {fileID: 3943931326523439550, guid: 502ed036258b5f344b5af530b6ee04cf, type: 3}
+  - {fileID: -8480637688758902783, guid: 502ed036258b5f344b5af530b6ee04cf, type: 3}
+  - {fileID: -2767524733605365708, guid: 502ed036258b5f344b5af530b6ee04cf, type: 3}
+  - {fileID: -7660515271616127492, guid: 502ed036258b5f344b5af530b6ee04cf, type: 3}
+  - {fileID: -994292976672075759, guid: 502ed036258b5f344b5af530b6ee04cf, type: 3}
+  - {fileID: -1596876951324460569, guid: 6591cc56cdec84f44a8d749bef9907f3, type: 3}
+  - {fileID: -3783555934315978060, guid: 6591cc56cdec84f44a8d749bef9907f3, type: 3}
+  - {fileID: 3304804921901590947, guid: 6591cc56cdec84f44a8d749bef9907f3, type: 3}
+  - {fileID: -1797540573770995433, guid: 6591cc56cdec84f44a8d749bef9907f3, type: 3}
+  - {fileID: 3594089165268598376, guid: 6591cc56cdec84f44a8d749bef9907f3, type: 3}
+  - {fileID: -1183299280108475455, guid: 6591cc56cdec84f44a8d749bef9907f3, type: 3}
+  - {fileID: 1621334300147629158, guid: 6591cc56cdec84f44a8d749bef9907f3, type: 3}
+  - {fileID: -5921700747230008075, guid: a7684a47b366f634088c3a43161c3b97, type: 3}
+  - {fileID: 8447365705781403692, guid: a7684a47b366f634088c3a43161c3b97, type: 3}
+  - {fileID: -589769522475131341, guid: a7684a47b366f634088c3a43161c3b97, type: 3}
+  - {fileID: -4031090070188416768, guid: a7684a47b366f634088c3a43161c3b97, type: 3}
+  - {fileID: -4010494214181574192, guid: a7684a47b366f634088c3a43161c3b97, type: 3}
+  - {fileID: -4325312865105104824, guid: a7684a47b366f634088c3a43161c3b97, type: 3}
+  - {fileID: -5859836591683580118, guid: a7684a47b366f634088c3a43161c3b97, type: 3}
+  - {fileID: -6504158858678857562, guid: c230f9a927921af4ea265312c98875ca, type: 3}
+  - {fileID: -3077985347500856480, guid: c230f9a927921af4ea265312c98875ca, type: 3}
+  - {fileID: 8387902196718036023, guid: c230f9a927921af4ea265312c98875ca, type: 3}
+  - {fileID: -8437859904350423103, guid: c230f9a927921af4ea265312c98875ca, type: 3}
+  - {fileID: 8894567358443122038, guid: c230f9a927921af4ea265312c98875ca, type: 3}
+  - {fileID: -8957352637080897580, guid: c230f9a927921af4ea265312c98875ca, type: 3}
+  - {fileID: 4264195239045019780, guid: c230f9a927921af4ea265312c98875ca, type: 3}
+  - {fileID: -2637750108218025218, guid: c230f9a927921af4ea265312c98875ca, type: 3}
+  - {fileID: -7433610457898597467, guid: c230f9a927921af4ea265312c98875ca, type: 3}
+  - {fileID: 2912395613831886264, guid: c230f9a927921af4ea265312c98875ca, type: 3}
+  - {fileID: -3442693804382087790, guid: c230f9a927921af4ea265312c98875ca, type: 3}
+  - {fileID: 1892358996485144605, guid: c230f9a927921af4ea265312c98875ca, type: 3}
+  - {fileID: 2079420755287480534, guid: eb0dd25ad4638774a816cf9fd66149e8, type: 3}
+  - {fileID: -8712273496439542397, guid: eb0dd25ad4638774a816cf9fd66149e8, type: 3}
+  - {fileID: -3990902684205536543, guid: eb0dd25ad4638774a816cf9fd66149e8, type: 3}
+  - {fileID: -5279993476507710168, guid: eb0dd25ad4638774a816cf9fd66149e8, type: 3}
+  - {fileID: -7425869050528763961, guid: eb0dd25ad4638774a816cf9fd66149e8, type: 3}
+  - {fileID: 405433457836114669, guid: eb0dd25ad4638774a816cf9fd66149e8, type: 3}
+  - {fileID: -1204395141375580274, guid: eb0dd25ad4638774a816cf9fd66149e8, type: 3}
+  - {fileID: 7125880787910331581, guid: eb0dd25ad4638774a816cf9fd66149e8, type: 3}
+  - {fileID: 4774189239370940785, guid: eb0dd25ad4638774a816cf9fd66149e8, type: 3}
+  - {fileID: -8030488700435940833, guid: eb0dd25ad4638774a816cf9fd66149e8, type: 3}
+  - {fileID: -1420887475039594441, guid: eb0dd25ad4638774a816cf9fd66149e8, type: 3}
+  - {fileID: -7962985971028101432, guid: eb0dd25ad4638774a816cf9fd66149e8, type: 3}
+  - {fileID: 240899302409873502, guid: eb0dd25ad4638774a816cf9fd66149e8, type: 3}
+  - {fileID: -8234820228508333809, guid: eb0dd25ad4638774a816cf9fd66149e8, type: 3}
+  - {fileID: -5896819740932653702, guid: eb0dd25ad4638774a816cf9fd66149e8, type: 3}
+  - {fileID: -6130819398015223896, guid: eb0dd25ad4638774a816cf9fd66149e8, type: 3}
+  - {fileID: -645655005942807961, guid: 0f31238b4c5dd40429936eb71d0df26a, type: 3}
+  - {fileID: 1081610058054177918, guid: 0f31238b4c5dd40429936eb71d0df26a, type: 3}
+  - {fileID: -1109316095675007602, guid: 0f31238b4c5dd40429936eb71d0df26a, type: 3}
+  - {fileID: -6921082718266862212, guid: 0f31238b4c5dd40429936eb71d0df26a, type: 3}
+  - {fileID: -376506340396657416, guid: 0f31238b4c5dd40429936eb71d0df26a, type: 3}
+  - {fileID: -533789088403283197, guid: 0f31238b4c5dd40429936eb71d0df26a, type: 3}
+  - {fileID: -5664164081389123472, guid: 0f31238b4c5dd40429936eb71d0df26a, type: 3}
+  - {fileID: 6422290087914706386, guid: 0f31238b4c5dd40429936eb71d0df26a, type: 3}
+  - {fileID: 203301682931280992, guid: 0f31238b4c5dd40429936eb71d0df26a, type: 3}
+  - {fileID: 4376874235608604324, guid: 0f31238b4c5dd40429936eb71d0df26a, type: 3}
+  - {fileID: 1548184395167503957, guid: 0f31238b4c5dd40429936eb71d0df26a, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - devil enemy IDLE_2
+  - devil enemy IDLE_3
+  - devil enemy IDLE_0
+  - devil enemy IDLE_1
+  - devil enemy IDLE_6
+  - devil enemy IDLE_7
+  - devil enemy IDLE_4
+  - devil enemy IDLE_5
+  - devil enemy IDLE_8
+  - devil enemy WALK_3
+  - devil enemy WALK_2
+  - devil enemy WALK_1
+  - devil enemy WALK_0
+  - devil enemy WALK_5
+  - devil enemy WALK_4
+  - violin note attack_10
+  - violin note attack_11
+  - violin note attack_12
+  - violin note attack_13
+  - violin note attack_9
+  - violin note attack_8
+  - violin note attack_5
+  - violin note attack_4
+  - violin note attack_7
+  - violin note attack_6
+  - violin note attack_1
+  - violin note attack_0
+  - violin note attack_3
+  - violin note attack_2
+  - violin idle_6
+  - violin idle_5
+  - violin idle_4
+  - violin idle_3
+  - violin idle_2
+  - violin idle_1
+  - violin idle_0
+  - violin dead_3
+  - violin dead_2
+  - violin dead_1
+  - violin dead_0
+  - violin dead_6
+  - violin dead_5
+  - violin dead_4
+  - devil enemy ATTACK_8
+  - devil enemy ATTACK_9
+  - devil enemy ATTACK_4
+  - devil enemy ATTACK_5
+  - devil enemy ATTACK_6
+  - devil enemy ATTACK_7
+  - devil enemy ATTACK_0
+  - devil enemy ATTACK_1
+  - devil enemy ATTACK_2
+  - devil enemy ATTACK_3
+  - devil enemy ATTACK_11
+  - devil enemy ATTACK_10
+  - devil enemy ded_10
+  - devil enemy ded_11
+  - devil enemy ded_12
+  - devil enemy ded_13
+  - devil enemy ded_14
+  - devil enemy ded_15
+  - devil enemy ded_9
+  - devil enemy ded_8
+  - devil enemy ded_1
+  - devil enemy ded_0
+  - devil enemy ded_3
+  - devil enemy ded_2
+  - devil enemy ded_5
+  - devil enemy ded_4
+  - devil enemy ded_7
+  - devil enemy ded_6
+  - violin jab_10
+  - violin jab_6
+  - violin jab_7
+  - violin jab_4
+  - violin jab_5
+  - violin jab_2
+  - violin jab_3
+  - violin jab_0
+  - violin jab_1
+  - violin jab_8
+  - violin jab_9
+  m_Tag: MusicEnemies
+  m_IsVariant: 0

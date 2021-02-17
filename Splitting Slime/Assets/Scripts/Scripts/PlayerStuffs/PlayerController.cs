@@ -17,7 +17,7 @@ public class PlayerController : MonoBehaviour
 
     //Pause
     private bool paused;
-    private GameObject pauseMenu;
+    private PauseMenu pauseMenu;
     public bool canPlay = true;
 
     //StatusBar
@@ -45,7 +45,8 @@ public class PlayerController : MonoBehaviour
     private GameObject shadow;
     private bool justJumped = false;
     [SerializeField]
-    private GameObject jumpSmokeGameObj;
+    private GameObject jumpSmokePrefab;
+    private GameObject jumpSmokeGameObj; //For cleanup
     private Transform jumpSmoke;
     private VisualEffect smoke;
     [SerializeField]
@@ -149,8 +150,7 @@ public class PlayerController : MonoBehaviour
         anim = GetComponentInChildren<Animator>();
         myRigidBody = GetComponent<Rigidbody>();
         myCol = GetComponent<BoxCollider>();
-        pauseMenu = UIManager.instance.pauseMenu;
-        pauseMenu.SetActive(false);
+        pauseMenu = UIManager.instance.pauseMenu.GetComponent<PauseMenu>();
         slimeBlobFireBox = transform.Find("RangedBox");
         if(shadow == null)
         {
@@ -171,7 +171,8 @@ public class PlayerController : MonoBehaviour
         myBar.setEXP(myStats.xp);
         addCoin(0);
         addSCoin(0);
-        jumpSmoke = Instantiate(jumpSmokeGameObj).transform;
+        jumpSmokeGameObj = Instantiate(jumpSmokePrefab);
+        jumpSmoke = jumpSmokeGameObj.transform;
         smoke = jumpSmoke.GetComponent<VisualEffect>();
         LevelUp = transform.Find("LevelUp").GetComponent<VisualEffect>();
     }
@@ -190,7 +191,7 @@ public class PlayerController : MonoBehaviour
         Weapon testWeapon = DroppableObjects.instance.weapons.weapons[0];
         EquipWeapon(testWeapon);
         EquipAbility(gameObject.AddComponent<IncreaseAttack>());
-        EquipAbility(gameObject.AddComponent<Burp>());
+        EquipAbility(gameObject.AddComponent<SlowTime>());
         setPlayer();
     }
 
@@ -243,7 +244,7 @@ public class PlayerController : MonoBehaviour
         if (Input.GetButtonDown("Pause"))
         {
             paused = !paused;
-            pauseMenu.SetActive(!pauseMenu.activeInHierarchy);
+            pauseMenu.DeactivateOrActivate();
         }
     }
 
@@ -672,19 +673,19 @@ public class PlayerController : MonoBehaviour
 
     public void setEXP(int EXP)
     {
-        myStats.xp += EXP;
-        if(myStats.xp > myStats.xpToNextLevel)
-        {
-            myStats.LevelUp();
-            myBar.setEXP(0);
-            myBar.setMaxEXP(myStats.xpToNextLevel);
-            myBar.setHealth(myStats.Health);
-            LevelUp.Play();
-        }
-        else
-        {
-            myBar.setEXP(myStats.xp);
-        }
+        //myStats.xp += EXP;
+        //if(myStats.xp > myStats.xpToNextLevel)
+        //{
+        //    myStats.LevelUp();
+        //    myBar.setEXP(0);
+        //    myBar.setMaxEXP(myStats.xpToNextLevel);
+        //    myBar.setHealth(myStats.Health);
+        //    LevelUp.Play();
+        //}
+        //else
+        //{
+        //    myBar.setEXP(myStats.xp);
+        //}
     }
 
     public void addCoin(int num)
@@ -745,6 +746,21 @@ public class PlayerController : MonoBehaviour
     public void PlayAnimation(string animName)
     {
         anim.Play(animName);
+    }
+
+    public void Cleanup()
+    {
+        if(myStats.vitamin != null)
+        {
+            myStats.vitamin.DestroyCheck();
+        }
+        if(myStats.juiceBox != null)
+        {
+            myStats.juiceBox.DestroyCheck();
+        }
+        Destroy(shadow);
+        Destroy(jumpSmokeGameObj);
+        Destroy(gameObject);
     }
 
     #endregion

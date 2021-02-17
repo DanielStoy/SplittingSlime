@@ -24,9 +24,18 @@ public class StatusBar : MonoBehaviour
     private float abilityOneTime;
     private float abilityTwoTime;
 
-    private void Start()
+    private void Awake()
     {
-
+        abilityOne = ab1.GetComponent<Image>().material;
+        abilityTwo = ab2.GetComponent<Image>().material;
+        if (abilityOneTime == 0)
+        {
+            abilityOne.SetFloat("_Fade", 1);
+        }
+        if (abilityTwoTime == 0)
+        {
+            abilityOne.SetFloat("_Fade", 1);
+        }
     }
 
 
@@ -89,25 +98,25 @@ public class StatusBar : MonoBehaviour
 
     public void SetAbilityOne(float t)
     {
-        //float currentTime = 1 + (t / abilityOneTime) * 2;
-        //abilityOne.SetFloat("_Fade", currentTime);
+        float currentTime = 1 + (t / abilityOneTime) * 2;
+        abilityOne.SetFloat("_Fade", currentTime);
     }
 
     public void SetAbilityTwo(float t)
     {
-        //float currentTime = 1 + (t / abilityOneTime) * 2;
-        //abilityTwo.SetFloat("_Fade", currentTime);
+        float currentTime = 1 + (t / abilityOneTime) * 2;
+        abilityTwo.SetFloat("_Fade", currentTime);
     }
 
     public void SetAbilityOneTotal(float totalTime)
     {
-        //abilityOneTime = totalTime;
-        //abilityOne.SetFloat("_Fade", 3);
+        abilityOneTime = totalTime;
+        abilityOne.SetFloat("_Fade", 3);
     }
 
     public void SetAbilityTwoTotal(float totalTime)
     {
-        //abilityTwoTime = totalTime;
-        //abilityTwo.SetFloat("_Fade", 3);
+        abilityTwoTime = totalTime;
+        abilityTwo.SetFloat("_Fade", 3);
     }
 }

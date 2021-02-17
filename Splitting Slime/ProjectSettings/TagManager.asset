@@ -6,6 +6,12 @@ TagManager:
   tags:
   - AttackableItem
   - WeaponHolder
+  - Food
+  - Ranged
+  - HomingMissle
+  - Enemy
+  - Coin
+  - Throwable
   layers:
   - Default
   - TransparentFX

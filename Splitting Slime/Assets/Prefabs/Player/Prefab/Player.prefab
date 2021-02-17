@@ -5107,7 +5107,7 @@ MonoBehaviour:
   moving: 0
   shadowPrefab: {fileID: 7822470896865296092, guid: fcbd4588e28811b47a1486609a95b392,
     type: 3}
-  jumpSmokeGameObj: {fileID: 3327731052269887141, guid: 063f5b3f2dbedb04397a02324d1a90f4,
+  jumpSmokePrefab: {fileID: 3327731052269887141, guid: 063f5b3f2dbedb04397a02324d1a90f4,
     type: 3}
   yTethering: -0.23
   layerMask:

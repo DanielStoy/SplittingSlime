@@ -1,0 +1,181 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Forest
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 9db54a59665c0f244b1ddf8bf6db0c1a, type: 3}
+    - {fileID: 102900000, guid: 7a554556b31d41d4999dbd1dfacf8705, type: 3}
+    - {fileID: 2800000, guid: cae756a75f74015429ade904d2ea9b61, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 544242575772109918, guid: c2f8c4701756f7c488b746055b351692, type: 3}
+  - {fileID: 5864472908864727242, guid: c2f8c4701756f7c488b746055b351692, type: 3}
+  - {fileID: -2987812513453213761, guid: c2f8c4701756f7c488b746055b351692, type: 3}
+  - {fileID: -4514992151487337349, guid: c2f8c4701756f7c488b746055b351692, type: 3}
+  - {fileID: 6310551856943810990, guid: 128ee1c0d9b29e74398cf6ff2452f3f4, type: 3}
+  - {fileID: 388728847261937427, guid: 128ee1c0d9b29e74398cf6ff2452f3f4, type: 3}
+  - {fileID: 1196640009634500340, guid: 128ee1c0d9b29e74398cf6ff2452f3f4, type: 3}
+  - {fileID: 3405022716044473483, guid: 8f8a6572c9459c84a88843d2f02530ef, type: 3}
+  - {fileID: -2751950478600520663, guid: 8f8a6572c9459c84a88843d2f02530ef, type: 3}
+  - {fileID: -2068707922833196177, guid: 8f8a6572c9459c84a88843d2f02530ef, type: 3}
+  - {fileID: 46566200525826669, guid: 8f8a6572c9459c84a88843d2f02530ef, type: 3}
+  - {fileID: 5975944896922842262, guid: 8f8a6572c9459c84a88843d2f02530ef, type: 3}
+  - {fileID: -8274716146211852402, guid: 8f8a6572c9459c84a88843d2f02530ef, type: 3}
+  - {fileID: -117036994619750582, guid: 8f8a6572c9459c84a88843d2f02530ef, type: 3}
+  - {fileID: -103581800724015448, guid: b00638b34250c384791973df0e8650e3, type: 3}
+  - {fileID: -4141272150840203087, guid: b00638b34250c384791973df0e8650e3, type: 3}
+  - {fileID: -1478313479295197706, guid: b00638b34250c384791973df0e8650e3, type: 3}
+  - {fileID: 413108312469256093, guid: b00638b34250c384791973df0e8650e3, type: 3}
+  - {fileID: 5394112217207263753, guid: b00638b34250c384791973df0e8650e3, type: 3}
+  - {fileID: 3176301398767384372, guid: b00638b34250c384791973df0e8650e3, type: 3}
+  - {fileID: 4739872749925967703, guid: b00638b34250c384791973df0e8650e3, type: 3}
+  - {fileID: -8689736869668865567, guid: 550940e5f3089a643bc2b7363e29d457, type: 3}
+  - {fileID: -8592219637115552108, guid: 550940e5f3089a643bc2b7363e29d457, type: 3}
+  - {fileID: -2207655578475810022, guid: 550940e5f3089a643bc2b7363e29d457, type: 3}
+  - {fileID: -1993029667141634413, guid: 550940e5f3089a643bc2b7363e29d457, type: 3}
+  - {fileID: 2443663854214157728, guid: 550940e5f3089a643bc2b7363e29d457, type: 3}
+  - {fileID: 4306919205592441944, guid: 550940e5f3089a643bc2b7363e29d457, type: 3}
+  - {fileID: 6265430883923333650, guid: 550940e5f3089a643bc2b7363e29d457, type: 3}
+  - {fileID: 3549389175419285074, guid: 550940e5f3089a643bc2b7363e29d457, type: 3}
+  - {fileID: -1162038064805254485, guid: 550940e5f3089a643bc2b7363e29d457, type: 3}
+  - {fileID: 5227357176620931223, guid: 550940e5f3089a643bc2b7363e29d457, type: 3}
+  - {fileID: 21300000, guid: cae756a75f74015429ade904d2ea9b61, type: 3}
+  - {fileID: -383863268886316372, guid: 20d60cd77c51ccc41807319c9b6d5f67, type: 3}
+  - {fileID: -4351836009393237151, guid: 20d60cd77c51ccc41807319c9b6d5f67, type: 3}
+  - {fileID: -535514810892084367, guid: 20d60cd77c51ccc41807319c9b6d5f67, type: 3}
+  - {fileID: -4204240872622116785, guid: 20d60cd77c51ccc41807319c9b6d5f67, type: 3}
+  - {fileID: 8920079532879194953, guid: 20d60cd77c51ccc41807319c9b6d5f67, type: 3}
+  - {fileID: -4496333706815295942, guid: 6493a2e86c51b10448a1bd9f12912292, type: 3}
+  - {fileID: 4905089589794207994, guid: 6493a2e86c51b10448a1bd9f12912292, type: 3}
+  - {fileID: 7088738488341735665, guid: 6493a2e86c51b10448a1bd9f12912292, type: 3}
+  - {fileID: -892901237005330383, guid: 6493a2e86c51b10448a1bd9f12912292, type: 3}
+  - {fileID: 4335387795216124807, guid: 6493a2e86c51b10448a1bd9f12912292, type: 3}
+  - {fileID: 8324852437051333568, guid: 6493a2e86c51b10448a1bd9f12912292, type: 3}
+  - {fileID: -4693372062916658562, guid: 6493a2e86c51b10448a1bd9f12912292, type: 3}
+  - {fileID: 1854418602024039321, guid: 6493a2e86c51b10448a1bd9f12912292, type: 3}
+  - {fileID: -4471375471125918262, guid: 6493a2e86c51b10448a1bd9f12912292, type: 3}
+  - {fileID: 5993692503039747466, guid: 6493a2e86c51b10448a1bd9f12912292, type: 3}
+  - {fileID: -4588568181792068325, guid: 6493a2e86c51b10448a1bd9f12912292, type: 3}
+  - {fileID: 2895896694293510412, guid: 6493a2e86c51b10448a1bd9f12912292, type: 3}
+  - {fileID: 7790269222094395857, guid: 6493a2e86c51b10448a1bd9f12912292, type: 3}
+  - {fileID: -152928632558713117, guid: 6493a2e86c51b10448a1bd9f12912292, type: 3}
+  - {fileID: 1734313898062845512, guid: 788a00d9177c7b44692ade38643e78b2, type: 3}
+  - {fileID: 6169186537007165969, guid: 788a00d9177c7b44692ade38643e78b2, type: 3}
+  - {fileID: 5668680457448248911, guid: 788a00d9177c7b44692ade38643e78b2, type: 3}
+  - {fileID: -3990347672703611937, guid: 788a00d9177c7b44692ade38643e78b2, type: 3}
+  - {fileID: 3986605314412098586, guid: 788a00d9177c7b44692ade38643e78b2, type: 3}
+  - {fileID: 8471896587746880960, guid: fffccecf2be9bb34baee5cd4339f4673, type: 3}
+  - {fileID: -3807552537238365899, guid: fffccecf2be9bb34baee5cd4339f4673, type: 3}
+  - {fileID: 5988808699965903586, guid: fffccecf2be9bb34baee5cd4339f4673, type: 3}
+  - {fileID: -8572871857910571077, guid: fffccecf2be9bb34baee5cd4339f4673, type: 3}
+  - {fileID: -1586057765678477943, guid: fffccecf2be9bb34baee5cd4339f4673, type: 3}
+  - {fileID: 3589141288012625067, guid: fffccecf2be9bb34baee5cd4339f4673, type: 3}
+  - {fileID: 6019618053972925962, guid: fffccecf2be9bb34baee5cd4339f4673, type: 3}
+  - {fileID: -9222869013785964754, guid: fffccecf2be9bb34baee5cd4339f4673, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - tree door_0
+  - tree door_1
+  - tree door_2
+  - tree door_3
+  - last 2 foreground items_1
+  - last 2 foreground items_0
+  - last 2 foreground items_2
+  - last foreground universal items_4
+  - last foreground universal items_5
+  - last foreground universal items_6
+  - last foreground universal items_0
+  - last foreground universal items_1
+  - last foreground universal items_2
+  - last foreground universal items_3
+  - tree elevator foreground items_3
+  - tree elevator foreground items_2
+  - tree elevator foreground items_1
+  - tree elevator foreground items_0
+  - tree elevator foreground items_6
+  - tree elevator foreground items_5
+  - tree elevator foreground items_4
+  - candy house_9
+  - candy house_8
+  - candy house_7
+  - candy house_6
+  - candy house_5
+  - candy house_4
+  - candy house_3
+  - candy house_2
+  - candy house_1
+  - candy house_0
+  - bushes
+  - tree eye_4
+  - tree eye_1
+  - tree eye_0
+  - tree eye_3
+  - tree eye_2
+  - cave and other features_12
+  - cave and other features_13
+  - cave and other features_10
+  - cave and other features_11
+  - cave and other features_7
+  - cave and other features_6
+  - cave and other features_5
+  - cave and other features_4
+  - cave and other features_3
+  - cave and other features_2
+  - cave and other features_1
+  - cave and other features_0
+  - cave and other features_9
+  - cave and other features_8
+  - tree eye revised_1
+  - tree eye revised_0
+  - tree eye revised_3
+  - tree eye revised_2
+  - tree eye revised_4
+  - castle shards_7
+  - castle shards_6
+  - castle shards_5
+  - castle shards_4
+  - castle shards_3
+  - castle shards_2
+  - castle shards_1
+  - castle shards_0
+  m_Tag: Forest
+  m_IsVariant: 0
