@@ -8,11 +8,11 @@ using UnityEngine.SceneManagement;
 public class AnimateMainMenu : MonoBehaviour
 {
     [SerializeField]
-    Transform sword_1, sword_2;
+    RectTransform sword_1, sword_2;
 
     [SerializeField]
-    Transform[] menus;
-    Transform currentMenu;
+    RectTransform[] menus;
+    RectTransform currentMenu;
     int currentNum = 0;
     [SerializeField]
     Button[] mainMenuButtons, startButtons, optionsButtons, creditButtons;
@@ -20,8 +20,8 @@ public class AnimateMainMenu : MonoBehaviour
     public List<Button[]> Buttons = new List<Button[]>();
     void Start()
     {
-        transform.DOMoveY(transform.position.y - 1555, 1.5f).OnComplete(Callback_2);
-        currentMenu = transform;
+        menus[0].DOAnchorPosY(0, 2).OnComplete(Callback_2);
+        currentMenu = menus[0];
         Buttons.Add(mainMenuButtons);
         Buttons.Add(optionsButtons);
         Buttons.Add(startButtons);
@@ -34,8 +34,8 @@ public class AnimateMainMenu : MonoBehaviour
 
     void Callback_2()
     {
-        sword_1.DOMove(new Vector3(transform.position.x - 122, transform.position.y + 1500, 0),2);
-        sword_2.DOMove(new Vector3(transform.position.x + 122, transform.position.y + 1500, 0), 2).OnComplete(Callback_3);
+        sword_1.DOAnchorPos(new Vector2(-122, -112),2);
+        sword_2.DOAnchorPos(new Vector2(122, -112), 2).OnComplete(Callback_3);
     }
 
     void Callback_3()
@@ -48,17 +48,18 @@ public class AnimateMainMenu : MonoBehaviour
 
     public void SlideOutCurrent(int i)
     {
+        RectTransform menuToMove = currentMenu;
         for(int c = 0; c < Buttons[currentNum].Length; c++)
         {
             Buttons[currentNum][c].interactable = false;
         }
-        currentMenu.DOMoveX(currentMenu.position.x - 3000, 1.5f).OnComplete(()=> SlideOutCallback(i));
+        currentMenu.DOAnchorPosX(-3000, 1.3f).OnComplete(()=> SlideOutCallback(menuToMove));
+        SlideInItem(i);
     }
 
-    void SlideOutCallback(int i)
+    void SlideOutCallback(RectTransform menuToMove)
     {
-        currentMenu.position = new Vector3(currentMenu.position.x + 6000, currentMenu.position.y + 0, 0);
-        SlideInItem(i);
+        menuToMove.anchoredPosition = new Vector3(3000, 0, 0);
     }
 
     public void SlideInItem(int i)
@@ -69,7 +70,7 @@ public class AnimateMainMenu : MonoBehaviour
         {
             Buttons[currentNum][c].interactable = false;
         }
-        menus[i].DOMoveX(transform.position.x - 3000, 1.5f).OnComplete(SlideInCallBack);
+        menus[i].DOAnchorPosX(0, 1.5f).OnComplete(SlideInCallBack);
     }
 
     private void SlideInCallBack()
@@ -88,7 +89,7 @@ public class AnimateMainMenu : MonoBehaviour
     //TODO: Do something here
     public void LoadGame()
     {
-
+        Debug.Log("Not Implemented");
     }
 
     public void QuitGame()

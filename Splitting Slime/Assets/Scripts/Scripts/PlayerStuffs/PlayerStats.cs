@@ -34,7 +34,7 @@ public class PlayerStats : Stats
         Health = 100;
         maxHealth = 100;
         Strength = 1;
-        Speed = 1;
+        Speed = 1.5f;
         Range = 1;
         xp = 0;
         level = 0;

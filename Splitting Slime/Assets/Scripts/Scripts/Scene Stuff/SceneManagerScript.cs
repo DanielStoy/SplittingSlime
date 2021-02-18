@@ -12,6 +12,7 @@ public class SceneManagerScript : MonoBehaviour
     private GameObject statusCanvas, loadingScreen;
     AsyncOperation op;
     public int spawnIndex = 0;
+    public string Boi { get; }
 
     private void Awake()
     {
@@ -25,6 +26,7 @@ public class SceneManagerScript : MonoBehaviour
     public void loadScene(SceneIndex index)
     {
         statusCanvas.SetActive(false);
+        loadingScreen.SetActive(true);
         SceneManager.UnloadSceneAsync((int)currentScene);
         op = SceneManager.LoadSceneAsync((int)index, LoadSceneMode.Additive);
         currentScene = index;
@@ -35,6 +37,7 @@ public class SceneManagerScript : MonoBehaviour
     {
         while (!op.isDone)
             yield return null;
+        loadingScreen.SetActive(false);
         statusCanvas.SetActive(activateCanvas);
         SceneManager.SetActiveScene(SceneManager.GetSceneByBuildIndex((int)currentScene));
     }

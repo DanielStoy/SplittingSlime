@@ -16,6 +16,8 @@ public class PlayerSpawner : MonoBehaviour
     private Vector3 CameraChangeMin, cameraChangeMax;
     [SerializeField]
     private TriggerEvent eventToTrigger;
+    [SerializeField]
+    private bool skipCutscene = false;
 
     public void SpawnPlayer()
     {
@@ -64,7 +66,7 @@ public class PlayerSpawner : MonoBehaviour
 
     private void SetupDirector()
     {
-        if (dir != null)
+        if (dir != null && !skipCutscene)
         {
             playerGFX = PlayerManager.instance.Player.transform.GetChild(0).gameObject;
             PlayerSword = PlayerManager.instance.Player.transform.GetChild(1).gameObject;
@@ -103,6 +105,24 @@ public class PlayerSpawner : MonoBehaviour
             playerControl = PlayerManager.instance.Player.GetComponent<PlayerController>();
         }
         playerControl.canPlay = true;
+    }
+
+    public void HideStatusBar()
+    {
+        if(playerControl == null)
+        {
+            playerControl = PlayerManager.instance.Player.GetComponent<PlayerController>();
+        }
+        playerControl.HideStatusBar();
+    }
+
+    public void ShowStatusBar()
+    {
+        if (playerControl == null)
+        {
+            playerControl = PlayerManager.instance.Player.GetComponent<PlayerController>();
+        }
+        playerControl.ShowStatusBar();
     }
 
     public void DisablePlayer()

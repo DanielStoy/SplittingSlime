@@ -13,7 +13,6 @@ public class CameraBehavior : MonoBehaviour
     public Vector3 minPosition;
     public Vector3 maxPosition;
     public bool cinematic = false;
-    // Start is called before the first frame update
 
     private void Awake()
     {

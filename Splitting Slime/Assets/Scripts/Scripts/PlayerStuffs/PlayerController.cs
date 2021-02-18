@@ -579,20 +579,20 @@ public class PlayerController : MonoBehaviour
     //Ranged
     private void rangedAttack()
     {
-        if (Input.GetButtonDown("RangedAttack") && fastAttackNum == 0 && !rangedAttackActive)
-        {
-            fireRangedBlob();
-            rangedAttackActive = true;
-        }
-        if (rangedAttackActive)
-        {
-            rangedAttackTime += Time.deltaTime;
-        }
-        if (rangedAttackTime > 10 - ((myStats.Range / 25) * 10))
-        {
-            rangedAttackActive = false;
-            rangedAttackTime = 0;
-        }
+        //if (Input.GetButtonDown("RangedAttack") && fastAttackNum == 0 && !rangedAttackActive)
+        //{
+        //    fireRangedBlob();
+        //    rangedAttackActive = true;
+        //}
+        //if (rangedAttackActive)
+        //{
+        //    rangedAttackTime += Time.deltaTime;
+        //}
+        //if (rangedAttackTime > 10 - ((myStats.Range / 25) * 10))
+        //{
+        //    rangedAttackActive = false;
+        //    rangedAttackTime = 0;
+        //}
     }
 
     public void fireRangedBlob()
@@ -761,6 +761,16 @@ public class PlayerController : MonoBehaviour
         Destroy(shadow);
         Destroy(jumpSmokeGameObj);
         Destroy(gameObject);
+    }
+
+    public void HideStatusBar()
+    {
+        statusBar.SetActive(false);
+    }
+
+    public void ShowStatusBar()
+    {
+        statusBar.SetActive(true);
     }
 
     #endregion
