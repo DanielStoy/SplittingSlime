@@ -41,6 +41,7 @@ public class EnemyGeneralEvents : MonoBehaviour
     public void activateAttack()
     {
         attackBox.SetActive(true);
+        enem.PlayAttackSound();
     }
 
     public void deactivateAttack()
@@ -69,6 +70,7 @@ public class EnemyGeneralEvents : MonoBehaviour
     public void throwObject()
     {
         enem.throwItem(throwableTag, flipThrowable);
+        enem.PlayThrowSound();
     }
 
     public void endStun()

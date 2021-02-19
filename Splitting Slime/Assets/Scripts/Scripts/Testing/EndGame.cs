@@ -20,6 +20,7 @@ public class EndGame : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
+            AudioManager.instance.StopMusic();
             player.HideStatusBar();
             player.canPlay = false;
             behavior.cinematic = true;

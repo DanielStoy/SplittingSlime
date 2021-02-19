@@ -29,11 +29,14 @@ public class TreeBossMoveController : Boss
     private float appleDropTotalDistanceZ;
     private float appleDropTotalDistanceY;
     private float appleDropTime = .25f;
+    [SerializeField]
     private int appleTotal = 30;
     public float[] applePercentageChance = new float[3] { 51, 31, 2 };
 
     //Lazer
     public bool LazerActive = false;
+    [SerializeField]
+    private GameObject Lazer;
     public float[] lazerPercentageChance = new float[3] { 31, 0, 10 };
 
     //WeaponSwing
@@ -244,12 +247,12 @@ public class TreeBossMoveController : Boss
         else if(health < stages[1])
         {
             appleDropTime = .15f;
-            appleTotal = 60;
+            appleTotal = 50;
         }
         else if(health < stages[2])
         {
             appleDropTime = .1f;
-            appleTotal = 70;
+            appleTotal = 60;
         }
 
         healthBar.setHealth(health);
@@ -258,6 +261,7 @@ public class TreeBossMoveController : Boss
         {
             dead = true;
             StopAllCoroutines();
+            Lazer.SetActive(false);
             anim.SetInteger(stateHash, 4);
             healthBar.deactivate();
         }

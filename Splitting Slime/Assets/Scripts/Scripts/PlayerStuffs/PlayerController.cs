@@ -652,7 +652,9 @@ public class PlayerController : MonoBehaviour
             {
                 myStats.Health = 0;
                 myBar.setHealth(0);
-                //die
+                SceneManagerScript.instance.loadScene((SceneIndex)SceneManagerScript.instance.GetCurrentScene());
+                myStats.Health = myStats.maxHealth;
+                myBar.setHealth(myStats.maxHealth);
             }
             else
             {

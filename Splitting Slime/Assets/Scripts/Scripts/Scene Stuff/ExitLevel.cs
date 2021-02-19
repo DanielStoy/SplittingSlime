@@ -51,5 +51,6 @@ public class ExitLevel : MonoBehaviour
     {
         playerControl.canPlay = true;
         SceneManagerScript.instance.loadScene(chosenIndex);
+        AudioManager.instance.StopMusic();
     }
 }

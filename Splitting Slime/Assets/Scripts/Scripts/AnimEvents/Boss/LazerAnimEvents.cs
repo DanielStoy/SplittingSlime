@@ -8,6 +8,8 @@ public class LazerAnimEvents : MonoBehaviour
     public GameObject LazerReady;
     public GameObject LazerGFX;
     PlayerController player;
+    [SerializeField]
+    private AudioClip lazerSound;
     private void Start()
     {
         control = transform.root.GetComponent<TreeBossMoveController>();
@@ -33,5 +35,10 @@ public class LazerAnimEvents : MonoBehaviour
             }
             player.TakeDamage(10);
         }
+    }
+
+    public void PlayeLazerSound()
+    {
+        AudioManager.instance.PlaySFX(lazerSound);
     }
 }

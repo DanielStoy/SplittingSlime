@@ -6,6 +6,8 @@ public class SwordAnimEvents : MonoBehaviour
 {
     private Animator anim;
     PlayerController player;
+    [SerializeField]
+    private AudioClip swordSwingSound;
 
     private void Start()
     {
@@ -25,5 +27,10 @@ public class SwordAnimEvents : MonoBehaviour
         {
             player.TakeDamage(10);
         }
+    }
+
+    public void PlayerSwingSound()
+    {
+
     }
 }

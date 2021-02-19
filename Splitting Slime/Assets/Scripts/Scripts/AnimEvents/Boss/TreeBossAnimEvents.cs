@@ -11,6 +11,8 @@ public class TreeBossAnimEvents : MonoBehaviour
     public Transform projectileSpawn;
     [SerializeField]
     private GameObject sword, portal, baseObj;
+    [SerializeField]
+    private AudioClip projectileShotSound;
 
     private List<GameObject> projectiles = new List<GameObject>();
     void Start()
@@ -37,6 +39,7 @@ public class TreeBossAnimEvents : MonoBehaviour
     public void ProjectileShot()
     {
         GameObject g = ObjectPooling.instance.SpawnFromPool("ProjectileShot", projectileSpawn.position, Quaternion.identity, false).gameObject;
+        AudioManager.instance.PlaySFX(projectileShotSound);
         if (projectiles.Count < 20)
             projectiles.Add(g);
     }

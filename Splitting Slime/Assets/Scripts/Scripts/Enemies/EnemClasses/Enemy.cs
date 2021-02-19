@@ -18,6 +18,12 @@ public abstract class Enemy : MonoBehaviour
     protected EnemyAttackBox attackBoxScript;
     protected PlayerController player;
 
+    [Header("Sound")]
+    [SerializeField]
+    private AudioClip throwSound;
+    [SerializeField]
+    private AudioClip attackSound;
+
     [Header("Navmesh Agent Stuff")]
     protected NavMeshAgent agent;
     public bool hoverCoreutineOn = false;
@@ -468,6 +474,22 @@ public abstract class Enemy : MonoBehaviour
         returnableObject throwable = ObjectPooling.instance.SpawnFromPool(tag, throwHolder.transform.position, Quaternion.identity, true, true, transform.localScale.x);
         Transform throwableTrans = throwable.gameObject.transform;
         throwableTrans.DOMove(new Vector3(transform.position.x + (enemyRangedRange * transform.localScale.x), Target.position.y, transform.position.z), throwSpeed).OnComplete(() => returnItemToStack(tag, throwable));
+    }
+
+    public void PlayThrowSound()
+    {
+        if(throwSound != null)
+        {
+            AudioManager.instance.PlaySFX(throwSound);
+        }
+    }
+
+    public void PlayAttackSound()
+    {
+        if(attackSound != null)
+        {
+            AudioManager.instance.PlaySFX(attackSound);
+        }
     }
 
     public void returnItemToStack(string tag, returnableObject returnable)

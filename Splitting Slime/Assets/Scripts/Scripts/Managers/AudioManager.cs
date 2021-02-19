@@ -20,7 +20,6 @@ public class AudioManager : MonoBehaviour
 
     public void PlayMusic(AudioClip musicClip)
     {
-
         AudioSource activeSource = (firstMusicSourceIsPlaying) ? musicSource : musicSource2;
         activeSource.clip = musicClip;
         activeSource.volume = 1;
@@ -96,6 +95,12 @@ public class AudioManager : MonoBehaviour
     {
         musicSource.volume = volume;
         musicSource2.volume = volume;
+    }
+
+    public void StopMusic()
+    {
+        musicSource.Stop();
+        musicSource2.Stop();
     }
 
     public void setSFXVolume(float volume)

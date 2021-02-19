@@ -254,6 +254,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e098025558486de4b864d76bafeed9a1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  throwSound: {fileID: 8300000, guid: 135479145a5dc4d41bd51255764558eb, type: 3}
+  attackSound: {fileID: 0}
   hoverCoreutineOn: 0
   myStats:
     maxHealth: 0
