@@ -2419,16 +2419,34 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5814798046855207843, guid: 83a021bdde35ea54490475dcbb6131d0,
+        type: 3}
+      propertyPath: OutputAudioMixerGroup
+      value: 
+      objectReference: {fileID: 24300002, guid: 63cec338af04df141ab9240be801aa0a,
+        type: 2}
     - target: {fileID: 5814798046855207864, guid: 83a021bdde35ea54490475dcbb6131d0,
         type: 3}
       propertyPath: m_Name
       value: _SFXManager
       objectReference: {fileID: 0}
+    - target: {fileID: 5814798046855207868, guid: 83a021bdde35ea54490475dcbb6131d0,
+        type: 3}
+      propertyPath: OutputAudioMixerGroup
+      value: 
+      objectReference: {fileID: 24300002, guid: 63cec338af04df141ab9240be801aa0a,
+        type: 2}
     - target: {fileID: 5814798046855207869, guid: 83a021bdde35ea54490475dcbb6131d0,
         type: 3}
       propertyPath: m_Volume
       value: 0.45
       objectReference: {fileID: 0}
+    - target: {fileID: 5814798046855207869, guid: 83a021bdde35ea54490475dcbb6131d0,
+        type: 3}
+      propertyPath: OutputAudioMixerGroup
+      value: 
+      objectReference: {fileID: 24300002, guid: 63cec338af04df141ab9240be801aa0a,
+        type: 2}
     - target: {fileID: 5814798046855207871, guid: 83a021bdde35ea54490475dcbb6131d0,
         type: 3}
       propertyPath: m_LocalPosition.x

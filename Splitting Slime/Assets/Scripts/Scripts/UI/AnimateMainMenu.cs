@@ -86,12 +86,6 @@ public class AnimateMainMenu : MonoBehaviour
         SceneManagerScript.instance.loadScene(SceneIndex.ForestSceneOne);
     }
 
-    //TODO: Do something here
-    public void LoadGame()
-    {
-        Debug.Log("Not Implemented");
-    }
-
     public void QuitGame()
     {
         Application.Quit();
