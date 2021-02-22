@@ -1,2 +1,7 @@
 Base path: 'C:/Program Files/Unity/Hub/Editor/2019.4.15f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.4.15f1/Editor/Data/PlaybackEngines'
 Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=9 insize=9103 outsize=6218 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Testing.vfx(98): use of potentially uninitialized variable (GetParticleIndex)
+  api=4 insize=6757 outsize=1325 ok=1

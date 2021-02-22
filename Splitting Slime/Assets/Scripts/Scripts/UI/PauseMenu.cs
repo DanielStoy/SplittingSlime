@@ -5,6 +5,7 @@ using UnityEngine;
 public class PauseMenu : MonoBehaviour
 {
     bool isActive = false;
+    PlayerController player;
 
     public void DeactivateOrActivate()
     {
@@ -16,6 +17,7 @@ public class PauseMenu : MonoBehaviour
     {
         isActive = false;
         gameObject.SetActive(false);
+        PlayerManager.instance.Player.GetComponent<PlayerController>().paused = false;
     }
 
     public void QuitToTitle()

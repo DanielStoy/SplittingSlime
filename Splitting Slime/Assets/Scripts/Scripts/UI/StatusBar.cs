@@ -18,23 +18,21 @@ public class StatusBar : MonoBehaviour
 
     public GameObject ab1;
     public GameObject ab2;
-    private Material abilityOne;
-    private Material abilityTwo;
+    [SerializeField]
+    private Material abilityOne, abilityTwo;
 
-    private float abilityOneTime;
-    private float abilityTwoTime;
+    private float abilityOneTime = 0;
+    private float abilityTwoTime = 0;
 
     private void Awake()
     {
-        abilityOne = ab1.GetComponent<Image>().material;
-        abilityTwo = ab2.GetComponent<Image>().material;
         if (abilityOneTime == 0)
         {
             abilityOne.SetFloat("_Fade", 1);
         }
         if (abilityTwoTime == 0)
         {
-            abilityOne.SetFloat("_Fade", 1);
+            abilityTwo.SetFloat("_Fade", 1);
         }
     }
 

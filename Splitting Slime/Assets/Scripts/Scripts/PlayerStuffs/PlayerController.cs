@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using DG.Tweening;
 using UnityEngine.VFX;
-using UnityEditor.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
@@ -16,7 +15,7 @@ public class PlayerController : MonoBehaviour
     //private CharacterState playerState;
 
     //Pause
-    private bool paused;
+    public bool paused;
     private PauseMenu pauseMenu;
     public bool canPlay = true;
 
@@ -652,9 +651,7 @@ public class PlayerController : MonoBehaviour
             {
                 myStats.Health = 0;
                 myBar.setHealth(0);
-                SceneManagerScript.instance.loadScene((SceneIndex)SceneManagerScript.instance.GetCurrentScene());
-                myStats.Health = myStats.maxHealth;
-                myBar.setHealth(myStats.maxHealth);
+                Death();
             }
             else
             {
@@ -663,6 +660,13 @@ public class PlayerController : MonoBehaviour
             }
         }
         
+    }
+
+    private void Death(){
+        clearMoveBounds();
+        SceneManagerScript.instance.loadScene((SceneIndex)SceneManagerScript.instance.GetCurrentScene());
+        myStats.Health = myStats.maxHealth;
+        myBar.setHealth(myStats.maxHealth);
     }
 
     public void AddHealth(float amount)
